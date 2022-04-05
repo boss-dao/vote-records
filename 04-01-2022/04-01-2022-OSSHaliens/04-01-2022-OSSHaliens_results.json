@@ -1,0 +1,386 @@
+{
+    "yesVotes": 461,
+    "noVotes": 594,
+    "voters": {
+        "stake1u97t5flnxqwzmugyasu7heu3qhrf38azf4s33vt8tet3t0sqc74dw": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "00eb3e7cfff598b5c72d5a241690f0a06c6246bd469deebac41278a1382ff018"
+        },
+        "stake1u87c6zqmgjs6hg08ankhpl2ytrg03s5ezlg93hfvjmvxd6szty9mr": {
+            "vote": "Yes",
+            "votes": 6,
+            "votingTx": "06ad66544323fea10526d8b970642f65cbd6111de522b88395a265402aff46ec"
+        },
+        "stake1u80wp2hgjq2z3qsuw2nfk9ax2u5dhyrjwmvzkjlan3c7rwsth8z9c": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "152527055f5a29d39c663ba9df71ce7f3c23cb065edbbd8d7fb5e84eba86f02d"
+        },
+        "stake1u96wkv5xfqzvs0rxhpllmptqmqsddse2ldl5muzt4emes8s9m54k0": {
+            "vote": "Yes",
+            "votes": 5,
+            "votingTx": "15273ac22c7aeeccd5c198030069614646ff45ab91da9981cfa3c2db615b3afe"
+        },
+        "stake1uxa5rnr8tna3yvml6y58mrgklwwjkwl680ec0f6ewxs984sq2hsru": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "175ff87d954efacd7a3111d0041178c9ee87e18f1fe538a3c7c47bb9f74e55d2"
+        },
+        "stake1uy049v869unuew07pa0caa4hltlrcpum0aqelumf28fantclt2ky3": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "19ae63541cd78bbc0aadab5562048eb164eb3f56fad5d38f140cb67b18c54b31"
+        },
+        "stake1u9p3dn5lk5rc8qn7d9uxleh3x78a8tu2nrhl44vsc6fvqwqmzrgd7": {
+            "vote": "Yes",
+            "votes": 4,
+            "votingTx": "2f1940bfbeddbc7313c5cfa55461faa9d1110a7e9e4faa8650efa9d5b558a178"
+        },
+        "stake1u9x794zzkldq2n7pt43hugq86jz6lswcgkkhzkqs2v6psucyvr6v6": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "359629e305a0c4a37683a3030ea8e8066adc28a5a31328847797d62149d1e3f6"
+        },
+        "stake1u9xuqc2q8awpuh6787mllg2rhclqxfz248z8rldlreyfprgm4jm0j": {
+            "vote": "Yes",
+            "votes": 8,
+            "votingTx": "45bca2af517ef8d9d874777ccac96dfce9217afbe9c368c269e42455c73637ce"
+        },
+        "stake1uygqly7xcmz2gsnawtx9axsltmf28uq560xsjqagwe6xpsq736hfe": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "488d03f85f8ff3b5857549aa5d6ef0b39900e6598ac9b07d45b2ab75c387b6db"
+        },
+        "stake1u887p78p8gawg8ce5gm4n8d9gkflqtmpgygujsxwul0e2jqz3vy08": {
+            "vote": "Yes",
+            "votes": 10,
+            "votingTx": "5bbfde9e9f918afd184634cd1a4ac82d5a0e85ddc96a5fafbc3fa54e7c27d838"
+        },
+        "stake1ux78vxjl4lun3l6q77zu9rmx5hxtlcwkshycgd0grqn9vystus3tq": {
+            "vote": "Yes",
+            "votes": 22,
+            "votingTx": "5e2f790ec282c916bf43733c1f8ae3f5451c920f62a094917eca48d394b4e314"
+        },
+        "stake1uxzf5yq754zves6alyrv4vq0s74urlppkemfdu6ar9vjrlg6p3wk9": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "5fc66cfa965ebf53bc7ff1d6dad201498273184b59d70e4ddf37fdf6e681f158"
+        },
+        "stake1uyhf35mf0mj34xck7g77h6maqegmp9lu4a8qjxdffw3rw6q7474ap": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "6cf06197837f47c081b161f0469515f5f0d6ba00c9c2d8a1dae6baa7434d3d48"
+        },
+        "stake1uxsfhaqhnl7rjhsmsxaea585zms7pvl9znjn24lfttzq02sy6ju9k": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "718498df9e0f31bdb5e09e6b70426782bca30a22945b8217b5e7dcebe4b8de2a"
+        },
+        "stake1u967zhaeg8elymxwzuuln5qzu5q0aft86lgfme0yakv5hqqep3eka": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "737623fa526deb8d12bbe500421a9b42154e03c26185f6a0daa9bca49ba3391f"
+        },
+        "stake1u9nxk2q4sq53hc27g94e54h9sfxgv4y5266tuyplwfm9frsc506ud": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "75da2321f550dfddfe32efde28346508c69f97a97c757e04de455790725fa60d"
+        },
+        "stake1u87v2y26xcy07ptzqyq6ewf307mjrsrmsnl5d5d3wz5a0cqzlc7xj": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "782b482476a1e6864f461413dc2f004f5309dbab5fec1322917cf10e872dacca"
+        },
+        "stake1uykkw62q8ktuj7r6jmwzw7fttx5grsg4kvlc74ml94ya0hc32ta0u": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "7a6b786c524bf875128e164cda0c2168c373f16ac3d55a606e669ce4eec14223"
+        },
+        "stake1u9f3wx0s6mr64f4ct7jzfenajq7lwtl6qs46jt84uyr4nwgqtmacn": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "7d65bea6b8e6f7e8ec200d7486684258fc123229969018cd946dda0aa38e74a5"
+        },
+        "stake1uy7gezs5ya5vzmvr5gd0c7e6vdrfl80xjq6d8yc2ef5djwg4tqv05": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "91c9ad9c06d11f0463c921287f0768c443bdae3a3660c79b06a712de35a854b0"
+        },
+        "stake1uxzhzszy3elr3pcjtc8nrztl98cqsae9t0caxzhpcnp8jvc3s5748": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "969c5cad7b3c63c0be0e98edc647b07dcf872aa732d6c7845b878950f39ee687"
+        },
+        "stake1u9pwpvpu36dp8606fyt9gugwa72s2rrh8jv942mwxx9ggfclf56es": {
+            "vote": "Yes",
+            "votes": 4,
+            "votingTx": "9b9b83065d3e2d6fc898e8032d7b18d0922d99ff582671561ad9a71159b8a404"
+        },
+        "stake1u82g0s6h2dpf2pjqmg66k8ckjmecr3clscr4tzw6y4tq0rgzs5gzw": {
+            "vote": "Yes",
+            "votes": 6,
+            "votingTx": "a003a977d251a5fbf84494c7c7452460cb9b5bbe5b3d7e45eb798e17980d3c9e"
+        },
+        "stake1uxqrlfw5uqma7tfcdnn3ldnjv9fl9fyacefjsxmgvz0hhyc7mq27t": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "a7068b9e5d85d8de48b452022961316c0cb6923e0c2b4a118a493fab5c7d0f8b"
+        },
+        "stake1uyxyfmvmlws5wfpu3dzvs4fxgt22a6j50rwu3pclcqzk5fcf2kjjv": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "a7bd2d278200fb674bdb19e3e15e816a8f0a3159bb5f125fb45c56f1e810407b"
+        },
+        "stake1uy6a4v6vslkawc05a77gfly27su534hxs577td7rxzpfcesqtf8jy": {
+            "vote": "Yes",
+            "votes": 11,
+            "votingTx": "a8ec1b9f622a2cb25b62ade41ea54d0721855fc9cdb257543acbb489dab73768"
+        },
+        "stake1uxrgg7zsa2aanf86l4zwtzhezm5fwy4xtcyyr6580mh8sxghdj6p7": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "a9296bc9e062734576d01bd8c90a46a064f32980c4d67702989c2e19843ff7e9"
+        },
+        "stake1u9w32glfpar73edt82ts5yls8vdg6hwna4sfgfjrqaahc2qphpxhk": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "a9d9d794d318aa6d8bd3d8a642b823e8336f3f5c245f4f214376c96dc253a665"
+        },
+        "stake1u9kk0s57tqnch0q6wetlpn2uvxlgjz4cr5xjn44q90xlupsm9rat3": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "b31ad117717fb9ff3041f4b59a3e6052a8d0622171682f1ae097b9d963399a0c"
+        },
+        "stake1u8rytzqxf5gv6efrhx8j6svgcx0akrju9nur9twam2pjfschj29wr": {
+            "vote": "Yes",
+            "votes": 14,
+            "votingTx": "b63c7dedab948abb21658983a5f1514b619dfeb4bee399882d62d03a274a338b"
+        },
+        "stake1ux28h0qpgh9d738e7yhr9686g2yja6zncsyff3w9q4c02pcyd2tu5": {
+            "vote": "Yes",
+            "votes": 4,
+            "votingTx": "b6ffef29383b444ba56010b3bc95c9e5391e5123e3beb3571e3bcbf15a3bead7"
+        },
+        "stake1ux5atgcy6k93assv4hy82gpww7fykyvum8maplk3zjzw0kghz3j9s": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "c20b87765410aa817082796b923b4861f2bfafe628fe1717a0635983a987c2ac"
+        },
+        "stake1u8mfhyssz9kfqq7cj3tjvfuwjgwnjvf926rr57ake5s34wsvg26rc": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "c4ca27dc1367665c42da8cd0e4884e6e6db134016785f8bcb03594dcad1905fb"
+        },
+        "stake1uyhyzh7v2vghepwyfz7s29cece28newanzhk9ne7s7m6j6c3aw77p": {
+            "vote": "Yes",
+            "votes": 300,
+            "votingTx": "d3a737c120ffe16248457ef04a092a4a6c42b29783044d82ab2b4842ea948865"
+        },
+        "stake1uydwsqt66zzdqd4qt84ydwd6p28f4ng7mfpnjjhhkf42uaqylu085": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "d701f704468c8edc95b26b81f99a68af90e78a03a5f490a9feb1a50a7b3e3e91"
+        },
+        "stake1u9hjgq9p8cscrqql7tc9xhaqufh9ge5drnx2032rts3n74cw2fuhx": {
+            "vote": "Yes",
+            "votes": 9,
+            "votingTx": "ddd8f6d1489ad78a9f0f9b22bb32875159c3a4a7b5c86ef5baf637ee23f55f8c"
+        },
+        "stake1uyxhr78k0y4sa33wyu7mfc2y0ax52vr6ja207wxjcy28g9g28hymr": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "ec2f1204644b2274b2220b36f101f237599346b859bce2a6a5889559a4eb31ca"
+        },
+        "stake1u8rylmmncdmwwwn6h5mj42y2wn7m5ns56zvfdacd4lcljmc2m9fsf": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "f0c4f508362c6dce245038783252aad29d2794017eafb74ed9013c79d2df2aaa"
+        },
+        "stake1u86jk8ll3attnat4rljpv70cff3zuh35m9f84jsvek4varq29wpw3": {
+            "vote": "Yes",
+            "votes": 6,
+            "votingTx": "f4dca6115bfefd597ccf24b3e416a85ad5b1163d6b3bfb8b931bd5eed36fe1b3"
+        },
+        "stake1uxyg95vjhcf7xpfpuqnjupfftfxkfeyf7tm97wju2wnttactv2lgd": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "f9c08cd663567a269b7cab632e15296cbca9222843e212ea6ae3ae479d4faaa7"
+        },
+        "stake1u9qqs44kq9s9hpmfw5vylegcw4904atju3ueeyjwtxasvvgqdtzkr": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "fa75c935cacf17a47cca5ceabf6144f8ddcc2c8588bb4d8642ffd53d0aa038eb"
+        },
+        "stake1uyuzl5am0lhj9xu7xfp6jcs5vmvdm47zcmnuhar3me0radga8782z": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "fe308739d5b9f0e072ba4d499491d1396fbfaff179ed5d4c940a7a0e2b63b1ca"
+        },
+        "stake1u83gn4z67ketp8h989mh8wje2c5e7d5h4h52lhl3y8sxlyq87w63g": {
+            "vote": "No",
+            "votes": 4,
+            "votingTx": "16a814ab981f8765e4fe479db95289c891bbad6c437cc63e0c69b1884a3f9af5"
+        },
+        "stake1u9knryt2h53lmwssye3m8ne85vqnp8dhwqrwf4yrhhs42uq4vkldu": {
+            "vote": "No",
+            "votes": 4,
+            "votingTx": "1d14229aad965572061fd8c1475ef6690da1efb75f3cfde320d7e82e93f3c6eb"
+        },
+        "stake1uxqunnsnwkyn2jdth6xdhj67fmhxpytaf5suufm7pxctq3cttaqqp": {
+            "vote": "No",
+            "votes": 20,
+            "votingTx": "201fe693e58ed8b3ab8e80df97001abbd96501996b11e15aab0256029b664a93"
+        },
+        "stake1u8sjhe3jjk6laerxahpd6yrgntyet03xprhz4m7ha8ynr4q2xy6aq": {
+            "vote": "No",
+            "votes": 2,
+            "votingTx": "2065496c8dcf665e2007f6f673275d174583f2e523e13d742f2b8688bc99d117"
+        },
+        "stake1u8wqtfxew40y2pcpc55q5z6rx7g9kphv0pmfvpwhvlvm46qqta99w": {
+            "vote": "No",
+            "votes": 2,
+            "votingTx": "35f91af94947b3fe7a2527db4f63008a4716f459a308c3ddbf71fad023063897"
+        },
+        "stake1uyzfsw4nvfwsua48uqfg86f7em97ky6l2exhswg2mewu5ucl66j6s": {
+            "vote": "No",
+            "votes": 4,
+            "votingTx": "37558166d1ab820e07a77a3023a570379276d24a8af79ebc4e33bd799e2ea11e"
+        },
+        "stake1uxth9yapdj33uvw0vkjn038g9486hly8xfrf4whgupekc4c8fx3h8": {
+            "vote": "No",
+            "votes": 2,
+            "votingTx": "37e9c927b05d52370336019104a2b6baf94a0bc63a61439b0c33950dd7cd3889"
+        },
+        "stake1ux7lshj9da8y9gu6n9j3u3wha3v0cekhakwe9up8yrlcecq6r06pz": {
+            "vote": "No",
+            "votes": 11,
+            "votingTx": "3c4e9f248a16ab97b78f32004d07ca1eed440068d70ab8859cebc8d467733434"
+        },
+        "stake1u9g8k0p7erq6vlluqhhnxw6fam9cktte205cp8m8dy20etss9sh7c": {
+            "vote": "No",
+            "votes": 290,
+            "votingTx": "476d8183026dc3d356360012d46e915b5095949e22a59611571ecae8439b25b0"
+        },
+        "stake1u8r2qzq2kmt5gha3jcgx0hrewva4xva3rwgnuywmp8hfzcc45kyk7": {
+            "vote": "No",
+            "votes": 6,
+            "votingTx": "56bd4434c87c5c0e754b6fd476663f72f629f5a121967ec3571492e3e6aef392"
+        },
+        "stake1u86fgg9fg2wpty8w49xy6z0tfmahxz9y2gkmdg2yqt6znnq535xue": {
+            "vote": "No",
+            "votes": 5,
+            "votingTx": "637c97901dd9af7993453b9752a88295e99a15177eaaa6853a39bc26b1c7f55d"
+        },
+        "stake1u8m3f7fssvhqmg8sj9ladqp7up7q8nxcvdvgwkayvyzq9xcs0mjz2": {
+            "vote": "No",
+            "votes": 12,
+            "votingTx": "673c2352321922aa4de91ee7e3d548a329f684deda7b9b90fd655cb1cab26973"
+        },
+        "stake1uxy6nss8qyty6ek0pfqj44ulen0j88rc04rqd7k2sed7xlglygn3y": {
+            "vote": "No",
+            "votes": 15,
+            "votingTx": "69d68c1e415fd01694d7db5fd6c7dea6dda64f621ef21e82802c7cf3bd6e03c8"
+        },
+        "stake1u8zfyfw0pg2md0cw4skapmuqepynycsqyz7qkyp30ljuu3sv7yd62": {
+            "vote": "No",
+            "votes": 25,
+            "votingTx": "70fc027578132c3b472c3797577e6aed50fd2240007c30ac362727a592759530"
+        },
+        "stake1uyvwje7fj4985j9rg0zs2zzy7mkp7z32rqu78l8gg2hq6jgzcnnma": {
+            "vote": "No",
+            "votes": 25,
+            "votingTx": "79c36a37e2c03382388472f369368cca8e2576cdffc36aa6274ee16eae6ba8dc"
+        },
+        "stake1uy52m3n7cktpx69txyx6pz6a2gr7tsaj94kt0ef9ua0zm9q0wjjuu": {
+            "vote": "No",
+            "votes": 10,
+            "votingTx": "7dd5bb8816f506af465082103c12740553e9231473b4ea8060ab666257f517aa"
+        },
+        "stake1uy97kp7uzezth778dj3axwhqj6d49hcsm6t9w78x2c3vnycgvn58k": {
+            "vote": "No",
+            "votes": 25,
+            "votingTx": "7e1a206337c5aebe37e08740b00ca35d95df1491ef06b757e74dac2c9e78b5f1"
+        },
+        "stake1u9n8lceatyrygsvr9dcwx60pnzfve6wt9e3m2zafxqj0k0q9lxw5y": {
+            "vote": "No",
+            "votes": 25,
+            "votingTx": "7e5953a4c99944c8a1898ace0ea98f4c121deeaac20d838e49ae7ff43da3fcfe"
+        },
+        "stake1uxaygymhkgkhlmgv24uylfrmqd0gmx7lpjkgfemhchlnksc9cy7xt": {
+            "vote": "No",
+            "votes": 8,
+            "votingTx": "869426a60b9bfd3e7660014cb79374e7692fa12f71715b706a56d2eca0526e20"
+        },
+        "stake1u8lzep8em27cvft5mr09kkgk2rl7u5k4xkf5r2fcchf2qycweh0m7": {
+            "vote": "No",
+            "votes": 5,
+            "votingTx": "9d94a826f1597c5e2481ffb15f6442b60d583036be101398a1e2c5af4fb5f163"
+        },
+        "stake1u9sa0sl9qnrl3jtwfwc0a2slg7tx5httt5k3fnha7lgqumgv3c0dw": {
+            "vote": "No",
+            "votes": 25,
+            "votingTx": "a24dcc788a04db178063721c2d6a65da32bd6f755bf41085ead881895e8dfecd"
+        },
+        "stake1uydk3fc9mg8462gjp4mrlxsdj224ndgjze077wrshhfgyxgz5md0a": {
+            "vote": "No",
+            "votes": 5,
+            "votingTx": "af36d413e978831879b1806443fdc86fb2be3427add5297e5920485e0b84687e"
+        },
+        "stake1uxwdww65s4e8m2qxv2s9emtvfzx9wrpttyskvtjhlqpfanqvhy0ll": {
+            "vote": "No",
+            "votes": 3,
+            "votingTx": "b066993a8739d9fba74dc1b141f14f6a21e1fd8f28b1aafeb97bb2514df88274"
+        },
+        "stake1uxvfkjszxlfr7ktr58est33m4t888q0hwunmw6tq3xkpwlgfax3yx": {
+            "vote": "No",
+            "votes": 1,
+            "votingTx": "ba3fe738d90f53ee71ae2f1c8e5ece13e9cd1b0785948d4d5048996b69b328a1"
+        },
+        "stake1u9d4z8ml94wg5rjcv25kh70hcgg4wan9wlckuqpzjjulrnsqtez97": {
+            "vote": "No",
+            "votes": 2,
+            "votingTx": "c873acd99cd970580111c66488c08a71151b27381545e5fe7552a3dfa96de6a0"
+        },
+        "stake1u8kxwv59m2qnzz70qenu0pnw4u879vq3f577rw8yncmd9zgaxezwl": {
+            "vote": "No",
+            "votes": 6,
+            "votingTx": "d03f6f9ac7e45295dbf1c1f1bb3def31161d407475abfa03777526bc21a7e875"
+        },
+        "stake1u9tmd0l79w3jsv34z4chmjzaud9wlg5q77k68xhr0w4dvngr9y5ln": {
+            "vote": "No",
+            "votes": 16,
+            "votingTx": "d3d7a4f4c8ee05a608667d714e5865f32a53913148fcad4f9a6f65f638893242"
+        },
+        "stake1uywdaxqdwhcmwh67rznf8q2svh7cud9hj0003zxf8m4qguqpy73y0": {
+            "vote": "No",
+            "votes": 5,
+            "votingTx": "e097868af0735fa47b58aba2ce9948dacee048a26c30942062b63607fbdce146"
+        },
+        "stake1u8685we6dplcen3dskf89mvhrz85vv97md9zllm2qr7g88grrw38g": {
+            "vote": "No",
+            "votes": 1,
+            "votingTx": "f1ff135450c77272985b2464c4eb5e2a2570e7ad5dc983976b1ba6c51ce8a160"
+        },
+        "stake1uxkqmgaejld5fz3mzls34su4sytm2uyvld3vxjya8d77leqv48v8k": {
+            "vote": "No",
+            "votes": 25,
+            "votingTx": "f219701d5d1405995187b730fad8264ce6141fcd451cd93c9ba8572cf929d1f1"
+        },
+        "stake1ux9lnrkcwlmmkt2ad4luc4zefxj0jh8ldjd3d8e9cpkvpnqd0vgzm": {
+            "vote": "No",
+            "votes": 1,
+            "votingTx": "f6103267d7b467a189e741c831fb28ebd156e1ed26c0f3b91487da0c220ac21d"
+        },
+        "stake1uyzv5aj0tlx8cwtrukj4gmdfqvxazlm7yzpw25kx3kgkuqsqgdh6c": {
+            "vote": "No",
+            "votes": 2,
+            "votingTx": "ff3762634b2df72850db00d6b0b3f582a9e45e42f7c1024de45908b79fddcc9c"
+        },
+        "stake1u9t4wxn3l5xz04ha5fhrted6hzzwzhw87aw6qkwr5ea807cma9y8v": {
+            "vote": "No",
+            "votes": 2,
+            "votingTx": "ff9fb14401986d0cefbd8e0a294c393a65f9ba06dc0ad5a9ab2bcf59034d6ad0"
+        }
+    }
+}
