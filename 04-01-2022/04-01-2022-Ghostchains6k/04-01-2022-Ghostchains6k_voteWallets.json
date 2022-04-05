@@ -1,0 +1,10 @@
+{
+  "yesWallet": {
+    "name": "VoteWallet4",
+    "paymentAddr": "addr1q9enye9yr9gt86dh77wn9ezfz70xufuaygexyqynmq35zafp7mllv5g4zz6wv8l3s04y6srj5wl6jkhjpeg5w6nc2p3q9gesa7"
+  },
+  "noWallet": {
+    "name": "VoteWallet5",
+    "paymentAddr": "addr1qx7xh0w87hjj7asm7vafsyf2z8tch3u02y4epf0wuxkrt0lfz057w20j5ma3m9exf2kj99lx5sz6u5fph8huqms4yh8sn6watt"
+  }
+}
