@@ -1,0 +1,6544 @@
+{
+    "stake1uxqunnsnwkyn2jdth6xdhj67fmhxpytaf5suufm7pxctq3cttaqqp": [
+        "BossDAO1",
+        "BossDAO2",
+        "BossDAO3",
+        "BossDAO4",
+        "BossDAO5",
+        "BossDAO6",
+        "BossDAO7",
+        "BossDAO8",
+        "BossDAO9",
+        "BossDAO10",
+        "BossDAO755",
+        "BossDAO756",
+        "BossDAO757",
+        "BossDAO758",
+        "BossDAO759",
+        "BossDAO760",
+        "BossDAO761",
+        "BossDAO762",
+        "BossDAO763",
+        "BossDAO764"
+    ],
+    "stake1u8m7e3kv626p288pf44dyvu3cqjvnxjh6x37325q5cg7rqgylunss": [
+        "BossDAO11"
+    ],
+    "stake1uy2w5pdzsjs0fwgrvdnk3pm5mw7xwd4kjxkg8s734x3mlrcnlr8zj": [
+        "BossDAO12",
+        "BossDAO1159",
+        "BossDAO1160",
+        "BossDAO1314",
+        "BossDAO2648",
+        "BossDAO2649",
+        "BossDAO3024"
+    ],
+    "stake1u9g8k0p7erq6vlluqhhnxw6fam9cktte205cp8m8dy20etss9sh7c": [
+        "BossDAO13",
+        "BossDAO120",
+        "BossDAO256",
+        "BossDAO289",
+        "BossDAO343",
+        "BossDAO344",
+        "BossDAO380",
+        "BossDAO381",
+        "BossDAO411",
+        "BossDAO478",
+        "BossDAO482",
+        "BossDAO510",
+        "BossDAO662",
+        "BossDAO684",
+        "BossDAO685",
+        "BossDAO686",
+        "BossDAO687",
+        "BossDAO689",
+        "BossDAO690",
+        "BossDAO691",
+        "BossDAO693",
+        "BossDAO694",
+        "BossDAO695",
+        "BossDAO696",
+        "BossDAO697",
+        "BossDAO698",
+        "BossDAO699",
+        "BossDAO710",
+        "BossDAO745",
+        "BossDAO790",
+        "BossDAO831",
+        "BossDAO834",
+        "BossDAO861",
+        "BossDAO877",
+        "BossDAO878",
+        "BossDAO928",
+        "BossDAO954",
+        "BossDAO1024",
+        "BossDAO1025",
+        "BossDAO1026",
+        "BossDAO1027",
+        "BossDAO1053",
+        "BossDAO1064",
+        "BossDAO1069",
+        "BossDAO1079",
+        "BossDAO1100",
+        "BossDAO1109",
+        "BossDAO1138",
+        "BossDAO1147",
+        "BossDAO1178",
+        "BossDAO1180",
+        "BossDAO1217",
+        "BossDAO1225",
+        "BossDAO1232",
+        "BossDAO1308",
+        "BossDAO1350",
+        "BossDAO1368",
+        "BossDAO1372",
+        "BossDAO1392",
+        "BossDAO1393",
+        "BossDAO1394",
+        "BossDAO1458",
+        "BossDAO1489",
+        "BossDAO1520",
+        "BossDAO1521",
+        "BossDAO1525",
+        "BossDAO1526",
+        "BossDAO1568",
+        "BossDAO1590",
+        "BossDAO1629",
+        "BossDAO1769",
+        "BossDAO1770",
+        "BossDAO1788",
+        "BossDAO1908",
+        "BossDAO1923",
+        "BossDAO1981",
+        "BossDAO2002",
+        "BossDAO2033",
+        "BossDAO2060",
+        "BossDAO2080",
+        "BossDAO2106",
+        "BossDAO2148",
+        "BossDAO2152",
+        "BossDAO2197",
+        "BossDAO2247",
+        "BossDAO2275",
+        "BossDAO2276",
+        "BossDAO2310",
+        "BossDAO2333",
+        "BossDAO2402",
+        "BossDAO2489",
+        "BossDAO2563",
+        "BossDAO2564",
+        "BossDAO2588",
+        "BossDAO2589",
+        "BossDAO2590",
+        "BossDAO2591",
+        "BossDAO2596",
+        "BossDAO2619",
+        "BossDAO2685",
+        "BossDAO2973",
+        "BossDAO2998",
+        "BossDAO3000",
+        "BossDAO3010",
+        "BossDAO3084",
+        "BossDAO3128",
+        "BossDAO3134",
+        "BossDAO3169",
+        "BossDAO3171",
+        "BossDAO3179",
+        "BossDAO3193",
+        "BossDAO3206",
+        "BossDAO3223",
+        "BossDAO3277",
+        "BossDAO3336",
+        "BossDAO3356",
+        "BossDAO3366",
+        "BossDAO3367",
+        "BossDAO3375",
+        "BossDAO3382",
+        "BossDAO3397",
+        "BossDAO3400",
+        "BossDAO3401",
+        "BossDAO3542",
+        "BossDAO3581",
+        "BossDAO3592",
+        "BossDAO9501",
+        "BossDAO9502",
+        "BossDAO9503",
+        "BossDAO9504",
+        "BossDAO9505",
+        "BossDAO9506",
+        "BossDAO9507",
+        "BossDAO9508",
+        "BossDAO9509",
+        "BossDAO9510",
+        "BossDAO9511",
+        "BossDAO9512",
+        "BossDAO9513",
+        "BossDAO9514",
+        "BossDAO9515",
+        "BossDAO9516",
+        "BossDAO9517",
+        "BossDAO9518",
+        "BossDAO9519",
+        "BossDAO9520",
+        "BossDAO9521",
+        "BossDAO9522",
+        "BossDAO9523",
+        "BossDAO9524",
+        "BossDAO9525",
+        "BossDAO9526",
+        "BossDAO9527",
+        "BossDAO9528",
+        "BossDAO9529",
+        "BossDAO9530",
+        "BossDAO9531",
+        "BossDAO9532",
+        "BossDAO9533",
+        "BossDAO9534",
+        "BossDAO9535",
+        "BossDAO9536",
+        "BossDAO9537",
+        "BossDAO9538",
+        "BossDAO9539",
+        "BossDAO9540",
+        "BossDAO9541",
+        "BossDAO9542",
+        "BossDAO9543",
+        "BossDAO9544",
+        "BossDAO9545",
+        "BossDAO9546",
+        "BossDAO9547",
+        "BossDAO9548",
+        "BossDAO9549",
+        "BossDAO9550",
+        "BossDAO9551",
+        "BossDAO9552",
+        "BossDAO9553",
+        "BossDAO9554",
+        "BossDAO9555",
+        "BossDAO9556",
+        "BossDAO9557",
+        "BossDAO9558",
+        "BossDAO9559",
+        "BossDAO9560",
+        "BossDAO9561",
+        "BossDAO9562",
+        "BossDAO9563",
+        "BossDAO9564",
+        "BossDAO9565",
+        "BossDAO9566",
+        "BossDAO9567",
+        "BossDAO9568",
+        "BossDAO9569",
+        "BossDAO9570",
+        "BossDAO9571",
+        "BossDAO9572",
+        "BossDAO9573",
+        "BossDAO9574",
+        "BossDAO9575",
+        "BossDAO9576",
+        "BossDAO9577",
+        "BossDAO9578",
+        "BossDAO9579",
+        "BossDAO9580",
+        "BossDAO9581",
+        "BossDAO9582",
+        "BossDAO9583",
+        "BossDAO9584",
+        "BossDAO9585",
+        "BossDAO9586",
+        "BossDAO9587",
+        "BossDAO9588",
+        "BossDAO9589",
+        "BossDAO9590",
+        "BossDAO9591",
+        "BossDAO9592",
+        "BossDAO9593",
+        "BossDAO9594",
+        "BossDAO9595",
+        "BossDAO9596",
+        "BossDAO9597",
+        "BossDAO9598",
+        "BossDAO9599",
+        "BossDAO9600",
+        "BossDAO9601",
+        "BossDAO9602",
+        "BossDAO9603",
+        "BossDAO9604",
+        "BossDAO9605",
+        "BossDAO9606",
+        "BossDAO9607",
+        "BossDAO9608",
+        "BossDAO9609",
+        "BossDAO9610",
+        "BossDAO9611",
+        "BossDAO9612",
+        "BossDAO9613",
+        "BossDAO9614",
+        "BossDAO9615",
+        "BossDAO9616",
+        "BossDAO9617",
+        "BossDAO9618",
+        "BossDAO9619",
+        "BossDAO9620",
+        "BossDAO9621",
+        "BossDAO9622",
+        "BossDAO9623",
+        "BossDAO9624",
+        "BossDAO9625",
+        "BossDAO9626",
+        "BossDAO9627",
+        "BossDAO9628",
+        "BossDAO9629",
+        "BossDAO9630",
+        "BossDAO9631",
+        "BossDAO9632",
+        "BossDAO9633",
+        "BossDAO9634",
+        "BossDAO9635",
+        "BossDAO9636",
+        "BossDAO9637",
+        "BossDAO9638",
+        "BossDAO9639",
+        "BossDAO9640",
+        "BossDAO9641",
+        "BossDAO9642",
+        "BossDAO9643",
+        "BossDAO9644",
+        "BossDAO9645",
+        "BossDAO9646",
+        "BossDAO9647",
+        "BossDAO9648",
+        "BossDAO9649",
+        "BossDAO9650",
+        "BossDAO9651",
+        "BossDAO9652",
+        "BossDAO9653",
+        "BossDAO9654",
+        "BossDAO9655",
+        "BossDAO9656",
+        "BossDAO9657",
+        "BossDAO9658",
+        "BossDAO9659",
+        "BossDAO9660",
+        "BossDAO9661",
+        "BossDAO9662",
+        "BossDAO9663",
+        "BossDAO9664"
+    ],
+    "stake1u8q9w0vyu2led4tlfs9kwzp4xp08g0wdvz4vhvvum8t9quqymwq5n": [
+        "BossDAO14"
+    ],
+    "stake1u9fzs5d0n80zc7qfnl0t64nny89vjpugaaqsvl3pzt3cjtc5hlm8q": [
+        "BossDAO15",
+        "BossDAO2626"
+    ],
+    "stake1uyhdk999gh6qqljsmq7yt7ptmxl8e3hqw8q7zp4nytufasskzx8yl": [
+        "BossDAO16"
+    ],
+    "stake1uyhyzh7v2vghepwyfz7s29cece28newanzhk9ne7s7m6j6c3aw77p": [
+        "BossDAO17",
+        "BossDAO18",
+        "BossDAO19",
+        "BossDAO20",
+        "BossDAO21",
+        "BossDAO22",
+        "BossDAO23",
+        "BossDAO24",
+        "BossDAO25",
+        "BossDAO26",
+        "BossDAO27",
+        "BossDAO28",
+        "BossDAO29",
+        "BossDAO30",
+        "BossDAO31",
+        "BossDAO32",
+        "BossDAO33",
+        "BossDAO34",
+        "BossDAO35",
+        "BossDAO36",
+        "BossDAO37",
+        "BossDAO38",
+        "BossDAO39",
+        "BossDAO40",
+        "BossDAO41",
+        "BossDAO92",
+        "BossDAO93",
+        "BossDAO94",
+        "BossDAO95",
+        "BossDAO96",
+        "BossDAO97",
+        "BossDAO98",
+        "BossDAO99",
+        "BossDAO100",
+        "BossDAO101",
+        "BossDAO102",
+        "BossDAO103",
+        "BossDAO104",
+        "BossDAO105",
+        "BossDAO106",
+        "BossDAO107",
+        "BossDAO108",
+        "BossDAO109",
+        "BossDAO110",
+        "BossDAO111",
+        "BossDAO112",
+        "BossDAO113",
+        "BossDAO114",
+        "BossDAO115",
+        "BossDAO116",
+        "BossDAO42",
+        "BossDAO43",
+        "BossDAO44",
+        "BossDAO45",
+        "BossDAO46",
+        "BossDAO47",
+        "BossDAO48",
+        "BossDAO49",
+        "BossDAO2835",
+        "BossDAO2836",
+        "BossDAO2837",
+        "BossDAO2838",
+        "BossDAO2839",
+        "BossDAO2840",
+        "BossDAO2841",
+        "BossDAO2842",
+        "BossDAO2843",
+        "BossDAO2844",
+        "BossDAO2845",
+        "BossDAO2846",
+        "BossDAO2847",
+        "BossDAO2848",
+        "BossDAO2849",
+        "BossDAO2850",
+        "BossDAO2851",
+        "BossDAO2852",
+        "BossDAO2853",
+        "BossDAO2854",
+        "BossDAO2855",
+        "BossDAO2856",
+        "BossDAO2857",
+        "BossDAO2858",
+        "BossDAO2859",
+        "BossDAO50",
+        "BossDAO51",
+        "BossDAO52",
+        "BossDAO53",
+        "BossDAO54",
+        "BossDAO55",
+        "BossDAO56",
+        "BossDAO57",
+        "BossDAO58",
+        "BossDAO59",
+        "BossDAO60",
+        "BossDAO61",
+        "BossDAO62",
+        "BossDAO63",
+        "BossDAO64",
+        "BossDAO65",
+        "BossDAO66",
+        "BossDAO67",
+        "BossDAO68",
+        "BossDAO69",
+        "BossDAO70",
+        "BossDAO71",
+        "BossDAO72",
+        "BossDAO73",
+        "BossDAO74",
+        "BossDAO75",
+        "BossDAO76",
+        "BossDAO77",
+        "BossDAO78",
+        "BossDAO79",
+        "BossDAO80",
+        "BossDAO81",
+        "BossDAO82",
+        "BossDAO83",
+        "BossDAO84",
+        "BossDAO85",
+        "BossDAO86",
+        "BossDAO87",
+        "BossDAO88",
+        "BossDAO89",
+        "BossDAO90",
+        "BossDAO91",
+        "BossDAO1631",
+        "BossDAO1632",
+        "BossDAO1633",
+        "BossDAO1634",
+        "BossDAO1635",
+        "BossDAO1636",
+        "BossDAO1637",
+        "BossDAO1638",
+        "BossDAO1639",
+        "BossDAO1640",
+        "BossDAO1641",
+        "BossDAO1642",
+        "BossDAO1643",
+        "BossDAO1644",
+        "BossDAO1645",
+        "BossDAO1646",
+        "BossDAO1647",
+        "BossDAO1648",
+        "BossDAO1649",
+        "BossDAO1650",
+        "BossDAO1651",
+        "BossDAO1652",
+        "BossDAO1653",
+        "BossDAO1654",
+        "BossDAO1655",
+        "BossDAO1656",
+        "BossDAO1657",
+        "BossDAO1658",
+        "BossDAO1659",
+        "BossDAO1660",
+        "BossDAO1661",
+        "BossDAO1662",
+        "BossDAO1663",
+        "BossDAO1664",
+        "BossDAO1665",
+        "BossDAO1666",
+        "BossDAO1667",
+        "BossDAO1668",
+        "BossDAO1669",
+        "BossDAO1670",
+        "BossDAO1671",
+        "BossDAO1672",
+        "BossDAO1673",
+        "BossDAO1674",
+        "BossDAO1675",
+        "BossDAO1676",
+        "BossDAO1677",
+        "BossDAO1678",
+        "BossDAO1679",
+        "BossDAO1680",
+        "BossDAO1706",
+        "BossDAO1707",
+        "BossDAO1708",
+        "BossDAO1709",
+        "BossDAO1710",
+        "BossDAO1711",
+        "BossDAO1712",
+        "BossDAO1713",
+        "BossDAO1714",
+        "BossDAO1715",
+        "BossDAO1716",
+        "BossDAO1717",
+        "BossDAO1718",
+        "BossDAO1719",
+        "BossDAO1720",
+        "BossDAO1721",
+        "BossDAO1722",
+        "BossDAO1723",
+        "BossDAO1724",
+        "BossDAO1725",
+        "BossDAO1726",
+        "BossDAO1727",
+        "BossDAO1728",
+        "BossDAO1729",
+        "BossDAO1730",
+        "BossDAO1681",
+        "BossDAO1682",
+        "BossDAO1683",
+        "BossDAO1684",
+        "BossDAO1685",
+        "BossDAO1686",
+        "BossDAO1687",
+        "BossDAO1688",
+        "BossDAO1689",
+        "BossDAO1690",
+        "BossDAO1691",
+        "BossDAO1692",
+        "BossDAO1693",
+        "BossDAO1694",
+        "BossDAO1695",
+        "BossDAO1696",
+        "BossDAO1697",
+        "BossDAO1698",
+        "BossDAO1699",
+        "BossDAO1700",
+        "BossDAO1701",
+        "BossDAO1702",
+        "BossDAO1703",
+        "BossDAO1704",
+        "BossDAO1705",
+        "BossDAO2785",
+        "BossDAO2786",
+        "BossDAO2787",
+        "BossDAO2788",
+        "BossDAO2789",
+        "BossDAO2790",
+        "BossDAO2791",
+        "BossDAO2792",
+        "BossDAO2793",
+        "BossDAO2794",
+        "BossDAO2795",
+        "BossDAO2796",
+        "BossDAO2797",
+        "BossDAO2798",
+        "BossDAO2799",
+        "BossDAO2800",
+        "BossDAO2801",
+        "BossDAO2802",
+        "BossDAO2803",
+        "BossDAO2804",
+        "BossDAO2805",
+        "BossDAO2806",
+        "BossDAO2807",
+        "BossDAO2808",
+        "BossDAO2809",
+        "BossDAO2810",
+        "BossDAO2811",
+        "BossDAO2812",
+        "BossDAO2813",
+        "BossDAO2814",
+        "BossDAO2815",
+        "BossDAO2816",
+        "BossDAO2817",
+        "BossDAO2818",
+        "BossDAO2819",
+        "BossDAO2820",
+        "BossDAO2821",
+        "BossDAO2822",
+        "BossDAO2823",
+        "BossDAO2824",
+        "BossDAO2825",
+        "BossDAO2826",
+        "BossDAO2827",
+        "BossDAO2828",
+        "BossDAO2829",
+        "BossDAO2830",
+        "BossDAO2831",
+        "BossDAO2832",
+        "BossDAO2833",
+        "BossDAO2834",
+        "BossDAO2860",
+        "BossDAO2861",
+        "BossDAO2862",
+        "BossDAO2863",
+        "BossDAO2864",
+        "BossDAO2865",
+        "BossDAO2866",
+        "BossDAO2867",
+        "BossDAO2868",
+        "BossDAO2869",
+        "BossDAO2870",
+        "BossDAO2871",
+        "BossDAO2872",
+        "BossDAO2873",
+        "BossDAO2874",
+        "BossDAO2875",
+        "BossDAO2876",
+        "BossDAO2877",
+        "BossDAO2878",
+        "BossDAO2879",
+        "BossDAO2880",
+        "BossDAO2881",
+        "BossDAO2882",
+        "BossDAO2883",
+        "BossDAO2884"
+    ],
+    "stake1uyh4nea93jau9p5cpw85lal2ar2sc2aslv9hfy8kp3nfrqc4uqshk": [
+        "BossDAO118",
+        "BossDAO1019",
+        "BossDAO1183",
+        "BossDAO1226",
+        "BossDAO1324",
+        "BossDAO1794",
+        "BossDAO2914",
+        "BossDAO3420",
+        "BossDAO3510"
+    ],
+    "stake1u82g0s6h2dpf2pjqmg66k8ckjmecr3clscr4tzw6y4tq0rgzs5gzw": [
+        "BossDAO119",
+        "BossDAO3098",
+        "BossDAO3099",
+        "BossDAO3513",
+        "BossDAO3514",
+        "BossDAO3515"
+    ],
+    "stake1u9pdqw99t2tehl552ec8pkatae3c947zx6t7frxw4ramr8qwhkmzn": [
+        "BossDAO121",
+        "BossDAO1349"
+    ],
+    "stake1ux7mqzxm70l4q9cr4rnsclgjn5ulhr6r2qhva4346j9fz9sx5c52c": [
+        "BossDAO122",
+        "BossDAO1015"
+    ],
+    "stake1u9theu0qp768nwhp84tzgexkscqneqsfq69s3ujyg50l7zgnts33h": [
+        "BossDAO123",
+        "BossDAO124"
+    ],
+    "stake1uywcdrewvsxlmsjperxwjgppw0yp5eerq6j72r6wq9hffyshpfmz2": [
+        "BossDAO125"
+    ],
+    "stake1uym2y2cstwuayylhaprsaf0j6zjs85sn3khcfct5mf5curgltervy": [
+        "BossDAO126"
+    ],
+    "stake1uxmxf2hscyxdamafffkfs06l2utg8q7mase2h6lat9aa0yqn5q62j": [
+        "BossDAO127",
+        "BossDAO3190"
+    ],
+    "stake1ux7rhysj7shzf3r0rp05y0m0xk70z99cudw87wysl62gjws4le9d8": [
+        "BossDAO128"
+    ],
+    "stake1u8jpzpv0za8z38phvw5c5fna9axxmvfww9lw3tamlzh8lgckx2pf8": [
+        "BossDAO129"
+    ],
+    "stake1uyazmy2jgzxlzyhl745y3x3um0wz09xjqjklwjtxy5e7gcqkrxmgq": [
+        "BossDAO130",
+        "BossDAO334",
+        "BossDAO397",
+        "BossDAO707",
+        "BossDAO1773",
+        "BossDAO2497",
+        "BossDAO2521",
+        "BossDAO2691",
+        "BossDAO2739",
+        "BossDAO2764",
+        "BossDAO2923",
+        "BossDAO3121",
+        "BossDAO3122",
+        "BossDAO3123",
+        "BossDAO3163",
+        "BossDAO3275"
+    ],
+    "stake1uxzxxs9t7vfn5ksuey33xj3d9l5gwt2h25cr8hak2d8cq5g4yvek2": [
+        "BossDAO131",
+        "BossDAO1471"
+    ],
+    "stake1uy4jf9jlpxt0aeqc0p7pcsq9w90wgnsdlgfkcppllqwk3usp8u397": [
+        "BossDAO132",
+        "BossDAO1404"
+    ],
+    "stake1uxd560rvxa7ufgqg7y7znvfshfhna29329kg3v339h2uckqf80049": [
+        "BossDAO133"
+    ],
+    "stake1uyrgw5rzek0nlfjnx38vtd9jsvn8jecc7wh2nm8qjcr2r9sdmu7gg": [
+        "BossDAO134",
+        "BossDAO135",
+        "BossDAO136",
+        "BossDAO137",
+        "BossDAO138",
+        "BossDAO139",
+        "BossDAO140",
+        "BossDAO141",
+        "BossDAO142",
+        "BossDAO143",
+        "BossDAO2198",
+        "BossDAO2628"
+    ],
+    "stake1u8wevfzp0sa4hurgevqez9kz6jqsyt92jjc3dyayx6vhedcckpttp": [
+        "BossDAO144"
+    ],
+    "stake1u9pwpvpu36dp8606fyt9gugwa72s2rrh8jv942mwxx9ggfclf56es": [
+        "BossDAO145",
+        "BossDAO146",
+        "BossDAO2608",
+        "BossDAO2623"
+    ],
+    "stake1u9cwh3ye77eksrlyx8y7x4d4vfx7pjm6pcmsnkf8fhut6zceqllpx": [
+        "BossDAO147"
+    ],
+    "stake1u83gn4z67ketp8h989mh8wje2c5e7d5h4h52lhl3y8sxlyq87w63g": [
+        "BossDAO148",
+        "BossDAO149",
+        "BossDAO150",
+        "BossDAO500",
+        "BossDAO1062",
+        "BossDAO1063"
+    ],
+    "stake1uxk0m6j55mmuppru2j9fu2qju5esxw7kssmntlx6708gmugreryku": [
+        "BossDAO151",
+        "BossDAO152",
+        "BossDAO154"
+    ],
+    "stake1ux3hnv9ghu7nlsxg05upf6c4kthfdd6k2g5h82t42p6f0jgk6lyhy": [
+        "BossDAO153",
+        "BossDAO509",
+        "BossDAO991",
+        "BossDAO1000",
+        "BossDAO1383",
+        "BossDAO2447",
+        "BossDAO2470",
+        "BossDAO2505",
+        "BossDAO2526",
+        "BossDAO3464"
+    ],
+    "stake1u872pzhtxcaf7rh89ef899nyyjkqkt6g5c4pksfhjkdpx6q6gvs9l": [
+        "BossDAO155",
+        "BossDAO336",
+        "BossDAO384"
+    ],
+    "stake1u8frc6un7jrtnxg0fpx89ptvwrcs6d0p99mqy7a9x8653xqzdt28y": [
+        "BossDAO156",
+        "BossDAO158",
+        "BossDAO161",
+        "BossDAO162",
+        "BossDAO164",
+        "BossDAO168",
+        "BossDAO170",
+        "BossDAO171",
+        "BossDAO173",
+        "BossDAO176",
+        "BossDAO181",
+        "BossDAO182",
+        "BossDAO184",
+        "BossDAO194",
+        "BossDAO195"
+    ],
+    "stake1u95uklgszh7spdjzrwvy3jpdqzmhg003nqu6ejl7s8mkhpgkexcm5": [
+        "BossDAO159",
+        "BossDAO163",
+        "BossDAO165",
+        "BossDAO166",
+        "BossDAO167",
+        "BossDAO172",
+        "BossDAO174",
+        "BossDAO175",
+        "BossDAO177",
+        "BossDAO179",
+        "BossDAO183",
+        "BossDAO187",
+        "BossDAO188",
+        "BossDAO190",
+        "BossDAO191"
+    ],
+    "stake1uxx0k87k06eu4077ln62qj42f8dqmanua0zl7fy0u3995yspvkgvv": [
+        "BossDAO189"
+    ],
+    "stake1uxqwpz3yq7a8kd6anfnq3kn0vtkzhd4l27mr6zfgdxc3amgr4r9h9": [
+        "BossDAO196"
+    ],
+    "stake1uxq0n3w9r8a4zqprdzaq3g43t6engxqqx6zvpuqqkysfk0squg28h": [
+        "BossDAO197",
+        "BossDAO619",
+        "BossDAO1493"
+    ],
+    "stake1u9xtxz66ll5a3jja2gj7dvcmurf0hal393xvyd52qcc45ssth5azx": [
+        "BossDAO198"
+    ],
+    "stake1u9v3d4epwy8ra0xglwmtarmxsrfspxx63hzrtg4t6p9ek3s0zkleq": [
+        "BossDAO199",
+        "BossDAO2185",
+        "BossDAO2484"
+    ],
+    "stake1u9vd8305gc23rtz5grtfuuck2ql73kysegsamkh5jtdyn2g2cdup8": [
+        "BossDAO200",
+        "BossDAO631",
+        "BossDAO2977"
+    ],
+    "stake1u9gl0egx6mdwl9ngsyslxuvrqpa8pv8cdqucflz7a87ldvg5z6zky": [
+        "BossDAO201",
+        "BossDAO208",
+        "BossDAO209"
+    ],
+    "stake1uyntdqplmm4ky9uhp95nm4efycppd5sar8u6gtvrfss2zxg3ryrdq": [
+        "BossDAO202",
+        "BossDAO1583"
+    ],
+    "stake1ux2682gt2cad0rghxl6xc3e9dgjn74adf68stvs924vu7wsgdfplc": [
+        "BossDAO203"
+    ],
+    "stake1u9qql482xhjpafxu80hmsrfal0d22mqz0sam86wv03h893smyc0es": [
+        "BossDAO204"
+    ],
+    "stake1u9pdgjeaxp3hwh0klkfnmq3d2ln332f3rece3aajf3al25c44z4a3": [
+        "BossDAO205",
+        "BossDAO467"
+    ],
+    "stake1uxkcfwpl26pwc9fdw7raersmwmdppuhg3ezkwrssa0yq48cpvwnrd": [
+        "BossDAO206",
+        "BossDAO905",
+        "BossDAO906",
+        "BossDAO907",
+        "BossDAO909",
+        "BossDAO1171"
+    ],
+    "stake1uxsfhaqhnl7rjhsmsxaea585zms7pvl9znjn24lfttzq02sy6ju9k": [
+        "BossDAO207",
+        "BossDAO2566"
+    ],
+    "stake1uxapu7eunn2nhk7vxdkfpk77qywkepfjf02ql74463tc8nsnmt7yf": [
+        "BossDAO210",
+        "BossDAO570",
+        "BossDAO2451",
+        "BossDAO2452",
+        "BossDAO2453",
+        "BossDAO2454",
+        "BossDAO2456",
+        "BossDAO2457",
+        "BossDAO2479",
+        "BossDAO2482",
+        "BossDAO2517",
+        "BossDAO2518",
+        "BossDAO3151",
+        "BossDAO3249",
+        "BossDAO3371",
+        "BossDAO3373",
+        "BossDAO3490",
+        "BossDAO3493"
+    ],
+    "stake1u9q3m67xx0jxeyj0vfdgvhsv0fs4c3s672hxlrjckug98jcllme9m": [
+        "BossDAO211",
+        "BossDAO212"
+    ],
+    "stake1uxz9ask8zl7wv3cr7e0tddrefgmrus88tn9042whcjttv6cd0s4up": [
+        "BossDAO213"
+    ],
+    "stake1u94jjvdgxk04ykf80yhrcqssfl5e9yhjl0ksku45aftr7zq4pumm2": [
+        "BossDAO214",
+        "BossDAO643",
+        "BossDAO1086",
+        "BossDAO1451",
+        "BossDAO2062",
+        "BossDAO2553",
+        "BossDAO2770",
+        "BossDAO2955",
+        "BossDAO3019",
+        "BossDAO3145"
+    ],
+    "stake1u8acp87ukg2amtqplu7gzmk0tafpqpkzjmywlmp5e6ypalgpqampk": [
+        "BossDAO215"
+    ],
+    "stake1u9j8mthesmfx9cetjq6y8c63pamrq502fyh2743xq38ycvqzzhknm": [
+        "BossDAO216"
+    ],
+    "stake1uyrgz6rca9a3d8twzhp53vh8kh4ucll639mmmqgg3zy8xwqw66wk5": [
+        "BossDAO217",
+        "BossDAO218"
+    ],
+    "stake1ux8axcwy8w2f550c04fcwwe26mskx2frm0p6ktk50axucwsd2uwmn": [
+        "BossDAO219"
+    ],
+    "stake1uxlghwz9xwgc8rvjd7q54fl4pppw5rvqwetq34ued9zasectejdp2": [
+        "BossDAO220"
+    ],
+    "stake1u9h7cuf8my0y606ecf527l9cm0ykrd46agt232pt57jlv0s4xddne": [
+        "BossDAO221"
+    ],
+    "stake1uxz4fxclg8hmnaku30fen8tpdgqv9hd84r8jqs2wvzfg8yg2kjf4m": [
+        "BossDAO222",
+        "BossDAO827",
+        "BossDAO3002"
+    ],
+    "stake1u8jm8kj35hxdeq800uczp2nfkhwl3mn495fqqwpewm20mks9cuk6v": [
+        "BossDAO223"
+    ],
+    "stake1uyyf7kauu6gxqq969wc2xrf8vctllem7a38s6xkd8hv8rkqpwxkdm": [
+        "BossDAO224",
+        "BossDAO225",
+        "BossDAO226"
+    ],
+    "stake1u8cz5km3qgm6q3tkvhal626y480c5e0anmt82xx2wh5d6gcf8ykvz": [
+        "BossDAO227"
+    ],
+    "stake1uyhk923ud425xjmrwvrxlfejgp702gm72n9gvet84t0huksa6ltp9": [
+        "BossDAO229"
+    ],
+    "stake1ux5gy2k5mn8yk39al8dv4sada0cecxva6t2veakrrpn4u3qdjrwcl": [
+        "BossDAO230",
+        "BossDAO231",
+        "BossDAO232",
+        "BossDAO233",
+        "BossDAO234",
+        "BossDAO235",
+        "BossDAO236"
+    ],
+    "stake1uxvukgyf22wawlgc2frdxpvqhz0tlc3yevtdgrn6n4rx53q9tfug0": [
+        "BossDAO237"
+    ],
+    "stake1u9ww747auma3cvsad2rhmsg7dz4h626nexhrf72jfagycyscdknz7": [
+        "BossDAO238"
+    ],
+    "stake1ux3ckephn7wj92gyzfmgrvm53zjcgd5s2pstcr257npa7xgjm56t6": [
+        "BossDAO239",
+        "BossDAO240"
+    ],
+    "stake1u8zqydpuv9rv2l8y8zglepg69uq7uquz4lke4r8p8xue2vs79lx44": [
+        "BossDAO246",
+        "BossDAO248",
+        "BossDAO249",
+        "BossDAO250"
+    ],
+    "stake1uxtgz783gxql0ktgg4ssjn53lwp9733d7meqeqww0xmqnycgjut54": [
+        "BossDAO251",
+        "BossDAO252",
+        "BossDAO253",
+        "BossDAO2309"
+    ],
+    "stake1u8830rjqhqg30zhv2pwdhdmwz5rhck84jq4sask9psllvxg706w6w": [
+        "BossDAO254",
+        "BossDAO255"
+    ],
+    "stake1uyxhr78k0y4sa33wyu7mfc2y0ax52vr6ja207wxjcy28g9g28hymr": [
+        "BossDAO257"
+    ],
+    "stake1uy6fxy6q9r8897l0mn2c5ksz0qgy4nnp3qdg9yvkle56trsfuzret": [
+        "BossDAO258",
+        "BossDAO402",
+        "BossDAO498",
+        "BossDAO833",
+        "BossDAO1102",
+        "BossDAO1425",
+        "BossDAO1610",
+        "BossDAO2650",
+        "BossDAO10000"
+    ],
+    "stake1uxzlv48v00th7cumd72ztr7qgl20qgfh3eusuea5vsv3erg34qfmu": [
+        "BossDAO259",
+        "BossDAO1055",
+        "BossDAO1056",
+        "BossDAO1057",
+        "BossDAO1483",
+        "BossDAO2502",
+        "BossDAO2530",
+        "BossDAO3377"
+    ],
+    "stake1u8tpppz766tgp9l970zvlleueas42fgy638qufh86844u3ql3jh3v": [
+        "BossDAO260"
+    ],
+    "stake1uyknmgjwh2avz7qsnl4qr3lcuvj57exyzlcdtjg6vjhsy8gtj4ekm": [
+        "BossDAO261"
+    ],
+    "stake1ux7lshj9da8y9gu6n9j3u3wha3v0cekhakwe9up8yrlcecq6r06pz": [
+        "BossDAO262",
+        "BossDAO264",
+        "BossDAO266",
+        "BossDAO267",
+        "BossDAO269",
+        "BossDAO270",
+        "BossDAO271",
+        "BossDAO272",
+        "BossDAO273",
+        "BossDAO274",
+        "BossDAO275",
+        "BossDAO2211"
+    ],
+    "stake1uyzv5aj0tlx8cwtrukj4gmdfqvxazlm7yzpw25kx3kgkuqsqgdh6c": [
+        "BossDAO263",
+        "BossDAO265"
+    ],
+    "stake1uy5d79kemke2h59nssf8u9tkuat4axjf2esr8daaa5fs05c2el6rr": [
+        "BossDAO268"
+    ],
+    "stake1uy85cftjnfdjx0sh667zwwpthexwesz3jry2w6hcy26my8s0rp9wn": [
+        "BossDAO276"
+    ],
+    "stake1uyzfsw4nvfwsua48uqfg86f7em97ky6l2exhswg2mewu5ucl66j6s": [
+        "BossDAO277",
+        "BossDAO278",
+        "BossDAO279",
+        "BossDAO692"
+    ],
+    "stake1uy4k2k83fxhyj76yvz5k3n5nuj32k4t73xf2j5vqemrv0wqd58s8c": [
+        "BossDAO280",
+        "BossDAO1481",
+        "BossDAO1514"
+    ],
+    "stake1uyg28zlzmurrzxazv0vsjdt7j90u5najx4srlecxqtyfpkqjrepxe": [
+        "BossDAO282"
+    ],
+    "stake1uxvar62mkaspjt6xzacl87wze057na4hsje3m0kwytx8x6qnuet52": [
+        "BossDAO283",
+        "BossDAO2339",
+        "BossDAO2581",
+        "BossDAO2582",
+        "BossDAO3153"
+    ],
+    "stake1u8ezez5wcks64la6wds5lg2zykg4lekn20f7yeww8xekwcqsw2v4x": [
+        "BossDAO284",
+        "BossDAO285",
+        "BossDAO286",
+        "BossDAO287",
+        "BossDAO288",
+        "BossDAO1434",
+        "BossDAO1435",
+        "BossDAO1436",
+        "BossDAO1437",
+        "BossDAO1438",
+        "BossDAO2045",
+        "BossDAO2046",
+        "BossDAO2047",
+        "BossDAO2048",
+        "BossDAO2049",
+        "BossDAO2172",
+        "BossDAO2173",
+        "BossDAO2174",
+        "BossDAO2175",
+        "BossDAO2176",
+        "BossDAO2249",
+        "BossDAO2250",
+        "BossDAO2251",
+        "BossDAO2252",
+        "BossDAO2253",
+        "BossDAO2266",
+        "BossDAO2267",
+        "BossDAO2268",
+        "BossDAO2269",
+        "BossDAO2270"
+    ],
+    "stake1uyc3y5kzvyyltlkrflaavfmz4cmg3jk3c0u7f4wzxje87hq68x5hu": [
+        "BossDAO290"
+    ],
+    "stake1uyuzl5am0lhj9xu7xfp6jcs5vmvdm47zcmnuhar3me0radga8782z": [
+        "BossDAO291",
+        "BossDAO292",
+        "BossDAO3166"
+    ],
+    "stake1uypejypzcn2duw3qdxqr384g4qacue36wwtpcjakwm725kgzuxt5z": [
+        "BossDAO293"
+    ],
+    "stake1u85epazav094cfxel7gmkz2f3wen0qxaf8u23lpp4sv074sgmrsck": [
+        "BossDAO294",
+        "BossDAO295",
+        "BossDAO296",
+        "BossDAO297",
+        "BossDAO298",
+        "BossDAO299",
+        "BossDAO1252",
+        "BossDAO1337",
+        "BossDAO1338",
+        "BossDAO1339",
+        "BossDAO1340"
+    ],
+    "stake1u85zwehadp8mwfapvkr7232q98wye9scjxhuhwuftsksfzgj6n87n": [
+        "BossDAO300",
+        "BossDAO301",
+        "BossDAO302"
+    ],
+    "stake1u9jsn40f744ftg6m3c0g9f54705d2ftlr9wqdj440lgcu3sds53zz": [
+        "BossDAO303",
+        "BossDAO304"
+    ],
+    "stake1u9zzgwtsd99al53x7ydw9lnew3xzef6k62htau3f4erzqrsk26k4a": [
+        "BossDAO305",
+        "BossDAO663",
+        "BossDAO897",
+        "BossDAO3363"
+    ],
+    "stake1uy9z3ag0nehq5ew0tv82ymyr443f2kqd03h44ysylvx2cygpnr32m": [
+        "BossDAO306",
+        "BossDAO307"
+    ],
+    "stake1u925rateg0sdryl35mz3l2rhxv72h2k0paeukglqthwyn0s9fp60r": [
+        "BossDAO310",
+        "BossDAO801"
+    ],
+    "stake1u8yh5tmhcja04t6xzjuny8fppzr28n5x2salzv7raddmydg38knem": [
+        "BossDAO311",
+        "BossDAO3181"
+    ],
+    "stake1ux3ez4g0092atyw33nkl68pmkfsy9puwqc76g3vswvs2reqlrx8lg": [
+        "BossDAO312"
+    ],
+    "stake1u9x5c6pr5n6wrpxn455wvkt8h8at0ah9jhkdlpvhwqa7nzq74envv": [
+        "BossDAO313",
+        "BossDAO401",
+        "BossDAO653",
+        "BossDAO654",
+        "BossDAO655",
+        "BossDAO656",
+        "BossDAO657",
+        "BossDAO1406",
+        "BossDAO2587",
+        "BossDAO3569",
+        "BossDAO3570",
+        "BossDAO388",
+        "BossDAO608",
+        "BossDAO994",
+        "BossDAO1516"
+    ],
+    "stake1u824x34cp24xnndac2x5zz7kc6f24eztyzcu55xrc940kaqrgp567": [
+        "BossDAO314"
+    ],
+    "stake1u83ar9ntf784cpfyfxjc2rzu60t7w6cz2c0jlelmcu00szqezac78": [
+        "BossDAO315"
+    ],
+    "stake1u9jajszgf6etuysw6zwxjrhw6fwqxzzvye8x4zuw3zluc6gxrlj2a": [
+        "BossDAO316"
+    ],
+    "stake1u86wllurrz0h70sypurp6vulxz7n937f32am2achwcusc0sxc6gv4": [
+        "BossDAO317",
+        "BossDAO335",
+        "BossDAO394",
+        "BossDAO2894",
+        "BossDAO2895",
+        "BossDAO3334",
+        "BossDAO3335"
+    ],
+    "stake1uyqz4kfuk0ftdxxnymdy2an964jvxz356tav3cc4c0gqdeq4gv24h": [
+        "BossDAO318",
+        "BossDAO649",
+        "BossDAO1961",
+        "BossDAO1974",
+        "BossDAO2418",
+        "BossDAO3355"
+    ],
+    "stake1uxfejnq4g3y0hgteajjq8gvcfxhrnjhghjq5h4t45r74pgsmhjxy2": [
+        "BossDAO319",
+        "BossDAO320"
+    ],
+    "stake1uxuwe6gc2jlmzayxykhanc23junc0w4vf0xw22f2zwnl3sqa6xelr": [
+        "BossDAO321"
+    ],
+    "stake1uxg72aj0j39ztn23tq8mdg94tvhzla3l9dtquep56hqr86gapwuq0": [
+        "BossDAO322",
+        "BossDAO323",
+        "BossDAO324",
+        "BossDAO325",
+        "BossDAO326",
+        "BossDAO327",
+        "BossDAO328",
+        "BossDAO329",
+        "BossDAO330",
+        "BossDAO331",
+        "BossDAO842",
+        "BossDAO843",
+        "BossDAO844",
+        "BossDAO845",
+        "BossDAO846",
+        "BossDAO847",
+        "BossDAO848",
+        "BossDAO849",
+        "BossDAO850",
+        "BossDAO851"
+    ],
+    "stake1uy6ze7zmc2ku2c4pzwyj6zfngd8nr2tqz4rjml5ja76g80g9wc5tg": [
+        "BossDAO332"
+    ],
+    "stake1uy43wqh256w70v7m7p8dpssdu8zgvu7tv0dhya8axr6yfqs4fvums": [
+        "BossDAO333",
+        "BossDAO934",
+        "BossDAO2904"
+    ],
+    "stake1u96rmyswd2wpv8qum04yg248vp5shug5cqy4lahxnead0rcmljhh6": [
+        "BossDAO337"
+    ],
+    "stake1ux2nn3xc2w80djleazdhs3n63ltschg7h33qm0tdp8h8hzgzyv84c": [
+        "BossDAO338"
+    ],
+    "stake1uy6eruta3fvttq0n4s8edamn5l2xjhag5nugg5fh87xy76c86jm69": [
+        "BossDAO339",
+        "BossDAO2068",
+        "BossDAO3053"
+    ],
+    "stake1uy049v869unuew07pa0caa4hltlrcpum0aqelumf28fantclt2ky3": [
+        "BossDAO340",
+        "BossDAO341",
+        "BossDAO342",
+        "BossDAO1980",
+        "BossDAO2593",
+        "BossDAO3242",
+        "BossDAO3379",
+        "BossDAO3403",
+        "BossDAO9666"
+    ],
+    "stake1u9uykgezqelemmsfrlch4fgkf3qtvsrqggw3smwxcszjw9sqg4vyw": [
+        "BossDAO345",
+        "BossDAO1591"
+    ],
+    "stake1u8rwvtyqc7gdcz32stvujpm0r7mtuwsemsfd7e58rw67ywq4cmwu0": [
+        "BossDAO346",
+        "BossDAO347",
+        "BossDAO1354",
+        "BossDAO1355",
+        "BossDAO2389"
+    ],
+    "stake1uy6a4v6vslkawc05a77gfly27su534hxs577td7rxzpfcesqtf8jy": [
+        "BossDAO348",
+        "BossDAO349",
+        "BossDAO350",
+        "BossDAO351",
+        "BossDAO2149",
+        "BossDAO2737",
+        "BossDAO3164",
+        "BossDAO3239",
+        "BossDAO3172",
+        "BossDAO3173",
+        "BossDAO3543"
+    ],
+    "stake1uxd5pa6kzmknzsq8wwq8zhnl8ptx55560hhcwps54sw52wqej63s7": [
+        "BossDAO352",
+        "BossDAO709",
+        "BossDAO1244",
+        "BossDAO1528",
+        "BossDAO1826",
+        "BossDAO2351",
+        "BossDAO2963",
+        "BossDAO3192",
+        "BossDAO3448",
+        "BossDAO3571"
+    ],
+    "stake1u9gzwuw8sye2s9ddutujcw9ay8rc78epcl465rpugqll5ag66e92j": [
+        "BossDAO353"
+    ],
+    "stake1u9q0rspkfnl95sf3z59jzjzfue8782mjtfjqg4qyv2ddr3g9ml99h": [
+        "BossDAO354",
+        "BossDAO572",
+        "BossDAO573"
+    ],
+    "stake1u8jmsr06e085rn6j8xgmglm6yr2f2epanffms7ntxqmjqpswg9jpj": [
+        "BossDAO355"
+    ],
+    "stake1u8c9f72km68lksyvwanu5knkswh8tu5p7ezp60dd3685nmgqtulea": [
+        "BossDAO356"
+    ],
+    "stake1u9ngs677cl8ykwf8cruat0kktm3ynhutyjpznlkkjvs5cjc8sgr0x": [
+        "BossDAO357",
+        "BossDAO390",
+        "BossDAO943",
+        "BossDAO1201",
+        "BossDAO1220",
+        "BossDAO1221",
+        "BossDAO1330",
+        "BossDAO1414",
+        "BossDAO1960",
+        "BossDAO2093",
+        "BossDAO2122",
+        "BossDAO2123",
+        "BossDAO2646",
+        "BossDAO3257",
+        "BossDAO3551"
+    ],
+    "stake1u9gxlv7syxedfk4c3ezhh0te7fgleq6ruhy6gycaflt30zs68xwc8": [
+        "BossDAO358",
+        "BossDAO604",
+        "BossDAO929",
+        "BossDAO931",
+        "BossDAO1045",
+        "BossDAO1473",
+        "BossDAO3133",
+        "BossDAO2908"
+    ],
+    "stake1u8u7v5hn70j7rckdlq2cj6llu3f6wl8c3a4grp8n3n0csxq844ddf": [
+        "BossDAO359"
+    ],
+    "stake1u9pmz6xxsxwfp3th8jm4lkn7cf2llrwdpwdy4lyhn8q67cg8q4gjz": [
+        "BossDAO360",
+        "BossDAO472",
+        "BossDAO726"
+    ],
+    "stake1uxgk493xcshp55lyaz2jn2xdxekxd99v3twe7ed46se9j8gcu085g": [
+        "BossDAO361",
+        "BossDAO362",
+        "BossDAO363",
+        "BossDAO364"
+    ],
+    "stake1uypv2vvppn42252w35zk0kpwcu9xqkt98vd7kvtydtkdzqcvwcjev": [
+        "BossDAO365",
+        "BossDAO366",
+        "BossDAO2170"
+    ],
+    "stake1u980cgh20culh0s3qjr4k4eeyj6sakc0cuy6n97pq8e8mdc4ws5xj": [
+        "BossDAO367",
+        "BossDAO368",
+        "BossDAO369",
+        "BossDAO370",
+        "BossDAO577",
+        "BossDAO737",
+        "BossDAO738",
+        "BossDAO739",
+        "BossDAO740",
+        "BossDAO741",
+        "BossDAO3191"
+    ],
+    "stake1u97vpy5q9f5wztm6265gg4ljc3fsylreqe4l4f4csk7ghjscg554t": [
+        "BossDAO371",
+        "BossDAO2550",
+        "BossDAO3013",
+        "BossDAO3207"
+    ],
+    "stake1uy8fkpcvul8hfh7tfv50z9mvrr7c55pqlrxu3guj0v2gs6gkqqfr3": [
+        "BossDAO372",
+        "BossDAO373",
+        "BossDAO374",
+        "BossDAO375"
+    ],
+    "stake1uy4kdtl7j464cvgtd3fc92ympzfu9wazz8evyzg4j6kvnhcyctnur": [
+        "BossDAO376",
+        "BossDAO377",
+        "BossDAO378"
+    ],
+    "stake1uyw3zzfca8m8zrwf3eh9h5jd7ujzvf5u4d9j7errsh6emhsvn3dur": [
+        "BossDAO379",
+        "BossDAO2783"
+    ],
+    "stake1uxac0ne3m5vvvwdl8qw88x6hga7tuxd7lnwjxjqagtzyf7qw2qxnu": [
+        "BossDAO382",
+        "BossDAO385"
+    ],
+    "stake1uxv6n8fcj9laljyzklz8ujzz8y4ne80aqpsp5r9556j8rxc5t69kx": [
+        "BossDAO387",
+        "BossDAO2196",
+        "BossDAO2200",
+        "BossDAO1200"
+    ],
+    "stake1uyalew78z4gw8z9rhce5v6j8xgkuzkvehdg70tr3zhmc2cgs24k5z": [
+        "BossDAO391",
+        "BossDAO392",
+        "BossDAO393",
+        "BossDAO1035",
+        "BossDAO1036",
+        "BossDAO1037",
+        "BossDAO1238",
+        "BossDAO1239",
+        "BossDAO1240",
+        "BossDAO1241"
+    ],
+    "stake1uyj08cq08xnnrszzssuljkkxzpg4nf9xd8gkkqktte6kh6qvsy46d": [
+        "BossDAO395",
+        "BossDAO1068",
+        "BossDAO1466",
+        "BossDAO1767",
+        "BossDAO1944",
+        "BossDAO2019",
+        "BossDAO2150",
+        "BossDAO2226",
+        "BossDAO3278"
+    ],
+    "stake1ux2k2lar2zkx9umz9penx37qe5r2tgheux4nmws5cc42atg357nm0": [
+        "BossDAO396",
+        "BossDAO1454",
+        "BossDAO1455"
+    ],
+    "stake1u9xdd8hssw83sya865v2xz8xdr3sktg2pz2fcw8mqsxhsugnjg9hw": [
+        "BossDAO398",
+        "BossDAO839",
+        "BossDAO1588"
+    ],
+    "stake1uxg4rc8h832htdalaxz0hc8rvalujxavmaj8lx87ugzv7dgyuynkw": [
+        "BossDAO399",
+        "BossDAO504",
+        "BossDAO873",
+        "BossDAO1986",
+        "BossDAO2991"
+    ],
+    "stake1u9hjgq9p8cscrqql7tc9xhaqufh9ge5drnx2032rts3n74cw2fuhx": [
+        "BossDAO400",
+        "BossDAO805",
+        "BossDAO806",
+        "BossDAO1813",
+        "BossDAO1988",
+        "BossDAO2127",
+        "BossDAO2217",
+        "BossDAO2461",
+        "BossDAO3238",
+        "BossDAO3269"
+    ],
+    "stake1uyjlt3pg8lnfruc9kppnp8rn3lctfye5mhzkqwgxvpdhmmg5gz6pm": [
+        "BossDAO403"
+    ],
+    "stake1u8m3t0pdjlsp5qxh86dsxrqr2kjpes093wdcasn4hnh7ezqdyjl2j": [
+        "BossDAO404"
+    ],
+    "stake1u9zg8cj5kt7spw65pn6n93q40xsf006ukm82kkuq9jucn4c5lhr8j": [
+        "BossDAO405",
+        "BossDAO406",
+        "BossDAO2352",
+        "BossDAO2353"
+    ],
+    "stake1ux7hp4cxv2a6xtka769wrrr40gsnwmgeh6645g5srsxw3pqtvvd4z": [
+        "BossDAO407"
+    ],
+    "stake1uxldjljpc37svulta3phgjsymlgt3aj75lvs59r5fanehvsxlnza0": [
+        "BossDAO408",
+        "BossDAO409",
+        "BossDAO410"
+    ],
+    "stake1uxmh4mu6m2clyfh2afz8ed77nsjkeg7adz9y3cm4748q7dgr4g68f": [
+        "BossDAO412",
+        "BossDAO413",
+        "BossDAO414",
+        "BossDAO415"
+    ],
+    "stake1uywtsxwf7pklq0nnwvqksh2fx4tfp8yu8tsten4a3kacyqcc70sk6": [
+        "BossDAO416",
+        "BossDAO417",
+        "BossDAO418",
+        "BossDAO419",
+        "BossDAO420",
+        "BossDAO421",
+        "BossDAO422",
+        "BossDAO423",
+        "BossDAO424",
+        "BossDAO425"
+    ],
+    "stake1u953q3dtk5chwkcdv3wdapte93km7vgkxxrnlxghan4kemq86qyue": [
+        "BossDAO426",
+        "BossDAO427",
+        "BossDAO428",
+        "BossDAO429",
+        "BossDAO430",
+        "BossDAO431",
+        "BossDAO432",
+        "BossDAO433",
+        "BossDAO434",
+        "BossDAO435",
+        "BossDAO436",
+        "BossDAO437",
+        "BossDAO438",
+        "BossDAO439",
+        "BossDAO440",
+        "BossDAO441",
+        "BossDAO442",
+        "BossDAO443",
+        "BossDAO444",
+        "BossDAO445",
+        "BossDAO446",
+        "BossDAO447",
+        "BossDAO448",
+        "BossDAO449",
+        "BossDAO450",
+        "BossDAO451",
+        "BossDAO452",
+        "BossDAO453",
+        "BossDAO1374"
+    ],
+    "stake1uyz36cjx2dztdvjjly0kfj29d3cuygrrpg9r5ustcv8vhfsye9np7": [
+        "BossDAO454",
+        "BossDAO455",
+        "BossDAO456"
+    ],
+    "stake1uxevtxhxxg67seqh6sqy8afz93eya8n46ursx7lpl3mtryg2hkss7": [
+        "BossDAO457"
+    ],
+    "stake1u9p3dn5lk5rc8qn7d9uxleh3x78a8tu2nrhl44vsc6fvqwqmzrgd7": [
+        "BossDAO458",
+        "BossDAO776",
+        "BossDAO2107",
+        "BossDAO3222"
+    ],
+    "stake1u9ert2acllrl3347y39a52v7ceq5suf98sqxepguh7drwyc26sspv": [
+        "BossDAO459"
+    ],
+    "stake1ux7l57u8dlmpwvl0g9z2xnkmk66qtd9e4gdmnzmlahadwlcgzufeq": [
+        "BossDAO460",
+        "BossDAO461",
+        "BossDAO1476",
+        "BossDAO1477",
+        "BossDAO1478",
+        "BossDAO1479",
+        "BossDAO1572",
+        "BossDAO1573",
+        "BossDAO1574",
+        "BossDAO1575",
+        "BossDAO1576",
+        "BossDAO1577"
+    ],
+    "stake1uy2acu7fynlda2wu4dnq083h8w9nvnthgvcq34302wmv8kgue6w03": [
+        "BossDAO462"
+    ],
+    "stake1uxn80004ujgn5au3prhkgcy75cm8k4347rjkq0ftnfmmxmgm4a43u": [
+        "BossDAO463",
+        "BossDAO464"
+    ],
+    "stake1uxj5yznr6x9knsmad68490eg3x6ve7djm29hnem8zqycd2cpudrza": [
+        "BossDAO465",
+        "BossDAO466"
+    ],
+    "stake1u8nnp8g7mnt55dxk6jqmckp0jm0s3zde75r3rzuw7urxkjgduffhs": [
+        "BossDAO468"
+    ],
+    "stake1ux0yj55gsvda85u5e0dwltwlj8g0gwkc5me935y3a9yl88qqry69u": [
+        "BossDAO469",
+        "BossDAO823",
+        "BossDAO2105",
+        "BossDAO2432",
+        "BossDAO2433"
+    ],
+    "stake1ux7dtgtde84gevqpha5jnprnr3uqhltc6ljwhptdt96juvsvtnt6s": [
+        "BossDAO470",
+        "BossDAO471",
+        "BossDAO2386",
+        "BossDAO2387",
+        "BossDAO2388"
+    ],
+    "stake1u8zh5s224q5264jgs3vdl9r0yr6xga8m30mlamvcrvdhs7g5vmddl": [
+        "BossDAO473",
+        "BossDAO825",
+        "BossDAO937",
+        "BossDAO1924"
+    ],
+    "stake1u9q9h2n2g6aqvxatrfqqtsttfyydkhal3zxhrxcrx6g3gyg2qtlec": [
+        "BossDAO474"
+    ],
+    "stake1u8kg3v2mer5j3d90dnneea7xvh4l748pkepjm5ah5cxvddcal59jz": [
+        "BossDAO475"
+    ],
+    "stake1uxx8t746s8khjh9czp5t4axemwfypn8ys74yhvrd5gsukesqcvny6": [
+        "BossDAO476"
+    ],
+    "stake1u90pd6s7cqvc4sqh90qch69ea8yfn5ltv427mzd8vs90axczlq8qj": [
+        "BossDAO477"
+    ],
+    "stake1uyefqtp4wxqvzvpcw7j5upy3kvm0n8u602mf6j22qtw4m7cawlrrn": [
+        "BossDAO479",
+        "BossDAO832",
+        "BossDAO3433"
+    ],
+    "stake1uyfv42gcwcq9ygf33xv9ufs9ehg8dpt9lag4x7rpejppfwg6p3nym": [
+        "BossDAO483",
+        "BossDAO2202"
+    ],
+    "stake1u88heequpeg8kf40px23jq5037c8ulmajmgjxrszmnzq40chfhuqg": [
+        "BossDAO484"
+    ],
+    "stake1ux63fhv07hfg7y7cdjuvz7ru5xs9zu4dsvl5pc2puxwfl5qlkrwlr": [
+        "BossDAO485"
+    ],
+    "stake1ux85s47s663rhwll9uhxxda5ep7sng8dn0va3ms4t9pn7zc80zh58": [
+        "BossDAO487"
+    ],
+    "stake1uxn2wfrknlvq3wskmeypynkese89sfnc02jtkjyu6p3kmxcpua78t": [
+        "BossDAO488",
+        "BossDAO1124",
+        "BossDAO1361",
+        "BossDAO1362",
+        "BossDAO1363",
+        "BossDAO1364",
+        "BossDAO1553",
+        "BossDAO1795",
+        "BossDAO1796",
+        "BossDAO1797",
+        "BossDAO1798",
+        "BossDAO2898",
+        "BossDAO2899",
+        "BossDAO2900",
+        "BossDAO3340",
+        "BossDAO3341",
+        "BossDAO3342",
+        "BossDAO3343"
+    ],
+    "stake1u8m3f7fssvhqmg8sj9ladqp7up7q8nxcvdvgwkayvyzq9xcs0mjz2": [
+        "BossDAO489",
+        "BossDAO2575",
+        "BossDAO2576",
+        "BossDAO2893",
+        "BossDAO3089",
+        "BossDAO3217",
+        "BossDAO3235",
+        "BossDAO3240",
+        "BossDAO3250",
+        "BossDAO3511",
+        "BossDAO3518",
+        "BossDAO3519"
+    ],
+    "stake1uynf7vklwnccn3tzaa47je0392danfzfhfq9e3zagrzhugsvwyata": [
+        "BossDAO490",
+        "BossDAO493",
+        "BossDAO494",
+        "BossDAO497",
+        "BossDAO499"
+    ],
+    "stake1uxdqtlxcjx0dpnl4rxs66quw8afhquqfdgg830qfruxrcwqa3yv63": [
+        "BossDAO491",
+        "BossDAO2414",
+        "BossDAO2415",
+        "BossDAO2416"
+    ],
+    "stake1u9gez268lqmmmd5u64v944y25d66n6lss0tp08cahdsmrzs7k2pn2": [
+        "BossDAO492"
+    ],
+    "stake1u8wqtfxew40y2pcpc55q5z6rx7g9kphv0pmfvpwhvlvm46qqta99w": [
+        "BossDAO495",
+        "BossDAO3476",
+        "BossDAO496",
+        "BossDAO3330"
+    ],
+    "stake1u8czpt5l0t2mp8r4y7fyj9jelhevmlc4g4dehqmgnj0lchcdgx535": [
+        "BossDAO501",
+        "BossDAO503",
+        "BossDAO505",
+        "BossDAO506",
+        "BossDAO813",
+        "BossDAO3175",
+        "BossDAO3230",
+        "BossDAO3387",
+        "BossDAO3574"
+    ],
+    "stake1u9le5yncx3ut8vnlej4fmza5kvg4m7flhyryqa6rldxf3mcv6nmre": [
+        "BossDAO502",
+        "BossDAO582",
+        "BossDAO590",
+        "BossDAO591",
+        "BossDAO2032",
+        "BossDAO2929",
+        "BossDAO3063"
+    ],
+    "stake1uxnudp52nerclfzd848dffz8wuajzc8kmnxaret5xm96s6gmm2cl5": [
+        "BossDAO507",
+        "BossDAO874",
+        "BossDAO875"
+    ],
+    "stake1uyqx8u4s0sgdmkx7jzxa6rxp3gj2azfg5tds7sm4g6lfstqanhjw9": [
+        "BossDAO508",
+        "BossDAO650",
+        "BossDAO2377"
+    ],
+    "stake1uxn59a2qclwctrd2x6x4v28atyfzmg78346nj9mj4ar35kcf4va3t": [
+        "BossDAO511"
+    ],
+    "stake1uxdze9m0l3zpqce9zw8df2gnq9uhvgg6gqwy2t9c2kukl6cv0dwg7": [
+        "BossDAO512",
+        "BossDAO536",
+        "BossDAO779",
+        "BossDAO820",
+        "BossDAO1594",
+        "BossDAO2577",
+        "BossDAO3273"
+    ],
+    "stake1uxlh30sfmk0nmw4zyvawhrldjaak84mpg4r894k9r6n87dc5gstpu": [
+        "BossDAO513"
+    ],
+    "stake1u89szulapsgll2ct3p7lra3hktkvny5672d354vqmdcqvvqhfht4c": [
+        "BossDAO514"
+    ],
+    "stake1uxdewn256tfla2357qlm38ttnhzlmh4m5860jy3ezf9747s32g0cr": [
+        "BossDAO516"
+    ],
+    "stake1u8n97xy7jnzjqjx84z24y3s99h0getr9k74eve92zfjd7dg7f6ywc": [
+        "BossDAO517"
+    ],
+    "stake1u874ycw4gz0nlyay98rh0j83zhckdntqnlaqmqn4fjcx5cc6crvmc": [
+        "BossDAO518",
+        "BossDAO519",
+        "BossDAO1906"
+    ],
+    "stake1u96dhrx644m7crjl3gjfa3qgn9crngwmqfp6g0vk20v56lqd39ltp": [
+        "BossDAO520"
+    ],
+    "stake1u8q0usmj7zmzrv4v3hntc6fumqwt7v872yhp7w32c7mxvpcadceg5": [
+        "BossDAO521"
+    ],
+    "stake1uyqr33qvh3tx7w9wx98lh3ec699ysgy4darumr7ejkejqjqny763x": [
+        "BossDAO524",
+        "BossDAO1323"
+    ],
+    "stake1u9f5kzkur2xv7evfaf7maxw9dqn0ffe6wpz3yujufnsyvtgp4j6g4": [
+        "BossDAO527"
+    ],
+    "stake1u8gvc39c5zffxlj88uc8mkhn5lz4xka8cgr2u99s076hdusxfqphx": [
+        "BossDAO528"
+    ],
+    "stake1uymptvd7ptxsck652l32k36v2nmfm64ax5hjgtgqg5q77ucez0552": [
+        "BossDAO529"
+    ],
+    "stake1ux7kq49phtk9hv29wftzc5dp6adwkuyyc3dzterflnlfqhqkcy25m": [
+        "BossDAO530"
+    ],
+    "stake1u96wkv5xfqzvs0rxhpllmptqmqsddse2ldl5muzt4emes8s9m54k0": [
+        "BossDAO531",
+        "BossDAO2979",
+        "BossDAO3059",
+        "BossDAO3395"
+    ],
+    "stake1u8vg4rnuw76ntfvq4a9jgcmne6jjlwnqz33xctew9jtsxqgj35gfd": [
+        "BossDAO533",
+        "BossDAO534",
+        "BossDAO535"
+    ],
+    "stake1u8l9f8avymt4u9sh6922pg7rtxyyeppxhygaecfsaql8n7s2ssxeu": [
+        "BossDAO537"
+    ],
+    "stake1u8zc0devl5fllv6p2z6unk0errethfq5tafan3n5e2ldfsqhemy2w": [
+        "BossDAO538"
+    ],
+    "stake1ux2m9e43mhlmq9lhw4pd94f7zdm0546xm0v0uxxskk60w3gn73rla": [
+        "BossDAO539"
+    ],
+    "stake1u90dz9llapzmxgzsqntjlzqyt24mcse58s9rv39qdt8rm2swykr7l": [
+        "BossDAO540"
+    ],
+    "stake1u9ukzszd8hgv0g2593u7sd68vn2pfh2guhrf56x3ungzxds98yqf8": [
+        "BossDAO541",
+        "BossDAO1907",
+        "BossDAO1909"
+    ],
+    "stake1uyaznpt8vf53xm308me6mz5l7yhamp2xvafdpnz97ev52cc85rwhn": [
+        "BossDAO542",
+        "BossDAO543",
+        "BossDAO544",
+        "BossDAO545",
+        "BossDAO546"
+    ],
+    "stake1u94slngavym83nc8xwq97a8t8xqgal2tfk9qwup4vlyst7skyx53s": [
+        "BossDAO547",
+        "BossDAO548"
+    ],
+    "stake1uyrmc32222ekl6c0aw53zcwyv842g4malfcmp0f0zwdcwacmcamww": [
+        "BossDAO549"
+    ],
+    "stake1uywmtf9hfl8jdma3gu4qx5gvhnxfhtfk2fv9sgja9yr3gmgxk7zxe": [
+        "BossDAO550"
+    ],
+    "stake1u8wurve6kwvl5mvzk9jkwtp3y4c5jj5dpvu42lnl9xhgj0cmy0jv6": [
+        "BossDAO551",
+        "BossDAO552",
+        "BossDAO553",
+        "BossDAO554",
+        "BossDAO555",
+        "BossDAO556",
+        "BossDAO557",
+        "BossDAO558",
+        "BossDAO559",
+        "BossDAO560"
+    ],
+    "stake1u87c6zqmgjs6hg08ankhpl2ytrg03s5ezlg93hfvjmvxd6szty9mr": [
+        "BossDAO561",
+        "BossDAO562",
+        "BossDAO563",
+        "BossDAO1965",
+        "BossDAO1966",
+        "BossDAO1967"
+    ],
+    "stake1u9w89h2p0dem9m24ad2fpp9jflav4hd3t9jk4lqdn5esxlc39zqy3": [
+        "BossDAO564",
+        "BossDAO565",
+        "BossDAO566"
+    ],
+    "stake1u8ssvy3llx47ee0tr059grszpgyaf39tw3gqfk9k28etyaskadd66": [
+        "BossDAO567",
+        "BossDAO2121"
+    ],
+    "stake1u8crjpzpatdfnaf2360gu5j8kycwgk3e4cm2ea5ayed4qpgfgg5pf": [
+        "BossDAO568",
+        "BossDAO576",
+        "BossDAO578"
+    ],
+    "stake1u8jk8e3vz6mj5vhkxa2pnpwglssnwhdmv0w8uma6mwfpvpcz0yfqh": [
+        "BossDAO569"
+    ],
+    "stake1uxwuwgv83fh3yh896y9kmwhpz9h7xxvfmzuxe3j7fkgcq8g5d38fc": [
+        "BossDAO571"
+    ],
+    "stake1u8gr7zuf4vd79sl5zkhxpkuegzjffwyqqe83rwzshp0w8dsgyxt7r": [
+        "BossDAO574",
+        "BossDAO575"
+    ],
+    "stake1uy8rqvm48nscwd9klf6kdj45en37fgwhf3vtuuw9at7al7qfk5an0": [
+        "BossDAO579",
+        "BossDAO580",
+        "BossDAO1929"
+    ],
+    "stake1uxdkykmcwer2642qykgdmwxxtjvrnzrt885ke6dregpk9rse0eky9": [
+        "BossDAO584"
+    ],
+    "stake1u87lmlk35lun6w26zkrrg7lggklezgqzecnfrd9gfjaknhstqfdr9": [
+        "BossDAO585"
+    ],
+    "stake1u80qewe6myaj9ez0ud53epyck3pxulajes04tr7ttkv4xpsdk5sda": [
+        "BossDAO586",
+        "BossDAO587",
+        "BossDAO3245",
+        "BossDAO3246",
+        "BossDAO3248"
+    ],
+    "stake1u9cg0p8pe70hnvs2j0ndtj3nxvfgdfqhrkwkcchhl2ffdrcd9sqfv": [
+        "BossDAO588",
+        "BossDAO589"
+    ],
+    "stake1uxec9ymz0er9dgu5ftlnvlc9ff4r4ch687tzh2meyt3ak2ctknt5j": [
+        "BossDAO592",
+        "BossDAO854"
+    ],
+    "stake1u8q5ck5y3c4a603mfmwpzwrwkwdgdzgcjjrggr549lg8fpsck3ty8": [
+        "BossDAO593"
+    ],
+    "stake1u98x36jepg4f4zxw60qxun0qhlqe8vdykkkcxvc9akfc9tg4705f8": [
+        "BossDAO594",
+        "BossDAO1780"
+    ],
+    "stake1uxjk4ux7jyucrwgcdeywsv8qc9nkt0606jlng44flwduwwq9s5ewg": [
+        "BossDAO595",
+        "BossDAO596",
+        "BossDAO597",
+        "BossDAO598",
+        "BossDAO599",
+        "BossDAO600",
+        "BossDAO601",
+        "BossDAO602",
+        "BossDAO2442",
+        "BossDAO2902",
+        "BossDAO3036",
+        "BossDAO3208",
+        "BossDAO3479",
+        "BossDAO3480",
+        "BossDAO3481",
+        "BossDAO3482",
+        "BossDAO3532"
+    ],
+    "stake1u827rpfkpd2nqj8uda4mq0ghtx78jtca0ps5af3gdkz95eq0h6pwf": [
+        "BossDAO603",
+        "BossDAO1139"
+    ],
+    "stake1uywj44dydpxqfjgjzr79ttcyssjak0n4n2z7ggrchzysr5s4vzsxm": [
+        "BossDAO605",
+        "BossDAO2280",
+        "BossDAO3132"
+    ],
+    "stake1uxsd72y8aygc4asdjl4wcp385uemmzfk08a849qhd338xqsr7vfl8": [
+        "BossDAO606",
+        "BossDAO1203",
+        "BossDAO1204",
+        "BossDAO1205"
+    ],
+    "stake1uxlwweck4mxyrrzgt4ajgd0kfjufxddxtrt3qve9vludjwc9gjtmz": [
+        "BossDAO607"
+    ],
+    "stake1uxvwq2jw50d9p3qg9x3yh9vkt7enrx2ydkr4hhr7wqstuuq5mxe9s": [
+        "BossDAO609",
+        "BossDAO610",
+        "BossDAO611",
+        "BossDAO612",
+        "BossDAO613",
+        "BossDAO614",
+        "BossDAO615",
+        "BossDAO616",
+        "BossDAO617",
+        "BossDAO618",
+        "BossDAO1823"
+    ],
+    "stake1u9jnnfs8c2tc4ure608gm60a9q0khw3u6munnnv9c7s4rnq9e3fc2": [
+        "BossDAO620",
+        "BossDAO2965"
+    ],
+    "stake1uxp5fjuagrrds9qwp6wgxlu4t2s0s2yxh3409d73mgh50ys8m5wyh": [
+        "BossDAO621",
+        "BossDAO9665"
+    ],
+    "stake1u87tjhf5rz6uepvchyqtkzqpg78jn6al4z37yw26u7rkzng3gau9t": [
+        "BossDAO622"
+    ],
+    "stake1uyg933et2ry5p27qkcsf0wfaj6t4e7lmvjv42c3dag0vswq77waw7": [
+        "BossDAO623"
+    ],
+    "stake1u8uzzazyee3z5xsrsafuk9f868d46mkrw2s2dhygesy624gvdmwcl": [
+        "BossDAO624"
+    ],
+    "stake1uywfeng4pmep6haa4u4f0ffxudfwmw07h86qdvjrxtz30lcx94kmj": [
+        "BossDAO625"
+    ],
+    "stake1u855d766gg7jcvl0dlxly2ly29mehpn2vvyl6jq7jx2n8lqwu5uf6": [
+        "BossDAO626"
+    ],
+    "stake1u9xwcetezfmk0ckwz49ka5ccfecfjx0590m536gfawg95gch68suc": [
+        "BossDAO627",
+        "BossDAO628"
+    ],
+    "stake1u8jdx3l5drejkhz9e2760hsm6543hs5swnm328kug683r6qdqxcep": [
+        "BossDAO629",
+        "BossDAO630"
+    ],
+    "stake1u9wxzqqklp9e78nm0hvfawkrqldp35t63upru7x3r49sthqavrgft": [
+        "BossDAO632",
+        "BossDAO633",
+        "BossDAO634"
+    ],
+    "stake1uyxyfmvmlws5wfpu3dzvs4fxgt22a6j50rwu3pclcqzk5fcf2kjjv": [
+        "BossDAO635",
+        "BossDAO636",
+        "BossDAO637"
+    ],
+    "stake1u87hynaq2kxlamnfkxl4spyjljhn4typjmmurvgwewf0ymqpxp3qt": [
+        "BossDAO638"
+    ],
+    "stake1u8xytev4vv389295kx89ltxtvtshvhxppjurvh20e8m4rwqqtu0lq": [
+        "BossDAO639"
+    ],
+    "stake1u8ek27h8yqx6ask0ftm8rtjxuac5fugkvv0xlgv4ghpkwvqmqulva": [
+        "BossDAO640",
+        "BossDAO644",
+        "BossDAO734",
+        "BossDAO862",
+        "BossDAO1216",
+        "BossDAO1536",
+        "BossDAO1578",
+        "BossDAO1607",
+        "BossDAO1775",
+        "BossDAO2943"
+    ],
+    "stake1uxth9yapdj33uvw0vkjn038g9486hly8xfrf4whgupekc4c8fx3h8": [
+        "BossDAO641",
+        "BossDAO2284",
+        "BossDAO2555"
+    ],
+    "stake1u995u5rgejnxchqde5k08tmllt3a50ne3n9efp0l6c0ecrcrufpuq": [
+        "BossDAO642",
+        "BossDAO2169",
+        "BossDAO2573"
+    ],
+    "stake1u9sd2mhw9lu6ekvwupuu039xzjh2k2z28f66p63yy7jv9kczhwj78": [
+        "BossDAO645",
+        "BossDAO647",
+        "BossDAO648"
+    ],
+    "stake1u9mdvurwgglqm44saqh4r9ytx3s9w98l0wm4wfqza68d4fqsfppnw": [
+        "BossDAO646"
+    ],
+    "stake1uy2j4rqq7n8vvcmk7cqnwzlfpyq47gmncqj3jz3cjq6w5yqp95lu9": [
+        "BossDAO651"
+    ],
+    "stake1u89y0nzg8qrw7ggcjez4f6nrtxy6qt986zu7fcfg0n3wwugqcyjx4": [
+        "BossDAO652"
+    ],
+    "stake1uxpslkjrp386xvruqnjf4qdctlcw08v0upezpn4zvr78c0ghr2xcv": [
+        "BossDAO658"
+    ],
+    "stake1u946yyul8m9pn2wff7ldcss98uzjtnk56f0p7yjh066szsg0tltv4": [
+        "BossDAO659",
+        "BossDAO660"
+    ],
+    "stake1uyljqc7ytjwaq3pm82p0fu9ns00v9g8l7nk7mtyd4v30ces6kz057": [
+        "BossDAO661"
+    ],
+    "stake1u9zyt5w2pvdfm66cd0dhlne354k8v9x2a5e4vx2amrex0kcymue7j": [
+        "BossDAO664"
+    ],
+    "stake1u8pd0sp7dzck05f39236yvt8w9tzx79h9qvshr77gr9d2kcqlj5en": [
+        "BossDAO666",
+        "BossDAO688"
+    ],
+    "stake1u9vfjpt0w5fzknat8psfxqgcl29hxkz67srkpfks8u856wg55mw23": [
+        "BossDAO668"
+    ],
+    "stake1u84jyw2effrlljugey76gj5e59yxqwfvah739pxdg8w77as8zuklq": [
+        "BossDAO669",
+        "BossDAO670",
+        "BossDAO671",
+        "BossDAO672",
+        "BossDAO673",
+        "BossDAO674",
+        "BossDAO675",
+        "BossDAO676",
+        "BossDAO677",
+        "BossDAO678",
+        "BossDAO3253"
+    ],
+    "stake1u82j4v7fjhswmmw4eeps3wpz4w23ntkhj7gg2a98cmtq9lq445jnz": [
+        "BossDAO679",
+        "BossDAO2306"
+    ],
+    "stake1u8g4eufmx0yj7349yn2jycsv6w22lf83qyjndhs667zapyqwsnwax": [
+        "BossDAO680",
+        "BossDAO871",
+        "BossDAO872"
+    ],
+    "stake1u86jk8ll3attnat4rljpv70cff3zuh35m9f84jsvek4varq29wpw3": [
+        "BossDAO681",
+        "BossDAO733",
+        "BossDAO735",
+        "BossDAO736",
+        "BossDAO1359",
+        "BossDAO3088"
+    ],
+    "stake1u9w32glfpar73edt82ts5yls8vdg6hwna4sfgfjrqaahc2qphpxhk": [
+        "BossDAO682",
+        "BossDAO826"
+    ],
+    "stake1u80kfcd273n050dgkrz9u2zaeaylttm3gk75j5cmum392tcm4m29r": [
+        "BossDAO683"
+    ],
+    "stake1u9zz2q67xsedm0af0lgxlkx0tz2mqnd2t7pp8j8dqzul4uqq824yj": [
+        "BossDAO700",
+        "BossDAO701"
+    ],
+    "stake1u9qs0e0lpsjq6r92zka00hzem3vahehphsvtgmx7m474dtgf3rm0s": [
+        "BossDAO702"
+    ],
+    "stake1uxq9328v20yrwcz3z4awykd5kyu7966kl6dd5lnr6lqe8jqe4g04q": [
+        "BossDAO704"
+    ],
+    "stake1uyxefylxqf32u9tfpsazf8vvxpm55zq6vtqfmndj6r9wgzgnrxsfw": [
+        "BossDAO705",
+        "BossDAO829",
+        "BossDAO1552",
+        "BossDAO1582",
+        "BossDAO1740",
+        "BossDAO2486",
+        "BossDAO3081",
+        "BossDAO3159",
+        "BossDAO3221",
+        "BossDAO3364",
+        "BossDAO3517"
+    ],
+    "stake1uyfmq46smce7gpcn58shwlcjjq2pa652v0jlpmcxmyn95gccuz359": [
+        "BossDAO706"
+    ],
+    "stake1uy9yddlhqwpk07w08fvr0jyg255dc4w9rugwme0mx5ufcxgpgwwh6": [
+        "BossDAO711",
+        "BossDAO2540"
+    ],
+    "stake1u9v5hr9kxffaff3j4vpechcfg2zz8zc22cachv47lpedtsc08nt8j": [
+        "BossDAO712"
+    ],
+    "stake1u85ukvnl4v2vtxye3d0fkk0v6wf2pdarm88ny5ec0rtsp7cd2ympl": [
+        "BossDAO713",
+        "BossDAO714",
+        "BossDAO715",
+        "BossDAO716",
+        "BossDAO717",
+        "BossDAO2257",
+        "BossDAO2258",
+        "BossDAO2259"
+    ],
+    "stake1u82egt09h2rdcnsl45se9jwqyqgjlyzek8lyk74paw9p6hs655k3l": [
+        "BossDAO718",
+        "BossDAO719",
+        "BossDAO720",
+        "BossDAO721",
+        "BossDAO722",
+        "BossDAO723"
+    ],
+    "stake1u9n8um2cpauhg5frwmtq0crkgqqp2eajpgtdzs53sp5quxsz00da5": [
+        "BossDAO724"
+    ],
+    "stake1u8emls0s4cuu6emn3zr37rcy8haxwf9dsv4mv0e79h9rm5qlw8fd2": [
+        "BossDAO725"
+    ],
+    "stake1uxfqgmk2u7sndfxmvgfpl6ak8jnsvpkr5m2s63k28h4mrhg9p29xt": [
+        "BossDAO727"
+    ],
+    "stake1u9esyepu4974vlmc6q0r7lqlae8lshz0c9yjh07h9lxf9sq4k9hkq": [
+        "BossDAO728",
+        "BossDAO2277",
+        "BossDAO2278"
+    ],
+    "stake1u9v0qhkv63qent5h6ee4rsftaqrvvhgeegkjwhwule2hpls7ue36p": [
+        "BossDAO729"
+    ],
+    "stake1uxaesu0zpyf4gxtky4ht5jrgmp5zch8vpe04da5flspdd5c570raj": [
+        "BossDAO730",
+        "BossDAO731",
+        "BossDAO732"
+    ],
+    "stake1u8mxhj5aam9upzhpkgnu5a3gj40du79wr059l97rfxsks9smuun4z": [
+        "BossDAO742",
+        "BossDAO1112",
+        "BossDAO2143"
+    ],
+    "stake1uynrkxzxd9l9g6ksytnpkqtapgn3am8xmaxycgfwtpc755gu00276": [
+        "BossDAO744"
+    ],
+    "stake1u9plrq8fnm6nq2ln6uf2zjwsnyf375q3ukwnvr9pjvde56q8kfgjy": [
+        "BossDAO746"
+    ],
+    "stake1u8xv4hleukywmq0yadmyfdnxcdkep0f7k093wjwx3ahpfys5293kl": [
+        "BossDAO747",
+        "BossDAO748",
+        "BossDAO749",
+        "BossDAO751",
+        "BossDAO752",
+        "BossDAO753",
+        "BossDAO754"
+    ],
+    "stake1uxxm3xj3s4kfptx9qxrzts0dgy2dp8uz4yg7uulr4qk8wjq6jrtpc": [
+        "BossDAO750"
+    ],
+    "stake1u8t7dqmq6dm5zyghxcxlqqg2rn9ev687lf5z9um05kuj6gsfl99se": [
+        "BossDAO765",
+        "BossDAO766",
+        "BossDAO1432"
+    ],
+    "stake1u9uclkvv7pgayyst7svk9txf7xe5ct0a8qxs5c5z7c5ydlq2q9kkm": [
+        "BossDAO767",
+        "BossDAO768",
+        "BossDAO769",
+        "BossDAO770",
+        "BossDAO771",
+        "BossDAO772",
+        "BossDAO773",
+        "BossDAO774",
+        "BossDAO775"
+    ],
+    "stake1u97whsd5tqu39m2xr6ncw8ex2jrgn429cw4dlpuqmj6qwaqujeusw": [
+        "BossDAO777",
+        "BossDAO2464"
+    ],
+    "stake1u9m0kx8j6xm2dl6knhq7a2uw8k3q0at7hm5t9s79ae7s0zq2ykwfz": [
+        "BossDAO778"
+    ],
+    "stake1uy8krkcu2335zevefurvd7tkr3j3zmcljuj50ane759x75gsplck0": [
+        "BossDAO780",
+        "BossDAO781",
+        "BossDAO782",
+        "BossDAO783",
+        "BossDAO784",
+        "BossDAO785",
+        "BossDAO786",
+        "BossDAO787",
+        "BossDAO788",
+        "BossDAO789"
+    ],
+    "stake1u9ny6zz50uvdr0su3kdya77f75nszawduplgzz4teqf5zjc5vdt0z": [
+        "BossDAO791",
+        "BossDAO1945",
+        "BossDAO2232",
+        "BossDAO2562"
+    ],
+    "stake1u9kqxd7m0lnlyec4hvz88aqv4nkam32q26f6kh7fp55zeyshe4h0e": [
+        "BossDAO792",
+        "BossDAO793",
+        "BossDAO794",
+        "BossDAO795",
+        "BossDAO796"
+    ],
+    "stake1u9829nued5cp3uj78j30nryac5kt3u2xtw435qceh9kgsggt4l2vh": [
+        "BossDAO797",
+        "BossDAO798"
+    ],
+    "stake1u9c4ft3tvl93y2caaqyr5mywj2ancskhy4x8lk2cmu5vnesg5u8xu": [
+        "BossDAO800"
+    ],
+    "stake1uxkmsad9y3f4a0cz89htp53vn35wfwqfc5kcyhxtad69q8c5zh4pa": [
+        "BossDAO803"
+    ],
+    "stake1u95zr40g9svpemfuwssk0vv3zf2v4htqaxu4r5rd6ey3r2s5r0nda": [
+        "BossDAO804"
+    ],
+    "stake1u9gnrqv8xrl6yk0qzjm7xw3udfcjtclfwcayq5ed7ycsyygxdm39z": [
+        "BossDAO807"
+    ],
+    "stake1u80s5dd686hcqjc7fu8xv3puct98crvwgkag57l0uer2x8sg28n07": [
+        "BossDAO808"
+    ],
+    "stake1ux5epmdtrkgv5yccgemravt600nxusgjwcrdt227jeuzy8cfjkg9x": [
+        "BossDAO809"
+    ],
+    "stake1u8hhq7lld2j2h6k2fdyuzsw3vf2s5r2zjrz0szvlw4zukxcgs7cmg": [
+        "BossDAO810"
+    ],
+    "stake1u9xw263xjt5rdflq9j0zpfq65ak4dk992s246h6pld9neqszd0tvm": [
+        "BossDAO811"
+    ],
+    "stake1u86tw2xty0qx2r555rdm8zfqvl7ukvs5tslela0a9zazwlgq4rftu": [
+        "BossDAO812"
+    ],
+    "stake1u9s4kmuxtpxx4fn8xppkpevlnuvczwh56haynvnne7e4qtq5wsmuc": [
+        "BossDAO815"
+    ],
+    "stake1ux8g22k0x0gryaggmk8xnz78nazxgjlkz3xcdk6xrwvn24sh6qz5t": [
+        "BossDAO816",
+        "BossDAO1018"
+    ],
+    "stake1uxs0xjtj5u8557n7lwcl3qz5zngdesvvp0rswh0af8f80asvyj6ja": [
+        "BossDAO817",
+        "BossDAO3076"
+    ],
+    "stake1u9u52vduch6prrvp36a6mj6uqw2ktzhdn3d0dy6390r4mfg4gy08t": [
+        "BossDAO818",
+        "BossDAO819"
+    ],
+    "stake1u9qlatcnkljy0245kjxrt2cf4gf53lx808cys3v3ds28v7c94x5sd": [
+        "BossDAO821"
+    ],
+    "stake1u9rv6vqjzudjrah785dg473rsxxn9pe0ylqpjs5gruwsksqtlexur": [
+        "BossDAO822",
+        "BossDAO3026"
+    ],
+    "stake1u86yq8f72kan8ze73y7pzhnxpm6p38mcutf975uejl4mcdqm7l0zj": [
+        "BossDAO824"
+    ],
+    "stake1u8t6hrfmw59fez0k70zj2nacaeum4ad84vtnw3tu00m89yqwnycqf": [
+        "BossDAO828",
+        "BossDAO1934",
+        "BossDAO3509"
+    ],
+    "stake1ux5atgcy6k93assv4hy82gpww7fykyvum8maplk3zjzw0kghz3j9s": [
+        "BossDAO830",
+        "BossDAO3478"
+    ],
+    "stake1uy64ua7q6dcsytha40rl57l95mwyc3dka9npsyjhf28jyfgqna0ym": [
+        "BossDAO835"
+    ],
+    "stake1u8vt323kdd0npgj78vcm5h4cgzp5uarlta0hmyem26w0uxg2ysd4l": [
+        "BossDAO836"
+    ],
+    "stake1uxw9zafhgf0njn64v5lrmp7cchchsks66y4czhesfrrfqqs2xfhtq": [
+        "BossDAO837"
+    ],
+    "stake1uy3l0jhjqppxjew0plq7rck60qj0j2zhjteaukvglhu9k4gnw922z": [
+        "BossDAO838",
+        "BossDAO2101"
+    ],
+    "stake1u8rkdyddwytexcpx9a2r2275jw3vsnttqk0ka8dycdhy3ecmcjc5a": [
+        "BossDAO840",
+        "BossDAO1321",
+        "BossDAO2718"
+    ],
+    "stake1u9wl66pr09gwvqmhzyhzh8f54lp5x5282xhll86e0c72gvq68mxuh": [
+        "BossDAO841",
+        "BossDAO1242",
+        "BossDAO1243",
+        "BossDAO1579",
+        "BossDAO1581"
+    ],
+    "stake1u9ja577ts43c7ze03u3ku4ts4gfvezrd8xhnkthd58yak7shht5hw": [
+        "BossDAO852"
+    ],
+    "stake1u9ln4m5wvd9jjzd5466hxhgg0z3uy8cchqtz9tdng9cx5xce03qzv": [
+        "BossDAO853"
+    ],
+    "stake1uy3gtrrwxnug7yea4u2dq0ug655n5w5sma8xtksnl6kx24smwaa3w": [
+        "BossDAO856"
+    ],
+    "stake1u8t2x4djndhwe8sk8ces94035kq8rluyahv4gk55lu2n24qxnxg7l": [
+        "BossDAO857",
+        "BossDAO1351",
+        "BossDAO1421",
+        "BossDAO2337",
+        "BossDAO2656"
+    ],
+    "stake1ux78vxjl4lun3l6q77zu9rmx5hxtlcwkshycgd0grqn9vystus3tq": [
+        "BossDAO858",
+        "BossDAO880",
+        "BossDAO881",
+        "BossDAO882",
+        "BossDAO883",
+        "BossDAO884",
+        "BossDAO888",
+        "BossDAO889",
+        "BossDAO1277",
+        "BossDAO1292",
+        "BossDAO1630",
+        "BossDAO1933",
+        "BossDAO1959",
+        "BossDAO1989",
+        "BossDAO3194",
+        "BossDAO3196",
+        "BossDAO3497"
+    ],
+    "stake1u99l9xa7n0uvvue2psvx6x5x89g8skkwla07jrvuz65s8xc49dvrg": [
+        "BossDAO859"
+    ],
+    "stake1uyzxlcff382u74njtqfurnyq7stkml05xkdes7wx42k3ldgt4pqxa": [
+        "BossDAO860"
+    ],
+    "stake1u9r5ctcrwxnpeadclzuwthqvenquwnu42v2gn83veq093wctfg2fj": [
+        "BossDAO863",
+        "BossDAO2063"
+    ],
+    "stake1uygqly7xcmz2gsnawtx9axsltmf28uq560xsjqagwe6xpsq736hfe": [
+        "BossDAO864"
+    ],
+    "stake1u87523d4l5pyx795hrv8sr2sljmr80u0gvumqajpc2texzgmdhw8p": [
+        "BossDAO865",
+        "BossDAO866",
+        "BossDAO867",
+        "BossDAO1828",
+        "BossDAO1829",
+        "BossDAO1830",
+        "BossDAO1831",
+        "BossDAO1832",
+        "BossDAO1833",
+        "BossDAO1834",
+        "BossDAO1835",
+        "BossDAO1836",
+        "BossDAO1837",
+        "BossDAO1838",
+        "BossDAO1839",
+        "BossDAO1840",
+        "BossDAO1841",
+        "BossDAO1842"
+    ],
+    "stake1u8y0szumzp2gmgf5luhp9qzykdp79e4kdp3uvhzrr2pw3as28sz2r": [
+        "BossDAO868"
+    ],
+    "stake1u89kchewd4fwf5qlp83upzm43jmrp0d5gfkrfyjw5lwsmkq4xwuk8": [
+        "BossDAO869"
+    ],
+    "stake1u8x45ae3dn5jvahyhnt9ncpzg4mm6cs3qekv4ee8rz6t7zc5zlser": [
+        "BossDAO870"
+    ],
+    "stake1uy0vmhxp600vq2znp6fgt8cmugs982ka047402kmumsln8s70g0ta": [
+        "BossDAO876"
+    ],
+    "stake1ux2w2vxwgv8c9nxn7sg3f6uqf387cp2n0wu0e40dc2c46agh60nwn": [
+        "BossDAO879"
+    ],
+    "stake1u85zug02wwlzgctpefdn3cn0ss9zeuf93mr4ghxralxg0kc4s3vnt": [
+        "BossDAO885"
+    ],
+    "stake1uyu7rr7xyk96xs0f85hdq0glr2pskwqycph3sp9sydvf42q36s4pc": [
+        "BossDAO886",
+        "BossDAO3071"
+    ],
+    "stake1u9kk0s57tqnch0q6wetlpn2uvxlgjz4cr5xjn44q90xlupsm9rat3": [
+        "BossDAO887",
+        "BossDAO1396",
+        "BossDAO1397",
+        "BossDAO1398"
+    ],
+    "stake1u9tu2c088e298h85q7ccwuwlk4lzy59qurqf3r7ynfl0p7qu7m4ja": [
+        "BossDAO891"
+    ],
+    "stake1uxtvccjzgf9g5xpquc8673xt83j2g3xeg5f34760d2lu5lc4nsfz8": [
+        "BossDAO892",
+        "BossDAO893",
+        "BossDAO894",
+        "BossDAO896",
+        "BossDAO930",
+        "BossDAO2289"
+    ],
+    "stake1uyg0zhygl74a3cz48k8k0vazajw2gvnhg4un8e9scmzkckc7df6c8": [
+        "BossDAO895"
+    ],
+    "stake1u9nzluwzlmdlt56xpa63xzh8xwp5nmwe4fre434xl45wc8cq2ckk3": [
+        "BossDAO898",
+        "BossDAO2224",
+        "BossDAO2413",
+        "BossDAO2765",
+        "BossDAO3241"
+    ],
+    "stake1u9a74fpss3kfkxga4dvfwhv9clymr03w03vz20745tz7fzqa32u6p": [
+        "BossDAO899",
+        "BossDAO900",
+        "BossDAO901",
+        "BossDAO2077",
+        "BossDAO2359"
+    ],
+    "stake1u8ctv89wv95v6wywgyvtcgyt9mqd7daw9ghravc8mpxsmmcw54t3h": [
+        "BossDAO902"
+    ],
+    "stake1uymftsejp2dqys405hg06hlvh7290gmr4q43msglusqk9gsvm84y2": [
+        "BossDAO903"
+    ],
+    "stake1uyyfdtvkxlfvvusp7zrhyqqnq37m5jr5ph6xv36zkpsxc9qz8xxrz": [
+        "BossDAO904",
+        "BossDAO1507",
+        "BossDAO3473"
+    ],
+    "stake1u99hvqmvr8j53j95ekhmw8ylcv4g704rjzkww5dgjdgglzg2hn06h": [
+        "BossDAO908"
+    ],
+    "stake1u8dvhrf6uazced2j72rs6u3tehkhrye57ec2z00dfxsamqsqlecm2": [
+        "BossDAO910",
+        "BossDAO911",
+        "BossDAO912"
+    ],
+    "stake1uxt7zfs447sjquaan0mh4lnpe7kxh5g3xpt8hnnfz54uq5g09yrvk": [
+        "BossDAO913"
+    ],
+    "stake1u9nva4l0npggaq6zeacyp2w6ce44tjux5qrhdd38we5j5uqw0xsf9": [
+        "BossDAO914",
+        "BossDAO915",
+        "BossDAO916",
+        "BossDAO917",
+        "BossDAO918",
+        "BossDAO919",
+        "BossDAO920",
+        "BossDAO921",
+        "BossDAO922",
+        "BossDAO923",
+        "BossDAO924",
+        "BossDAO925",
+        "BossDAO1600",
+        "BossDAO1601",
+        "BossDAO2921",
+        "BossDAO2922",
+        "BossDAO988",
+        "BossDAO989",
+        "BossDAO2311",
+        "BossDAO2312",
+        "BossDAO2313",
+        "BossDAO2314",
+        "BossDAO2597",
+        "BossDAO2598",
+        "BossDAO2599",
+        "BossDAO2600",
+        "BossDAO2601",
+        "BossDAO2602",
+        "BossDAO2603",
+        "BossDAO2604",
+        "BossDAO2605",
+        "BossDAO2606",
+        "BossDAO2976",
+        "BossDAO3318",
+        "BossDAO3349"
+    ],
+    "stake1u9h3xhcpruggwk6zu3p4xm5a29ht5jh53ery27ss77suqaszjhyrc": [
+        "BossDAO927"
+    ],
+    "stake1u9426qx602kqnddy5tde07lw7jkq68zpgytxrpczjy7ftfszjeavn": [
+        "BossDAO932"
+    ],
+    "stake1u8u2tzqlljhphwpny3mvj6yf03gymlyqd5fxxg6yuyd9qjcet0899": [
+        "BossDAO935"
+    ],
+    "stake1uylncczt9qqn0zhvpppajnz8pxvzaf297rdekyramhd70wq00sjvz": [
+        "BossDAO936",
+        "BossDAO1054"
+    ],
+    "stake1uyu57rysw2n4u2lsddptc94rtt7r62ddumh9pp7r3nvackcn4apw2": [
+        "BossDAO938"
+    ],
+    "stake1u9j8mkaft65duwgz7rfkc5wcjgfrwc883d92twrgm495yxc8wx8m6": [
+        "BossDAO939",
+        "BossDAO940"
+    ],
+    "stake1u8julm6gu0p8du7lcqncmkrehjcmv5xlftzadzu4f3r7tycjmuv7y": [
+        "BossDAO941",
+        "BossDAO3229"
+    ],
+    "stake1u93a2yhayv3gwlg0tv67czs4e6jae6tavvua47kjuv33r9gwhc0pc": [
+        "BossDAO942"
+    ],
+    "stake1u9fzq9jlyhxc0mwdtd94h47c6d92sd5mefzwlec2q55ncnc8wxrx3": [
+        "BossDAO945",
+        "BossDAO946"
+    ],
+    "stake1uyqvy9xxnrvq9kwcflk9uy9j3rs6vj9mxnvldtsjkcwg2agj6z4p3": [
+        "BossDAO947",
+        "BossDAO948"
+    ],
+    "stake1u8sxaazhvywc9s6etr5qv9hpssgf2lj6kkq4w03v4ntqyxgsw07fj": [
+        "BossDAO949",
+        "BossDAO950",
+        "BossDAO951"
+    ],
+    "stake1u8uwqs39h05nurt46zaldp95c89l4chtx5rdv4mle2qmjwcn4u0kq": [
+        "BossDAO952",
+        "BossDAO953",
+        "BossDAO2885"
+    ],
+    "stake1uyp23hd3c8350edtv0aljn7dmj6hej79xmjddgajawsy22scve9vc": [
+        "BossDAO955",
+        "BossDAO956",
+        "BossDAO957",
+        "BossDAO958",
+        "BossDAO959",
+        "BossDAO960",
+        "BossDAO961",
+        "BossDAO962",
+        "BossDAO963",
+        "BossDAO964",
+        "BossDAO965",
+        "BossDAO966",
+        "BossDAO967",
+        "BossDAO968",
+        "BossDAO969",
+        "BossDAO970",
+        "BossDAO971",
+        "BossDAO972",
+        "BossDAO973",
+        "BossDAO974",
+        "BossDAO975",
+        "BossDAO976",
+        "BossDAO977",
+        "BossDAO978",
+        "BossDAO979",
+        "BossDAO980",
+        "BossDAO981",
+        "BossDAO982",
+        "BossDAO983",
+        "BossDAO984"
+    ],
+    "stake1u8g0aq7x8kew4s6xq228xtedkux7vplsfeg05qpawk9gpkgw7cpyh": [
+        "BossDAO985",
+        "BossDAO986",
+        "BossDAO987",
+        "BossDAO2509",
+        "BossDAO2510",
+        "BossDAO2511"
+    ],
+    "stake1u8mkf6rzlrlck9wa49jwkszw2yjxvtchgkptdl699fn77pgtc32gj": [
+        "BossDAO990"
+    ],
+    "stake1uxgapw5wxv39xrtjeqy2y7g86mf3crqycvwh8vdyc0lmdcszqx7cx": [
+        "BossDAO992",
+        "BossDAO993",
+        "BossDAO997",
+        "BossDAO1410",
+        "BossDAO2021",
+        "BossDAO2264",
+        "BossDAO2906"
+    ],
+    "stake1uyev28t8m5qnspzfc5s0dsh9nqcc88yw8qhq85a6gsggeyqv22me9": [
+        "BossDAO995",
+        "BossDAO996",
+        "BossDAO998",
+        "BossDAO3360",
+        "BossDAO1360",
+        "BossDAO2487"
+    ],
+    "stake1u8rx2hmjtfy28zuh2cd0c678ulypz5egdm3rnngxd5ta9mq6pa362": [
+        "BossDAO999"
+    ],
+    "stake1u8r2qzq2kmt5gha3jcgx0hrewva4xva3rwgnuywmp8hfzcc45kyk7": [
+        "BossDAO1001",
+        "BossDAO1002",
+        "BossDAO1003",
+        "BossDAO1004",
+        "BossDAO1848",
+        "BossDAO1849"
+    ],
+    "stake1u85sjmme2urjwq20lr8j9kjpxfzdaxe5cteqlqavcv07nvcp9z6sw": [
+        "BossDAO1005",
+        "BossDAO1006",
+        "BossDAO1331",
+        "BossDAO2119",
+        "BossDAO3060"
+    ],
+    "stake1u8zmthur80psut338sdjfnks30puy2jgwy9t7ap9wtf6pcckm869e": [
+        "BossDAO1007"
+    ],
+    "stake1ux7p70mtzufmky93xsuu372rprm5fgchsscge0w8gvhye4q62dmg2": [
+        "BossDAO1009"
+    ],
+    "stake1u83ln0krr06uycessdx8amgp4h3xcsx2h8ltzy73fa5z8ysdztrky": [
+        "BossDAO1010"
+    ],
+    "stake1uxdj7w4srdwkrdnm6csa95eq3ku8zrph4sqhn73wfjnutmgr4xpqd": [
+        "BossDAO1011",
+        "BossDAO1616",
+        "BossDAO1617",
+        "BossDAO1618",
+        "BossDAO1619",
+        "BossDAO1620",
+        "BossDAO1621",
+        "BossDAO1622",
+        "BossDAO1623",
+        "BossDAO1624"
+    ],
+    "stake1u9emvxydgew8h9t0tv4r37t2lystx0vtmc4jje42mulcw6g3gnexz": [
+        "BossDAO1012",
+        "BossDAO1013"
+    ],
+    "stake1uxqlkgej9pz5jzdyhjla6l94w3u9qsp00r67zez5t9hdy8qlkgdfw": [
+        "BossDAO1014"
+    ],
+    "stake1uy8c82qtwqf4qx0yujqpvy9zzfltwqw8d5fqdhjtve852ec98gs6e": [
+        "BossDAO1016",
+        "BossDAO1017",
+        "BossDAO1095"
+    ],
+    "stake1uyc8elga2x43h75a5a84hrevh66rxrvdfnz675njqtxjxnc4j7gnh": [
+        "BossDAO1020"
+    ],
+    "stake1uycmk8fn77gd6ec9yk3aw0c8awxja9zuppgfn50wwukz7uqyh9mhv": [
+        "BossDAO1021"
+    ],
+    "stake1uxc4dy4mv260ddcs2kss4jpy8rndzlj9y8ghth8semarvvqhn4r9g": [
+        "BossDAO1022",
+        "BossDAO1023"
+    ],
+    "stake1u9gjtfvrldgps9ngth3uzfvncvu9zfrw67h7pk5k748n3ecflearj": [
+        "BossDAO1028"
+    ],
+    "stake1uxsyhc03ndwsnhh8lnw62aqpp2anhk97p2ndpp62dk0vv4sk7xnx4": [
+        "BossDAO1029"
+    ],
+    "stake1u9wjxfty4843j7tjjw8dz8c3jpm3x23r938v9s0ej5c2e3ssmsmr9": [
+        "BossDAO1031"
+    ],
+    "stake1u877n746akh8fpnm94lmakn4vull9dkpwvz6mngzlw4fzrsd9c43z": [
+        "BossDAO1032"
+    ],
+    "stake1uyj0376mnf9t4vyv9xc8099hl65ly2y953eynrwslfp98rqdcag85": [
+        "BossDAO1033"
+    ],
+    "stake1u8lzep8em27cvft5mr09kkgk2rl7u5k4xkf5r2fcchf2qycweh0m7": [
+        "BossDAO1034",
+        "BossDAO2135",
+        "BossDAO2220",
+        "BossDAO2221",
+        "BossDAO2920"
+    ],
+    "stake1u92epeg2hnqkladv85c8aj72evnw9h0fe6605fchvxg8eysdtp464": [
+        "BossDAO1038",
+        "BossDAO1039",
+        "BossDAO1040",
+        "BossDAO1041",
+        "BossDAO1042"
+    ],
+    "stake1uy58jv2lsxvzt7tvcuy7m7da9vrx2s6jvkmlexwlku5hxpgr48zj0": [
+        "BossDAO1043"
+    ],
+    "stake1u8awpye4lrze08e6rdjnstmftaq9v224f3u3g52ywhxt9pqdvxacd": [
+        "BossDAO1044"
+    ],
+    "stake1uxazm2s8mg2m4gay7gv0n6z2q4aczecysrjjdwa87y6t3sccwnmrr": [
+        "BossDAO1046"
+    ],
+    "stake1uyfgcv4649xm0mcpksxh8s5z7pkndmlf5r5f9rvjc4e4adsh6snuq": [
+        "BossDAO1047"
+    ],
+    "stake1u887p78p8gawg8ce5gm4n8d9gkflqtmpgygujsxwul0e2jqz3vy08": [
+        "BossDAO1048",
+        "BossDAO2422",
+        "BossDAO2423",
+        "BossDAO2424",
+        "BossDAO2425",
+        "BossDAO2426",
+        "BossDAO2427",
+        "BossDAO2428",
+        "BossDAO2429",
+        "BossDAO2430"
+    ],
+    "stake1ux0vqsewyk5uqkempvhcsqapd4kgk0zen90qyxlevpqxxdgzmmk6t": [
+        "BossDAO1049"
+    ],
+    "stake1u9g3j47eehgeydp5jffvkmsffsqrepxtq0y5v7cx9fpyg3q9p35e0": [
+        "BossDAO1050"
+    ],
+    "stake1u8d309s3xw8p4962kt6al532ue9dgzqz9yqjz3gfrx7adugseh3zz": [
+        "BossDAO1051"
+    ],
+    "stake1uxp05ktt36t0wsfrfn4ymuuuaz2k5aa4wtflqh2tmnfdc3g3ydt60": [
+        "BossDAO1052"
+    ],
+    "stake1uxg5eqsxwfkpsy32p3ap5zky8er42p8jvwd25cll0m947msre9s5c": [
+        "BossDAO1058",
+        "BossDAO1059"
+    ],
+    "stake1u8jfk6d6x8r8dxgqxnqkew8663j4jzu52tkax9dwddasafcv38rvr": [
+        "BossDAO1060",
+        "BossDAO1214"
+    ],
+    "stake1u9qe58xqhdxez9z8d3v6h2yc4926ndpyz5eyx3wt82jfhaszak7um": [
+        "BossDAO1061"
+    ],
+    "stake1uxtj5myewjpalrywqqx4kslmvxz4jjgd42d048fhjwdrhps8f6len": [
+        "BossDAO1075",
+        "BossDAO1077",
+        "BossDAO1078"
+    ],
+    "stake1uyzr9unvte4vnd0ddzaed8q0w02y5squptgtyvvn29gxdxsde4emg": [
+        "BossDAO1076"
+    ],
+    "stake1u98mfu403sfc4muldu4l4umfltmr26zwn4q498gw5hxfdeq8ajc5v": [
+        "BossDAO1080"
+    ],
+    "stake1uxj5kysd76gg7lqaexpuygknqqe2urxtpndd079m6yz9jwqe3swkc": [
+        "BossDAO1081"
+    ],
+    "stake1u9jxvfw2a2uhlcr73mpffyuv7q454hj59cmspnzcgyqmelcq6n0as": [
+        "BossDAO1082"
+    ],
+    "stake1u8h0qwuzs7zy79feap7dnuc6hrd5lcze2ujlny0xs5y25ugfpy6kl": [
+        "BossDAO1083"
+    ],
+    "stake1u9qnhnxg8awdhgyeeyhdwm5wn4s2sa7j7txp0uplqmsa3hgndf2kw": [
+        "BossDAO1084"
+    ],
+    "stake1uyq7sd6hm76ahncsjpws55y3es07t627ehrftvam277lsyqu7uks6": [
+        "BossDAO1085",
+        "BossDAO1532",
+        "BossDAO2155",
+        "BossDAO2156",
+        "BossDAO2993",
+        "BossDAO3475"
+    ],
+    "stake1u86zwrq860gll92n390w5y4trxhhmv40dcptq9sqvl6mqfc92t30e": [
+        "BossDAO1087"
+    ],
+    "stake1uy894c5t38qw2dfsxn2avam4ryy7ydw4erpsldweza99llgr9l3c6": [
+        "BossDAO1088",
+        "BossDAO1089",
+        "BossDAO1090"
+    ],
+    "stake1uy5pgg2fwkyn2dwctd9m2mu7a7hfwtnfq5sc0az3a4489ug8xlrcz": [
+        "BossDAO1091",
+        "BossDAO1092",
+        "BossDAO1093",
+        "BossDAO1094",
+        "BossDAO3431",
+        "BossDAO3432",
+        "BossDAO3494",
+        "BossDAO3495"
+    ],
+    "stake1u9sx9caxej750p7hdfklzm6tl92484c3aj9s424jxgf2fzsn86pr5": [
+        "BossDAO1096",
+        "BossDAO3338"
+    ],
+    "stake1uy3p2mskp9kdzex8vlnlzne0tj06mkm7h4skjluhmww4amga4leqf": [
+        "BossDAO1097"
+    ],
+    "stake1u9mmng8m0ytp3hxlc449y9jyxsw7msl72yylks8zc93n6wq7zqv4f": [
+        "BossDAO1098"
+    ],
+    "stake1u8rv44hpq69tdv09lmpuqrdh540ett9z6m05xz66kralm9q8ag2az": [
+        "BossDAO1101"
+    ],
+    "stake1uy55j06ztlwyfyh3mcwwx6w00ktfzjd58cnlvsc8rfycrecd6zehw": [
+        "BossDAO1103",
+        "BossDAO1975",
+        "BossDAO1976"
+    ],
+    "stake1uxmdw2xk3zln3zhdk5hcxjp3xp9gh843wkgqffvwypmecvss93sg4": [
+        "BossDAO1104"
+    ],
+    "stake1u90pfquyfzfn59jqzqkfwj0kfh7u755kptgk5mwhyze4rzqcan2pr": [
+        "BossDAO1105",
+        "BossDAO1106",
+        "BossDAO1107",
+        "BossDAO1957"
+    ],
+    "stake1uxjcg69c8jhxfl3juh9puj309ztaylrqwg770m0fprdvlfgn08mqk": [
+        "BossDAO1108"
+    ],
+    "stake1uyuqt7r75yet3sr7fc967hefvjxzyxrsq4a223l3w39ce3s85hz0u": [
+        "BossDAO1110"
+    ],
+    "stake1u8jnsts9acx5eskn5lq9apa5xr5eakpj4rz7fwau9uaxsncdr699k": [
+        "BossDAO1111",
+        "BossDAO1253"
+    ],
+    "stake1uy5m7auqtrzq45w5ktdwxcwqg87m8eevy67e29ry0hjvpacjy960v": [
+        "BossDAO1113",
+        "BossDAO1114",
+        "BossDAO1452"
+    ],
+    "stake1uyd55re8q4rvzkam2llmagrdd9jqgsapsyw68krw4xm0zpc5wmj6f": [
+        "BossDAO1115"
+    ],
+    "stake1uxnrlcsz0cv49qjxp440qvetfrtn5e0zg6nc3f7p96upxnssfgxr6": [
+        "BossDAO1116",
+        "BossDAO1117",
+        "BossDAO1118",
+        "BossDAO1119"
+    ],
+    "stake1u8u6uzte8rgn8hl6p2g2q92fxv7gwp9paj9qajcfaxe5znqkc9faf": [
+        "BossDAO1120"
+    ],
+    "stake1u8y98cpl4lmqkwtjrg3c8dxzuacuerjdwhdt3mqyqtd47lc75qwnd": [
+        "BossDAO1121"
+    ],
+    "stake1u92wg8uzpv40dtnwana4rp06d427ls2sgl59pdsesd87m2s93cjan": [
+        "BossDAO1122"
+    ],
+    "stake1u8pxyy0glltezmv4xnelfp5jsml9m3qmjv6zkyv8hcgs03g6z0hh0": [
+        "BossDAO1123"
+    ],
+    "stake1uxqhd0p5lcq9g6wvmmfs22e2tpk2qhah706ywwl63ajzyagjtus82": [
+        "BossDAO1125"
+    ],
+    "stake1u8cnd6t6jxmpegdr2yvst8uqdlhslwvm7hqhj3znvxvupscd6h65r": [
+        "BossDAO1133"
+    ],
+    "stake1u9e0f8hawetdzktrlh89a5hh0ndqugwelxmkwm45m2fsehq7w0kmv": [
+        "BossDAO1136"
+    ],
+    "stake1u844dxpkxwaqs96tqnu05xnmdy35rge37hj7v3cvcd5tmdql7l4fh": [
+        "BossDAO1137",
+        "BossDAO3069"
+    ],
+    "stake1ux7hn4vj856rh2hkjv2q4wz448kqyqkqa00qzxhc7mwqe9gpptzy2": [
+        "BossDAO1140"
+    ],
+    "stake1ux5al784sepxlalp4zpphemnz4vhp4rgcv6lg2d3snpvr4cvlcne0": [
+        "BossDAO1141"
+    ],
+    "stake1u980nnnupx4t0rwj8nhh3gvj2z74eazzazc5446rcslhcyqha0xsx": [
+        "BossDAO1142"
+    ],
+    "stake1uyna9ksfx2n6gejguzs365t895902v65ycr9qscqe9sdf3gpjuurd": [
+        "BossDAO1143"
+    ],
+    "stake1u9u8ntcl2032tggn3ymavm7amecan5klepgxjq4l3u0c63c590ahe": [
+        "BossDAO1144"
+    ],
+    "stake1uyxwz8v7nc0edr39erxpc58fcyhqh5wx49s9wsumrcdga8g54ma04": [
+        "BossDAO1145",
+        "BossDAO1531"
+    ],
+    "stake1ux86flsc38wkxhy4g2ludhxx3lh6gcytxq76679hqfka0lsns7q3s": [
+        "BossDAO1146"
+    ],
+    "stake1ux273mxlv8slw78u54un0z69creg5xknsfc9qfqqe8kmgvgvhsta7": [
+        "BossDAO1148"
+    ],
+    "stake1uyvf4e0h2md77d034zsx42lf5z9pfukcqv2jh8g4apvclls0cnr88": [
+        "BossDAO1149",
+        "BossDAO1151",
+        "BossDAO1150",
+        "BossDAO2419"
+    ],
+    "stake1uxg2czmweuunknvd4ed9g0tmtdm5v9nes5y772wzmd45rkc6nlk8c": [
+        "BossDAO1152",
+        "BossDAO1153",
+        "BossDAO1154",
+        "BossDAO1155"
+    ],
+    "stake1uxsvs3362a0d7ssldavhwcm3ej358dq8w78x48yhz6ux02c3936cm": [
+        "BossDAO1156"
+    ],
+    "stake1ux5tpxhpl2lh4s32szjz3gmdgwgd8f5ksu4yqn5cput8avqrk9x5k": [
+        "BossDAO1157",
+        "BossDAO1158",
+        "BossDAO2031"
+    ],
+    "stake1u92ed3dp75xsfnn0rsnp9rusvwrc87023z55avr0fjh28hc9ym3y7": [
+        "BossDAO1161",
+        "BossDAO1162",
+        "BossDAO1163"
+    ],
+    "stake1u8zp0lhmysk8s6tt9ydllqh2smaj2chcg6sghql5dcz7ydceety5n": [
+        "BossDAO1165",
+        "BossDAO3144"
+    ],
+    "stake1u9n5kzcyj7ev64cn2w082ckhtcfz0asp4wkyuv70xwl0y2qzylfa2": [
+        "BossDAO1167"
+    ],
+    "stake1u9wx0sphzqezvnw97hur73xpsdwgwg3zpc4zs5tmwxqg2lswendlp": [
+        "BossDAO1169"
+    ],
+    "stake1u9f3wx0s6mr64f4ct7jzfenajq7lwtl6qs46jt84uyr4nwgqtmacn": [
+        "BossDAO1170",
+        "BossDAO1738"
+    ],
+    "stake1u8u0tr9r3lek4jl6qzgsy7amdgpr6jefm6cpdl7m3kghxdqkjwgq5": [
+        "BossDAO1172",
+        "BossDAO1173"
+    ],
+    "stake1u9ppklzaeutdav44fal3muchn6twf895nr9qe0suerwgheqxakla2": [
+        "BossDAO1176",
+        "BossDAO1177"
+    ],
+    "stake1u9huvhp6q7w2ljnuwsa8qv8em6uwhvaa6hefj06mulznrss40988g": [
+        "BossDAO1179",
+        "BossDAO1475"
+    ],
+    "stake1uxkm683l5ssxs48w0gxkeshn7gauw7ezqrvmvxcfm78zt6qpzuyzq": [
+        "BossDAO1181"
+    ],
+    "stake1u87wdhzmpyr224689jgv474x7g9nnerxpm4ufe3uvsyzzhchatx2u": [
+        "BossDAO1182"
+    ],
+    "stake1u804uuua3mlv6j3kj29e9x04hvsrs45cf487lm8hafwxxtqfcm8k5": [
+        "BossDAO1184"
+    ],
+    "stake1u83ajqck35v6nl4gsjnqgpqxjfkejpwpq97ufalqch3sefcmawqkt": [
+        "BossDAO1185",
+        "BossDAO1186",
+        "BossDAO1187"
+    ],
+    "stake1u9nm5qr5g47ccnhg5yuc5pv32fyhqkxrpryxdvlujf55vhsvqp0fm": [
+        "BossDAO1188",
+        "BossDAO1189"
+    ],
+    "stake1u82emmwc0at37kjjf496jfuc30j8hhml84zwvxhkxgctcsqpgsp0w": [
+        "BossDAO1190"
+    ],
+    "stake1uxlrwrnk30u4jrlat9425zz00xhrekx608jprg7jt99550gjnq6ha": [
+        "BossDAO1191",
+        "BossDAO2240"
+    ],
+    "stake1u8e0ywu8rpmj44va46fgn9jm60ete094ct523d6ad272z0clzv476": [
+        "BossDAO1192"
+    ],
+    "stake1u887s0krty8ewmulral3pzjwc606nhrdrkdzlpfnaxwfjnq8v8a8d": [
+        "BossDAO1193"
+    ],
+    "stake1u9995hhhc32phzelccw7z8quvettjrfqxevzazsdtv8vq8gt2fyhf": [
+        "BossDAO1194",
+        "BossDAO1513",
+        "BossDAO2533"
+    ],
+    "stake1ux83fz2gsfu9lgu32dt9kydws4u9mw8mmmu5wkyr9nrsvecxmluer": [
+        "BossDAO1195",
+        "BossDAO2001"
+    ],
+    "stake1uyyr9qm6juczcxgm8pr4rfvfwljuu5d443jxmcqaekt05usue6phv": [
+        "BossDAO1196",
+        "BossDAO1197",
+        "BossDAO2915",
+        "BossDAO2916",
+        "BossDAO2917",
+        "BossDAO2918",
+        "BossDAO2919",
+        "BossDAO2924",
+        "BossDAO2925",
+        "BossDAO2926",
+        "BossDAO2927",
+        "BossDAO2928",
+        "BossDAO2932",
+        "BossDAO2933",
+        "BossDAO2934",
+        "BossDAO2935",
+        "BossDAO2936",
+        "BossDAO1387",
+        "BossDAO1388",
+        "BossDAO1389",
+        "BossDAO1390",
+        "BossDAO1537",
+        "BossDAO1538",
+        "BossDAO1539",
+        "BossDAO1540",
+        "BossDAO1743",
+        "BossDAO1744",
+        "BossDAO1745",
+        "BossDAO1746",
+        "BossDAO1747"
+    ],
+    "stake1uyu8tyy8zuxmgh02zyp2nxw94yfes5y3vc4pkmngqepwkksxqkwxx": [
+        "BossDAO1198"
+    ],
+    "stake1uy75chr73hyelfp0kq0mwvg42n77345jvkuuw94m9g48e6cn0jrgn": [
+        "BossDAO1199"
+    ],
+    "stake1uy493z2nsulzmxu6mqzh04n2rd8w4p4aqw5kzne7e3dvyrqmt7vdm": [
+        "BossDAO1202",
+        "BossDAO2641"
+    ],
+    "stake1ux9f7wra62pu0fecahxtp3xuuljn74kkaexld0fujs7dr2quy96es": [
+        "BossDAO1206"
+    ],
+    "stake1u95lz2vk6nnxj4sl5v9pdukpcppu7tqkkp3zuglwvv4jsug9g0p4t": [
+        "BossDAO1207"
+    ],
+    "stake1u9puzsut8p0j6gya9m9q398c9j2ydx5w8f74d3na4zez2aqec6n7d": [
+        "BossDAO1208",
+        "BossDAO1209",
+        "BossDAO1210",
+        "BossDAO2742",
+        "BossDAO2760"
+    ],
+    "stake1uy7yljxv4w2xmx7v6e99lwnm6zcfgj2qt0g3lh44z0ytruqxxsghg": [
+        "BossDAO1211"
+    ],
+    "stake1u9pjetflp6wf9u752yk0c47ggz0z6yyudnssddg7dse7pxszj0wmx": [
+        "BossDAO1212"
+    ],
+    "stake1u9nxk2q4sq53hc27g94e54h9sfxgv4y5266tuyplwfm9frsc506ud": [
+        "BossDAO1213"
+    ],
+    "stake1uxfgmrs9hute4q07pf0yee5fxkwp4vzr6sqry48nht47f5gp9ks8l": [
+        "BossDAO1215"
+    ],
+    "stake1uxt5ry2usnc639alcdc3wx3ps6umt7u7lf447dcqwkhrsmq79hnd8": [
+        "BossDAO1218"
+    ],
+    "stake1u9fgqetf7w3r9shxqndstq9xxrk53l3j4tdclk2n9wrgqlgk2rtnj": [
+        "BossDAO1219"
+    ],
+    "stake1u9f5vchjlehjcrzcsfv3nasq0sntcvttren6ugwyl2mar2sycyc4d": [
+        "BossDAO1222",
+        "BossDAO1328",
+        "BossDAO1329"
+    ],
+    "stake1uxme0nu94vedraghrj53wllfj3l4qvzf0hewffz5hez409srvjzl4": [
+        "BossDAO1223",
+        "BossDAO1843",
+        "BossDAO1844",
+        "BossDAO1845",
+        "BossDAO1846",
+        "BossDAO1850",
+        "BossDAO1851",
+        "BossDAO1852",
+        "BossDAO1853",
+        "BossDAO1854",
+        "BossDAO1855",
+        "BossDAO1856",
+        "BossDAO1857",
+        "BossDAO1858",
+        "BossDAO1859",
+        "BossDAO1860",
+        "BossDAO1861",
+        "BossDAO1862",
+        "BossDAO1863",
+        "BossDAO1864",
+        "BossDAO1865",
+        "BossDAO1866",
+        "BossDAO1867",
+        "BossDAO1868",
+        "BossDAO1869",
+        "BossDAO1871",
+        "BossDAO1872",
+        "BossDAO1873",
+        "BossDAO1874",
+        "BossDAO1875",
+        "BossDAO1876",
+        "BossDAO1877",
+        "BossDAO1878",
+        "BossDAO1879",
+        "BossDAO1880",
+        "BossDAO1881",
+        "BossDAO1882",
+        "BossDAO1883",
+        "BossDAO1884",
+        "BossDAO1885",
+        "BossDAO1886",
+        "BossDAO1887",
+        "BossDAO1888",
+        "BossDAO1889",
+        "BossDAO1890",
+        "BossDAO1891",
+        "BossDAO1892",
+        "BossDAO1893",
+        "BossDAO1894",
+        "BossDAO1947",
+        "BossDAO1948",
+        "BossDAO1949",
+        "BossDAO1950",
+        "BossDAO1951",
+        "BossDAO1952",
+        "BossDAO1953",
+        "BossDAO1954",
+        "BossDAO1955",
+        "BossDAO1956",
+        "BossDAO2154",
+        "BossDAO2551",
+        "BossDAO3404",
+        "BossDAO3405",
+        "BossDAO3406",
+        "BossDAO3407",
+        "BossDAO3455",
+        "BossDAO3456",
+        "BossDAO3457",
+        "BossDAO3458",
+        "BossDAO3459",
+        "BossDAO3460",
+        "BossDAO3461",
+        "BossDAO3462",
+        "BossDAO3503",
+        "BossDAO3504",
+        "BossDAO3505",
+        "BossDAO3506",
+        "BossDAO3507",
+        "BossDAO3508"
+    ],
+    "stake1u9nk6dxpuqcfxkenqxa6wfcenv8uzww46u9aw4p9xukpw0caksgpr": [
+        "BossDAO1224",
+        "BossDAO2218"
+    ],
+    "stake1uy4f3jxgl95wsx3aa5eqmpklrhefhp5ga2swq9pg50lrzhcc3acjs": [
+        "BossDAO1227"
+    ],
+    "stake1u9q7n4rq75xgaur0p9vx7s0nmmwc2457ewz9wft5s6wjurqukgc4t": [
+        "BossDAO1228"
+    ],
+    "stake1u9qedng8wv0r5w9jgw9xx042cxd4ezww0yzepcypscknals7v5uwx": [
+        "BossDAO1229"
+    ],
+    "stake1u92vcg3t0xma7ldtsvzyexa4q3m6p47xq2w3kx2qy0clsggfn57gy": [
+        "BossDAO1230",
+        "BossDAO1529",
+        "BossDAO1530"
+    ],
+    "stake1uxk3ru7q4le5mr4satvu6u97kq0mzwgetgdh2q2spn5u6uczadwlc": [
+        "BossDAO1231",
+        "BossDAO3445"
+    ],
+    "stake1uxsu6dk4vdtl9maxtcuja9v2pp7u57prmzr424dkpmamplq6kqq8k": [
+        "BossDAO1233",
+        "BossDAO1234",
+        "BossDAO2159",
+        "BossDAO3337"
+    ],
+    "stake1uykkw62q8ktuj7r6jmwzw7fttx5grsg4kvlc74ml94ya0hc32ta0u": [
+        "BossDAO1235"
+    ],
+    "stake1uypfys7ppkjtegxkmemqd9vhhnc6w2x0mlpeeam5a5l9luqm9d2qp": [
+        "BossDAO1236"
+    ],
+    "stake1u8rdphge8huvxgs798kupnul2rhwpx2peqym35lg2v5q9acsjdgau": [
+        "BossDAO1237"
+    ],
+    "stake1u968x3tjdnu3sr8k69vwf3gzwzn8y6s75kzjfm79svhjx0gty6ph3": [
+        "BossDAO1245"
+    ],
+    "stake1u80235mwddyr3ktay5gl8zgyle4udvcgssknsx0y04cdsvqv0p6x2": [
+        "BossDAO1246"
+    ],
+    "stake1u93clvd9da4tla7fpajqf5jwzurrwq56uf06qq9xhk7xcrcauky23": [
+        "BossDAO1247",
+        "BossDAO1248"
+    ],
+    "stake1uykqskptl8j9suagtf4eexny08gat8xh3anl82pxj8ljmjqdhxt33": [
+        "BossDAO1249"
+    ],
+    "stake1u9r8e8paug43vfmqf27tw770ln9k6thjmd6mzxzdfefzvegq5ghhj": [
+        "BossDAO1250",
+        "BossDAO1251"
+    ],
+    "stake1u9wc0r49xdn579yade428aye0qy6vpdjda5wpcyjhnhkf5q4qq6qm": [
+        "BossDAO1254",
+        "BossDAO1419",
+        "BossDAO1490"
+    ],
+    "stake1u8z3uczmrey7yhjlugv6agspm55sn7upk2vm6m6v9wlls7sut443e": [
+        "BossDAO1255",
+        "BossDAO1257",
+        "BossDAO1258",
+        "BossDAO1259"
+    ],
+    "stake1uxpacykh3h402hnpteul2u48drc8pn3rle6nsjj8hnd70es758g8h": [
+        "BossDAO1260"
+    ],
+    "stake1u8lv0yp4hw2fhmcngf6uv8rl7jrqs0nn0nxqk33zwwvm0dghg2vxu": [
+        "BossDAO1261",
+        "BossDAO1262"
+    ],
+    "stake1u807fztxdrdytk4dsqfvt9kyq7lkkh8mwq8dest0zacynvc4l8sum": [
+        "BossDAO1263",
+        "BossDAO1264",
+        "BossDAO1266",
+        "BossDAO1267",
+        "BossDAO1268",
+        "BossDAO1269",
+        "BossDAO1270",
+        "BossDAO1271",
+        "BossDAO1272",
+        "BossDAO1273",
+        "BossDAO1274",
+        "BossDAO1275"
+    ],
+    "stake1u96lrrw4qp90vuh75c7gk49levty0wu5hh0lmtd6kzrwqyqxx9nuj": [
+        "BossDAO1265"
+    ],
+    "stake1u8yepyffpzdetc4k7cdjhmfc6frz8wymraa9lrfekd3qujqxdk5lu": [
+        "BossDAO1278"
+    ],
+    "stake1uxcl78v3dyasj7mazgzapyw7dlp6r0yngkqq6549cneztzghh98c7": [
+        "BossDAO1279"
+    ],
+    "stake1u8sklh48raezlrt844n0j47lca5cp2d3hukyctx8s7lmrvg4fj5e6": [
+        "BossDAO1280"
+    ],
+    "stake1u8r2jh9s7a47h63wpvljakw5sqf406knf5lht34zxatuknsd5va68": [
+        "BossDAO1282",
+        "BossDAO1283",
+        "BossDAO1284",
+        "BossDAO1285"
+    ],
+    "stake1uyjpwfzmn8umyp2exxqu53freyc95et9n7dtxz7lsc5ph8cw4r09c": [
+        "BossDAO1286"
+    ],
+    "stake1uxhankmacqf0jw5m9c8q9wrgs8345kfw6xq4ye0hwz399wqxz7v80": [
+        "BossDAO1287"
+    ],
+    "stake1uyu6rp0cr5e8wl8hfkm04le45x66drzxx5dtpq642vt67ccle8uav": [
+        "BossDAO1288"
+    ],
+    "stake1u9tjtqtwc6zm5tmghmrm46dqudtz27cdw9rz5mt6h0wtk7gxw8gll": [
+        "BossDAO1289"
+    ],
+    "stake1u89erlz9jleqwn438ay6slv0259t32wryuzuks98a9ssa8grk84fw": [
+        "BossDAO1290",
+        "BossDAO3520"
+    ],
+    "stake1uxt9gqwzk2fg4xxtthj7hwmkfwty87vy4jhhl847ej8plucm4c2rl": [
+        "BossDAO1291",
+        "BossDAO1322"
+    ],
+    "stake1uy9nxvg7g97rvsfms2wjjt9nmvzkuxr2qhtw8rxhuly4qygm38dqm": [
+        "BossDAO1293",
+        "BossDAO1295",
+        "BossDAO1296",
+        "BossDAO1297",
+        "BossDAO1298",
+        "BossDAO1300",
+        "BossDAO1301",
+        "BossDAO1302",
+        "BossDAO2137",
+        "BossDAO2138",
+        "BossDAO2139",
+        "BossDAO2140",
+        "BossDAO2141",
+        "BossDAO2771",
+        "BossDAO2772",
+        "BossDAO2773",
+        "BossDAO2774",
+        "BossDAO2775",
+        "BossDAO2776",
+        "BossDAO2777",
+        "BossDAO2778",
+        "BossDAO2779",
+        "BossDAO2780",
+        "BossDAO2781",
+        "BossDAO2782"
+    ],
+    "stake1ux2cw8shjf3uwgcfydsed3sh2jhwr67ed620zun2cf3kakg3ydw4f": [
+        "BossDAO1294",
+        "BossDAO1299"
+    ],
+    "stake1uy3y3wjz6he9vz4jvh7a2vldx9v2xza6cus0jfe79eu0aaswv4lxs": [
+        "BossDAO1303",
+        "BossDAO1304",
+        "BossDAO1305",
+        "BossDAO1306"
+    ],
+    "stake1u9ygqtj6n00tja4g0v2dkqejcyjr2xs6h44l743dwfkjukcw9m6lh": [
+        "BossDAO1307"
+    ],
+    "stake1uxltgzk0ed8uzfd62jdpy8em5ga4yv68w4nvfz550s5fnjgpw5vtm": [
+        "BossDAO1309",
+        "BossDAO1310",
+        "BossDAO1570",
+        "BossDAO1571"
+    ],
+    "stake1u9s6dl46ra5u6sm734q39p4385tnat9yxdaderfffmuphdqdafakf": [
+        "BossDAO1311",
+        "BossDAO1312"
+    ],
+    "stake1uxethhwwzh53vtdc5uqflrpcjqahep84nwtvrgz28tek2esjh32xe": [
+        "BossDAO1313"
+    ],
+    "stake1uxc6d9kyjlewhedwgenfpayr0h3ft0l4w9d0mh4n3tsk8cq8agftt": [
+        "BossDAO1315",
+        "BossDAO1316"
+    ],
+    "stake1uxn3vsh84vnjck538aej3vyxc753rldy9c4krc00xaruv2qkm4tz6": [
+        "BossDAO1317",
+        "BossDAO1408"
+    ],
+    "stake1uxduxdl9mk26l5cel44pf5e3qq3mt4y8pfke2kzqzquxf6skh5jad": [
+        "BossDAO1318",
+        "BossDAO1342"
+    ],
+    "stake1uxavgdzwahaqg5ghc77qua3uqkh090lt0xch8x8tmlv5ufskp8x3e": [
+        "BossDAO1319"
+    ],
+    "stake1u9qqs44kq9s9hpmfw5vylegcw4904atju3ueeyjwtxasvvgqdtzkr": [
+        "BossDAO1320",
+        "BossDAO3050"
+    ],
+    "stake1u9rqqlzwcvpunlszscg9xwx8hefv99tt8juypyxstvz8xms6m7yye": [
+        "BossDAO1325"
+    ],
+    "stake1u8w46dk5ayhn47myu4uh4hxx0fc020nxzaltjh2kqp9x7wg3ql3qk": [
+        "BossDAO1326"
+    ],
+    "stake1u9d4z8ml94wg5rjcv25kh70hcgg4wan9wlckuqpzjjulrnsqtez97": [
+        "BossDAO1327",
+        "BossDAO2087",
+        "BossDAO3126"
+    ],
+    "stake1uxlc37et5jureuwd4x5k2zym77q05z73sp0vh5eygq0dgec0ctckt": [
+        "BossDAO1332"
+    ],
+    "stake1u8sftaamzjssw0vgs38aahzy6pfdxacrrmu6tnykpvterhgunx9z4": [
+        "BossDAO1333"
+    ],
+    "stake1u9yhtjvwewjypk8lv2utjewsk6xg90d43hyluadmj84gewqy4dqf7": [
+        "BossDAO1334"
+    ],
+    "stake1u872zhk53jgylpzacavjmw9ps0c3p48tashyu44jf7l05tqu9tt9u": [
+        "BossDAO1335"
+    ],
+    "stake1u9gsrxae42xx9un42yfhrsl6zevtlcfurgulwgc7dcnezps2l8lhm": [
+        "BossDAO1341",
+        "BossDAO2750"
+    ],
+    "stake1uxhvslgysydapcc3rlk6lqt2hs0vdhpzn9dkjjl563q5qvsg3wm39": [
+        "BossDAO1343"
+    ],
+    "stake1uy0y63zy2dxqrlprr8ne3z2xftt4fskmzetqgjg4c0gh64qldf5jx": [
+        "BossDAO1344",
+        "BossDAO1345",
+        "BossDAO2260",
+        "BossDAO2263",
+        "BossDAO2537",
+        "BossDAO2538"
+    ],
+    "stake1uxengspxapxtkdsn7nf4guzpapj42dwemw4aac4ycvdzhmguhvxju": [
+        "BossDAO1346"
+    ],
+    "stake1u9wn2h4t5v2xvmfyem9zvqkzp6vykwue68g2533e82hcp5gd2k4xg": [
+        "BossDAO1347",
+        "BossDAO2355"
+    ],
+    "stake1uxy82vqwu7rszwantsat374zfavl7jvx57kg76uy8yz804cmlfc3t": [
+        "BossDAO1348"
+    ],
+    "stake1u9479q0a8n6g6du0qjvn69agxye0dt9m8pl69xwx4w02ltgqp692w": [
+        "BossDAO1352"
+    ],
+    "stake1u8dg3am8u9avfj4v85dgex2p5kcccpmz77ac687zfquf7jqpthmsm": [
+        "BossDAO1353"
+    ],
+    "stake1ux6qkjr939cp4k87zyld5srlw3nkkwjpgy70pd6udl72qacvclpvn": [
+        "BossDAO1356"
+    ],
+    "stake1u8rytzqxf5gv6efrhx8j6svgcx0akrju9nur9twam2pjfschj29wr": [
+        "BossDAO1357",
+        "BossDAO2215",
+        "BossDAO2693",
+        "BossDAO2694",
+        "BossDAO2695",
+        "BossDAO2696",
+        "BossDAO2697",
+        "BossDAO2698",
+        "BossDAO2699",
+        "BossDAO2700",
+        "BossDAO2701",
+        "BossDAO2702",
+        "BossDAO3234",
+        "BossDAO3537"
+    ],
+    "stake1uy8effwnthkqwaeuxnh5755mla73d6wz8d5vpv5h8d2nrnszgc2n8": [
+        "BossDAO1358"
+    ],
+    "stake1uyj6qsx35qpcz8tfu9zma7972y4myskq39gmesvk06tt9kcsu7x3g": [
+        "BossDAO1365"
+    ],
+    "stake1u8e7mg6qfv03w3vlfytx8kmvwkknt42hlvgkccwyk43y50g35jcr7": [
+        "BossDAO1366",
+        "BossDAO1367"
+    ],
+    "stake1u9st72flz33cg0l8nsls8feq5myrm75tdu93ml3ru4heqzq7uzc4s": [
+        "BossDAO1369"
+    ],
+    "stake1u8we22k8jkfds4w7lnm6z38kkgcldwaswkulp5zdgy6rygs7g7t32": [
+        "BossDAO1370"
+    ],
+    "stake1uyhwwpkg4xackpsdwl4c32q8xe9y3t4h36gzkptxhnsk9nseht5yk": [
+        "BossDAO1371"
+    ],
+    "stake1ux5ga02zhtu7wj45c3zzflf3myc9cu666nmhyrehh353ansdtez2n": [
+        "BossDAO1373"
+    ],
+    "stake1uyhs7pmupmzhuzh06tpgttcj8e76h2sxwn43jlupxhvavjghjwg8k": [
+        "BossDAO1375"
+    ],
+    "stake1u9nekc5sqj3qqf9v3slz06v5qtanfact34jggkfu2esznmcwdh66u": [
+        "BossDAO1376",
+        "BossDAO1377",
+        "BossDAO1378"
+    ],
+    "stake1uxs07s2dz493352q0q4uldqsr3m2fxy54szxcs9tanrsdegtmq244": [
+        "BossDAO1379",
+        "BossDAO1488"
+    ],
+    "stake1u8k9pdwvskwagzs53c0chvg30vwudg7wlmpu7mylen622ks86p0mv": [
+        "BossDAO1380",
+        "BossDAO1381"
+    ],
+    "stake1u9c778jjzlmnxd9j993n6vg8sf28krclzwm8a5c6v8ej5jg27vl94": [
+        "BossDAO1384"
+    ],
+    "stake1ux9va8sxjs3nfu48kkeh9ehwy0na3gfwn7kwkn7qe97kl7qcmq4kg": [
+        "BossDAO1386"
+    ],
+    "stake1uyedl92pjj05tmx2ckkq9mm64kfvgsh2ysrhm4wjneezqwc0lw8v4": [
+        "BossDAO1391"
+    ],
+    "stake1ux0n89darr2ymeyq92lmpcyhx5tnpj393tgkpplzvwzxvxqv76xpk": [
+        "BossDAO1395"
+    ],
+    "stake1uyjd3sfc0c9jypwjh7582htupl40mr978vhpcse2t00txqchlu9hc": [
+        "BossDAO1399",
+        "BossDAO2006"
+    ],
+    "stake1uyt3et7dnsfvu8u2xk6qv8zly6u2x47wxy7m4yjzju6d7ds8sknrf": [
+        "BossDAO1400"
+    ],
+    "stake1uy7shetutzkanrjuyrey3372nje0vqkuuy8y5d4nm0ufdcgwera2n": [
+        "BossDAO1401"
+    ],
+    "stake1uyg0rqv94tddl0axm6qhl87rjyeh4qsxtljnxnp6de5japcpzjqjv": [
+        "BossDAO1402"
+    ],
+    "stake1uyue7chdmzt2s0xa0w7yqfdnk9qn6p3k2lgkg4wmgem0hrc97sccc": [
+        "BossDAO1403"
+    ],
+    "stake1uyfc8agm23v67vy2jcxpyunz7qmnmkzmd3t3t3e7r4d4w2c8tp5ww": [
+        "BossDAO1405",
+        "BossDAO1426",
+        "BossDAO2005",
+        "BossDAO2390",
+        "BossDAO2410",
+        "BossDAO3006",
+        "BossDAO3115"
+    ],
+    "stake1u8skjqnspxay6jpdzcvxa65p2hp9avw6t64z3lqnqgny9rgkac8sv": [
+        "BossDAO1407"
+    ],
+    "stake1uxjax2aurvcwxlaur8lkryzhslkmpwke7hdjnzfy96jmfgs8fpplk": [
+        "BossDAO1409"
+    ],
+    "stake1uxqrlfw5uqma7tfcdnn3ldnjv9fl9fyacefjsxmgvz0hhyc7mq27t": [
+        "BossDAO1411",
+        "BossDAO1467",
+        "BossDAO1468"
+    ],
+    "stake1u8yfdycaah7cgpvrhwp80q9nr9khg9eh6lr7j3prc62jl0s725uxu": [
+        "BossDAO1412",
+        "BossDAO1461",
+        "BossDAO2072"
+    ],
+    "stake1u9h47jzelq38mk7yvaxklducf9uw7lhmfhwk4fm44wfdszsgqdmmz": [
+        "BossDAO1413",
+        "BossDAO2157",
+        "BossDAO2336",
+        "BossDAO2345",
+        "BossDAO2472",
+        "BossDAO2531",
+        "BossDAO2561",
+        "BossDAO2567",
+        "BossDAO2572",
+        "BossDAO2574"
+    ],
+    "stake1uynwcxe8yu0lj9l76wgtkaafe7ccyymq3vmdulqpmzscwaqr4nq76": [
+        "BossDAO1415"
+    ],
+    "stake1uyj3an8q67ygg6s37gaqap8cd4u43hnr9mswcjw0z8txyhs2ydn5a": [
+        "BossDAO1416"
+    ],
+    "stake1uyglh9d5svw2e0fcs6a9uxg0ln5s77r5t0vnnmr7v0qgrfgu7vsl9": [
+        "BossDAO1417"
+    ],
+    "stake1u9qyusjfmxpzhtwghdjh8cyca5nqtnr29mjt8pcqp06gmlq6x27au": [
+        "BossDAO1418"
+    ],
+    "stake1ux2un7ke03f6aasqlha8mxpsld9x7afl7lz4c944yqmg29q7hpdtk": [
+        "BossDAO1420"
+    ],
+    "stake1uyu0ntptmpxfe4yz4dle8t6lplw5atj0gwl0nj3qa6vaxcq0rj0dp": [
+        "BossDAO1422"
+    ],
+    "stake1uy2ettlfx87yzhdy5637ma5yg3jwy9mh5uq9keax6jgmmmgqp2mqf": [
+        "BossDAO1423"
+    ],
+    "stake1u92n5uxl7pnl2336z6kl9wg0tjkqqxv07gvt7nsr57wpp3guxp369": [
+        "BossDAO1424"
+    ],
+    "stake1u8tnj2ye6j898tcyqqw9ea7evdzzu7clfp4la7d9v22ewtc56e5g6": [
+        "BossDAO1427"
+    ],
+    "stake1u9t3xp7u8c6032qtfh2e64qapuh7qyhyxp0fszc99pc93fqu5ha2t": [
+        "BossDAO1428"
+    ],
+    "stake1uyt540q4fmk3r2jmy6jden7nw84lrrzssqff062lpddnp0gqvgry3": [
+        "BossDAO1429"
+    ],
+    "stake1uxd5ne2p2h49xjs92larkhkf5enxsjl8clxfskdgftku3tczylsh3": [
+        "BossDAO1430",
+        "BossDAO3435"
+    ],
+    "stake1uylqlhsj0s6qe498ef5kqttm6qa7dnawe5lcja4fry0ecfs95fzyy": [
+        "BossDAO1431"
+    ],
+    "stake1u8526gw87cxlmge9y6c6ylur7tfadzy85j8yfm8rkt0k7aqdpy0jl": [
+        "BossDAO1433"
+    ],
+    "stake1u9g2p5uvg73r7uzmdhky8amdr8vaze50anscyv8yj5s3vcqwfahg4": [
+        "BossDAO1439",
+        "BossDAO1440",
+        "BossDAO1441",
+        "BossDAO1442",
+        "BossDAO1443",
+        "BossDAO1444",
+        "BossDAO1445",
+        "BossDAO1446",
+        "BossDAO1447",
+        "BossDAO1448"
+    ],
+    "stake1u8wfg0px9xpg8jrj9an2lg0yawzsd2fcae2up8tdw6srusquflxsc": [
+        "BossDAO1449"
+    ],
+    "stake1uxhsu4vemeun3vpygdgjmpeanhav9ex4uj8kmlkljuz6yvgcu7dc8": [
+        "BossDAO1450"
+    ],
+    "stake1uxxg07pq33zgkpzktg68s29kj2hglkc0ejtxx7h73q8kkpqy50nm0": [
+        "BossDAO1453",
+        "BossDAO2519"
+    ],
+    "stake1u9g2v45r0n6pskge7yvdng2tz835cafet3tqy0dln8ncpjsfqwa2g": [
+        "BossDAO1456"
+    ],
+    "stake1uxlpndl7ldtwyc4k72vvtmr42m0ww5jgtnfd2uhcrasyckqz4ajg4": [
+        "BossDAO1457"
+    ],
+    "stake1u9hks8t272x0z9dvemu6u9q8ysm2vdsvcg0c8laywhxygsqv4lhsh": [
+        "BossDAO1459"
+    ],
+    "stake1u87v2y26xcy07ptzqyq6ewf307mjrsrmsnl5d5d3wz5a0cqzlc7xj": [
+        "BossDAO1460"
+    ],
+    "stake1uxcppllflnxawljyqyhm5fdqzjjrqx3scp4hytsekpjztmsuucdaf": [
+        "BossDAO1462",
+        "BossDAO1555",
+        "BossDAO2348"
+    ],
+    "stake1u9470dsjcem4gxx97mdgmyuekmfzjrgnkeqy4lhqj6ctexg8r8cpk": [
+        "BossDAO1463"
+    ],
+    "stake1u853w3kf09x4pfjnavtkg44tf86mhr8twft49j9t7f36fhspjys40": [
+        "BossDAO1464"
+    ],
+    "stake1u95zl24u7rg2ffc5y6r9jm8tuh8thf83c0s2acmpxheaaesltzm45": [
+        "BossDAO1465"
+    ],
+    "stake1uyd9r42r7yqxlp7y9wrg28wt5vwy8xjn27tvqqua9ully5q4qgqwt": [
+        "BossDAO1469",
+        "BossDAO1470"
+    ],
+    "stake1uys8zgs47fhnz5a7g3nzkjmeas8zum3wqzqgv4sruwkny5set0jxc": [
+        "BossDAO1472"
+    ],
+    "stake1u9n7u370kae4ldekprf5wh0sdeprepaqj7pt5988znk2f5qzau0gs": [
+        "BossDAO1474"
+    ],
+    "stake1uxa5ez5gez6tku3hd4cvcedrmf60r6acg0ht8v7ylrzhp3c67dy50": [
+        "BossDAO1480",
+        "BossDAO2406"
+    ],
+    "stake1u8aqvhx435chmy7ladue4xsfc2xwty6ydh477qv0muj2yvcd0unqk": [
+        "BossDAO1482"
+    ],
+    "stake1u98l5d53s927jkfegj7e2keq0ktgvyv2ywtqj2an68a0l8qttr6rw": [
+        "BossDAO1484",
+        "BossDAO1485",
+        "BossDAO1486"
+    ],
+    "stake1u9j33l8z9fvd5xzp4w4rjla6qvua3csg4yt4fsvjtza37fc7c02uc": [
+        "BossDAO1487"
+    ],
+    "stake1u9q2mc35em4ppkhng0kxpr9zecr99tysckq52vzq4uqm94g2zla75": [
+        "BossDAO1491"
+    ],
+    "stake1u87hqcr2ukn7vdt8n3e77lf3e5xvjx9s7u6anxjqc9yxqyccukrdf": [
+        "BossDAO1492",
+        "BossDAO1541",
+        "BossDAO2667"
+    ],
+    "stake1u8fw3zutez02ahgjfwwcvulcdjvhpktvlq0xrty98e52v2q6hnx9j": [
+        "BossDAO1494"
+    ],
+    "stake1uy5s8pqejveq88en3379mfrlfpg7a5vd4ylv3g2757a3paq3y5677": [
+        "BossDAO1495",
+        "BossDAO1496",
+        "BossDAO1497",
+        "BossDAO1498",
+        "BossDAO1499",
+        "BossDAO1500",
+        "BossDAO1501",
+        "BossDAO1502",
+        "BossDAO1503",
+        "BossDAO1504"
+    ],
+    "stake1u8n59665jydsjvelguqx8lp2rxa686g86479h7ttc50s5usu5wree": [
+        "BossDAO1505"
+    ],
+    "stake1u8saawqe2ue4dx7dre0jthhcv8pp7u04dt60dn2u643csmsqp9n9m": [
+        "BossDAO1506",
+        "BossDAO1550",
+        "BossDAO1551"
+    ],
+    "stake1uxjsjt8uyg53d80d8lkhcnts2393l5tc3m8vjrq6tgq9vfqp4efvg": [
+        "BossDAO1508",
+        "BossDAO2595",
+        "BossDAO1566",
+        "BossDAO1567",
+        "BossDAO2227"
+    ],
+    "stake1uylw90d7dcuahu5kyymkdw8tlt3dfzp54wfm7ufrzpd5qssglvqkh": [
+        "BossDAO1509"
+    ],
+    "stake1uylt3k7wvdsp9gx7psjghee4528lfds8wmt8tdjjwcfnmvsdtf79x": [
+        "BossDAO1510",
+        "BossDAO1511"
+    ],
+    "stake1u89wanmlwyjazd46lpk2aekk4wquj3lpnm5fuvj2flj0fsg2p3vf5": [
+        "BossDAO1512"
+    ],
+    "stake1u86fgg9fg2wpty8w49xy6z0tfmahxz9y2gkmdg2yqt6znnq535xue": [
+        "BossDAO1515"
+    ],
+    "stake1u8zav68ps96mfuc6eddcj7cmfaxekhjnvp3w29rnl99n0vshdpjjz": [
+        "BossDAO1517",
+        "BossDAO1518",
+        "BossDAO1519",
+        "BossDAO2108",
+        "BossDAO2109",
+        "BossDAO2110",
+        "BossDAO2111",
+        "BossDAO2112",
+        "BossDAO2113",
+        "BossDAO2114"
+    ],
+    "stake1u99u25nfy3n33zwkmj4q4fnr2v2rtfalvxf54vcawdgh3nsa2e46w": [
+        "BossDAO1522"
+    ],
+    "stake1uys7exlnwh0774zveta7p06cyddmz75mq5ws0exq3t2683qkm6gch": [
+        "BossDAO1523",
+        "BossDAO1606"
+    ],
+    "stake1u87uuq3dh8a6w7t5kva6ean2ghxdnx32f5zfesw6f4dsarctfzyss": [
+        "BossDAO1524"
+    ],
+    "stake1ux2mm2h9m7esr4svyrwlvsp0yx396r7lwh8979gz5rgdaqs82wkh5": [
+        "BossDAO1527"
+    ],
+    "stake1u9fxgpfjsn57fvzwj5up3y80kuc00mur0j7966xgwqyfe5qwhylud": [
+        "BossDAO1533",
+        "BossDAO1774",
+        "BossDAO2204",
+        "BossDAO2340",
+        "BossDAO3414"
+    ],
+    "stake1uymgneyzguclzflq0p62cce67gm88l23keyqw5fcwdmgllc9ghlet": [
+        "BossDAO1534"
+    ],
+    "stake1uyzshemcheeq8hjfglxyxjpktdv9cj4p84lnrqcsmu034qsaly3e2": [
+        "BossDAO1535"
+    ],
+    "stake1u8g6e5grkcftu8jravy2h87fux2cv2467vm266jwnh4u7csalw85e": [
+        "BossDAO1542",
+        "BossDAO2346",
+        "BossDAO2347"
+    ],
+    "stake1u93wjczr7l9nmxfn277remtml23e8zjrtvn66cclnscjcxg8pl050": [
+        "BossDAO1543",
+        "BossDAO3286"
+    ],
+    "stake1u9dn0kxzsrfmsy6fswf2dzlzzh04l5rtwgjqve6lewn2gkcfgrgm8": [
+        "BossDAO1544"
+    ],
+    "stake1ux9vkffld7qjtdgalfelvmlg5azeef2f0677dvd08gd44jscz8dgx": [
+        "BossDAO1545"
+    ],
+    "stake1uxtgjfu8cgdt66ajgtzrz69g7mtjpsutlwyvlrlsp0rjw6s6as74g": [
+        "BossDAO1546"
+    ],
+    "stake1u8p8mnmt48vv9akx0mmmj24tdfllwk8h69tjjwgma7umy6qcx9v0r": [
+        "BossDAO1547",
+        "BossDAO1548"
+    ],
+    "stake1ux8lk706kew78mda4cs7yesdqah4v8ee04ypmscshum55ug09nr53": [
+        "BossDAO1549",
+        "BossDAO2254",
+        "BossDAO3087",
+        "BossDAO3110",
+        "BossDAO3131",
+        "BossDAO3359"
+    ],
+    "stake1u9q8vfrm7m6jhnf53wv6qv2atvqhgfzz42z5yjmeuyszxkg0v5sen": [
+        "BossDAO1554"
+    ],
+    "stake1u9ww9mh3hmxdyhx7mmakx9hk9vtwjz43tetx4e8kftfe6xg2tmt20": [
+        "BossDAO1556"
+    ],
+    "stake1u9x9zjuj8ykxtg0kxn8j2ef3qjktspuamk3efyp2rcnfaqq2u4yw8": [
+        "BossDAO1557"
+    ],
+    "stake1uyhe5alykugpzrck3c9t4ngyd0nz804ktssuzeqz53qquuqwhu7ur": [
+        "BossDAO1558"
+    ],
+    "stake1u9xlga2r6sxgyctgqageyq9k24r8q2ku2c0fn5ysq37t4zsfz4szr": [
+        "BossDAO1559"
+    ],
+    "stake1u8ta8s378cjec8j6grpl8tyc8hhj4zmte0xq8usn5w6745gvpeppx": [
+        "BossDAO1560",
+        "BossDAO1561",
+        "BossDAO2944",
+        "BossDAO2945",
+        "BossDAO3258",
+        "BossDAO3259",
+        "BossDAO3260"
+    ],
+    "stake1uywzz4rut7guggpp3wntre7ttf6kwtthjtuqhwm9lu45q3cnhfc3q": [
+        "BossDAO1562",
+        "BossDAO1563",
+        "BossDAO1564",
+        "BossDAO1565"
+    ],
+    "stake1uym6rdlun3l44nmkwfjes8hacl6p8tjrta4cgu5eqwmnj3gw6pan8": [
+        "BossDAO1569",
+        "BossDAO1731",
+        "BossDAO1931",
+        "BossDAO2027",
+        "BossDAO2635"
+    ],
+    "stake1u8kxwv59m2qnzz70qenu0pnw4u879vq3f577rw8yncmd9zgaxezwl": [
+        "BossDAO1580",
+        "BossDAO2968",
+        "BossDAO2969",
+        "BossDAO2970",
+        "BossDAO2971",
+        "BossDAO2972"
+    ],
+    "stake1uxeyecy7t3yg6neqqdta5ggu8e5zz8shrs0x75jjhzf4heckathpw": [
+        "BossDAO1584",
+        "BossDAO1585",
+        "BossDAO1586",
+        "BossDAO2367",
+        "BossDAO2368"
+    ],
+    "stake1u8ve2wgush3ep7zz3a33d3ze8f73rsr7js0vmumnx6e4nlsu6j3ct": [
+        "BossDAO1587"
+    ],
+    "stake1uxm6n7efkgx8mfq09gapplegtl42jveeh6rq9r569h2q9dsvssvvd": [
+        "BossDAO1592"
+    ],
+    "stake1u9x794zzkldq2n7pt43hugq86jz6lswcgkkhzkqs2v6psucyvr6v6": [
+        "BossDAO1593"
+    ],
+    "stake1u8mtdu5zzns3wrptwtgtscmtw4udaar3yqwz99qn3sztrhs0y4tcp": [
+        "BossDAO1595"
+    ],
+    "stake1u8uhsxkm3pxwmtmc9nldy9xujxp5gx4ftqcusmmrekgpj8cruqzyf": [
+        "BossDAO1596"
+    ],
+    "stake1uxqkd5aqfe6zsu8vyrytwetfxvfnhjp060gkxx42d0pygggnmxc2a": [
+        "BossDAO1597",
+        "BossDAO1598"
+    ],
+    "stake1u80hhkzxen36yq5dv7xfvppys940ne968t94jjy7hxdmkjg06s2nt": [
+        "BossDAO1599"
+    ],
+    "stake1uyu666fpsrs854uvep5mjdj4gxzy0jr79f0hpq25ttyr6gqtaawew": [
+        "BossDAO1602"
+    ],
+    "stake1ux00f9v4027qnv2fa4xyvs9r8ktyk76hwdz7tatk5wa8m5cluzpt9": [
+        "BossDAO1603"
+    ],
+    "stake1u9saatk9m5sd5yllucy7xtae4p3rd6tusrxsjxsvhuyngrqzqx6f2": [
+        "BossDAO1604",
+        "BossDAO1782"
+    ],
+    "stake1u8g90lsxmtdne4cllh76zjxayyar4w23lu2gqrq5aa98wfsv63tju": [
+        "BossDAO1605"
+    ],
+    "stake1u9r266mk8a3cecw8j8p94arukzn5q4zpstfmqnnm8ztw4kck69ctf": [
+        "BossDAO1608"
+    ],
+    "stake1u9z2vq09vhxteye2wm4c8397yfpqdrhrrr4q5z4m42kfe0g9ye3xj": [
+        "BossDAO1611"
+    ],
+    "stake1u9zq0xudll6mwzra244kd3jxz4vv8dp4zjgtvszucufun9qyunsdr": [
+        "BossDAO1612"
+    ],
+    "stake1ux8vwyuyc0z296z4mhu93thg3ccehcmlrdpnsruusqydt9sn0kkwr": [
+        "BossDAO1613"
+    ],
+    "stake1u889f28vgtyjs84k008dsfk07vj2gk3a0nr6k36asdncgfqreveya": [
+        "BossDAO1614"
+    ],
+    "stake1u98v5z2njqyupt4h97swcgqyp9mpsugnxaj32dcpqcw9anqtwk8t7": [
+        "BossDAO1615"
+    ],
+    "stake1u86z5vklj35nqdcamw03vqgj0cgjzmxlp3jgpcsxwf85uysf2hyks": [
+        "BossDAO1625"
+    ],
+    "stake1u9nmq0vvnt78kemexpkeajyng0xzftjue5d9axl7rnskx5gvjznx5": [
+        "BossDAO1627"
+    ],
+    "stake1uy0l7dpdp22qp2c67fg66e84mdxs8n52u0jzjed7xe2saqs6rkz0n": [
+        "BossDAO1628",
+        "BossDAO1982",
+        "BossDAO1983"
+    ],
+    "stake1uxaw2exlv9k8grx4c98ple2sv2tfqfr5ksaf52kapkwxfxgmwp3un": [
+        "BossDAO1732",
+        "BossDAO1733"
+    ],
+    "stake1u8pw3has0kxvj7npmzn2x0wzlec3qzy0t32hl8d7g8uvvzqmvd7y5": [
+        "BossDAO1734"
+    ],
+    "stake1uytknjt6lq9q20j3pf5e5qyws3e644r59rqt65v708q7ajqvtmhu2": [
+        "BossDAO1735"
+    ],
+    "stake1u8ex5jtf90jg88vtlq44puc3acp5upu7chufygn5rs08xdskkwjgc": [
+        "BossDAO1736"
+    ],
+    "stake1u8ysfrl3jdzlxfce40y5uwe2glak0xcfcfzhyy2svfklh0gjg3ypt": [
+        "BossDAO1737",
+        "BossDAO2115"
+    ],
+    "stake1u843svhapavgh859u5gx2kxz9a8kxmrl5jxkyzw2ehmt57c7tl2an": [
+        "BossDAO1739"
+    ],
+    "stake1uxd003khjyuv40gw4gham5tq8cdk4lja88cqsvyygf66j7glz8ymh": [
+        "BossDAO1741"
+    ],
+    "stake1uy6mszxcuvudanj4w4jnwqrmpvl7dex7me64m0fh48vuphqz9crgk": [
+        "BossDAO1742"
+    ],
+    "stake1uyptt0mtn9f8x0g0dkzcw0z78fttelh8r0h60evyq85gr7gdtqsnr": [
+        "BossDAO1748"
+    ],
+    "stake1uxud32j47xqmyw3n0tl3p9qpvvyyqvh5rajz2kf56p5s09qv50h3f": [
+        "BossDAO1749",
+        "BossDAO1750"
+    ],
+    "stake1uy49zcgwe0glmfd4clvckq6j6h306pt6h0avq2xvfzz80lcvste36": [
+        "BossDAO1751",
+        "BossDAO1752"
+    ],
+    "stake1uxatm2lds99f77ndf3m7zs2mtl3pcytgfw8dsh5jf48s5rcuqada2": [
+        "BossDAO1753",
+        "BossDAO1754"
+    ],
+    "stake1uyyrq0cwdyxt47cprmd2l5mm0gzfjhqvkf79khne3a82h9s32tsjl": [
+        "BossDAO1755",
+        "BossDAO1756",
+        "BossDAO1757",
+        "BossDAO1758",
+        "BossDAO1904",
+        "BossDAO2950",
+        "BossDAO2951",
+        "BossDAO2952",
+        "BossDAO2953",
+        "BossDAO3262",
+        "BossDAO3263",
+        "BossDAO3264",
+        "BossDAO3265"
+    ],
+    "stake1uxpqcx3dvxhfd5j4sge2ph5655g8c8kk8dcx5fqh85d6ztcvgar2t": [
+        "BossDAO1759",
+        "BossDAO1760"
+    ],
+    "stake1u8hsml74zt4jeucplxpyzwypar9hf0xv5w8gmzmdcnnzcgsexljw0": [
+        "BossDAO1761"
+    ],
+    "stake1u84xnu250wde3jv7fgs9eeysmzj9defvcm993yqy8e7svng4cpqha": [
+        "BossDAO1762"
+    ],
+    "stake1uyn3cn7jxhhhgn6s6fty5t4ylrlvr3y8d06y9dzz5acwkcg9a4nyk": [
+        "BossDAO1763"
+    ],
+    "stake1uxdsjcqtqw7w6pzen4equta6cs6hprslj99na4e98r6t3rc3zunrv": [
+        "BossDAO1764"
+    ],
+    "stake1u84qp0lg27rzx4ghsr2gdh3qzln5uf6tydwfz6hqgeqtm6qauqv7k": [
+        "BossDAO1765",
+        "BossDAO1766"
+    ],
+    "stake1u9yc7l8h68z60sc86g97dhw7elevfn2phx0q0ee8twrf8rcec7tc8": [
+        "BossDAO1768"
+    ],
+    "stake1u9xuqc2q8awpuh6787mllg2rhclqxfz248z8rldlreyfprgm4jm0j": [
+        "BossDAO1771",
+        "BossDAO2382",
+        "BossDAO2703",
+        "BossDAO2719",
+        "BossDAO3160"
+    ],
+    "stake1uytflx6sfxkpkcjxrre7un0srecpum5wjf0jr5wr4sqvseqc9cqly": [
+        "BossDAO1772",
+        "BossDAO3183"
+    ],
+    "stake1uyfternsvl4rkzf4v6ndfdr7xcr7q49ylzfv8kmshe8xzhszfrgcx": [
+        "BossDAO1776",
+        "BossDAO1777",
+        "BossDAO1778"
+    ],
+    "stake1uxh7uuauxepp5d5xkhfueat8mccf42sev9jyuj8lj9ccw4sged2rz": [
+        "BossDAO1779",
+        "BossDAO2403"
+    ],
+    "stake1u8ywvx0977vr40t25mnx3l5x7lc23fzas0fyhzl2yguaz7g3jpas0": [
+        "BossDAO1781",
+        "BossDAO1786"
+    ],
+    "stake1uy3jzytcwu9u2yra2nukl3t9kvs4ph4cmnh6f7gllktdrzq2gap3d": [
+        "BossDAO1783"
+    ],
+    "stake1u88dduls4w6qzf3y79clqzlhl52v7jkktfwjvvtxjrkh9vq9tryph": [
+        "BossDAO1784",
+        "BossDAO1785"
+    ],
+    "stake1u92wsv6lzmslfgppgvvdm00y7essrp60umvcxphfczwr22gw6yxt5": [
+        "BossDAO1787"
+    ],
+    "stake1u86tdksgss4ttv993nxyn00hnh3hq9hnkk6udnfjatzhe9cn2fnu3": [
+        "BossDAO1789"
+    ],
+    "stake1uyphv9z305s7dlz3m2vg5q9lfpvzlvz8scse7j9n9jywu7cnkq07k": [
+        "BossDAO1790"
+    ],
+    "stake1uy876kqpe4xktnfsx3z0eqzkmsa729n2emgpyru8jldy9hqn7szta": [
+        "BossDAO1791"
+    ],
+    "stake1ux47cextkam2np0cetezeshgdnzt00xu9r370n3p24exrac8vtngg": [
+        "BossDAO1792",
+        "BossDAO1793"
+    ],
+    "stake1u8urm5rxwtn30cvzd35xjhyzk2h08mc5fmh2nljy5v0q9tstjular": [
+        "BossDAO1799"
+    ],
+    "stake1uyjzj62ep0ajj32agv2d3l6sr2sfszhlaes5gte73n9vdgga430ae": [
+        "BossDAO1800"
+    ],
+    "stake1uy9uewqmjrkdlrhduwmuer5sjmrdh7ahdr2d2hz4x94cphctjrqpl": [
+        "BossDAO1801"
+    ],
+    "stake1u9cf5a5kz467873w5w9vlk2rxktf2sjc5xxf6r05s2gp0asl0zzj8": [
+        "BossDAO1802"
+    ],
+    "stake1u8x2r7ejz3hy6rt2le29lvdf6g3p4lzwdn0gjsrz4ljue6q3y73e5": [
+        "BossDAO1803",
+        "BossDAO1804"
+    ],
+    "stake1uycgulcf9jz59x7c0uv85244d2qte4pmtg33yw8tq03qazcrg8y9w": [
+        "BossDAO1805",
+        "BossDAO2758"
+    ],
+    "stake1u8dp3yfte8kut2ks83kjpu65yqclmjjzupxghjw0huzvqtgxgwy3g": [
+        "BossDAO1807",
+        "BossDAO1808",
+        "BossDAO1809",
+        "BossDAO1810",
+        "BossDAO1896",
+        "BossDAO1898",
+        "BossDAO1899"
+    ],
+    "stake1u8nxy6a886etadsedzxg82pv7d6qfgvtvzkqwlqhhmxq4xqdww4ag": [
+        "BossDAO1811"
+    ],
+    "stake1ux7n2qc54fsgf6zcqaurg8kucdw3ghf0xprrx5crtczcmzcfk3apx": [
+        "BossDAO1812"
+    ],
+    "stake1u8e4wu367aarevhn773w5zmvmtwt2h6x86px8n7jjqtm2jsxzqch9": [
+        "BossDAO1815"
+    ],
+    "stake1u85xgakx8yslrxqudvvtqfg5d2403y23cjzgx4xysjucnagzpvg5l": [
+        "BossDAO1816"
+    ],
+    "stake1uy3t8u20r8tuqm2ntycx30hmzjwx2ex9069my2xz6m7lt7qdqecgg": [
+        "BossDAO1817"
+    ],
+    "stake1u8laurjd5eym5mfn6p4e3mcvzhvpleaucedrdjpt9xz2m0qnewj28": [
+        "BossDAO1818",
+        "BossDAO1819",
+        "BossDAO1820",
+        "BossDAO1821",
+        "BossDAO1822"
+    ],
+    "stake1uxt6yuegcpetl8m0c2cykj9mamyv4hqal5auxfvate44h9g9phhvk": [
+        "BossDAO1824",
+        "BossDAO1825"
+    ],
+    "stake1uyrxcqxnng2a7m5eg7fm6khdzmwgt8hehtf2478tzd70zgcq7x5rs": [
+        "BossDAO1827"
+    ],
+    "stake1u8dwugpq59vrfteu9htfn9m0lz99t5txl4n9ryevsas2h3qg4sade": [
+        "BossDAO1847"
+    ],
+    "stake1u8dks5ftszdkk2hkcu6u94up2knxzszy6lruuh0ynsz60ugvg7kks": [
+        "BossDAO1870",
+        "BossDAO2381",
+        "BossDAO2621",
+        "BossDAO2622",
+        "BossDAO3588",
+        "BossDAO3589"
+    ],
+    "stake1u8u5z0rxv8wu2ml9uegltn2v8l7974l405f2kh4m53mywcsufdu89": [
+        "BossDAO1900"
+    ],
+    "stake1u8293ad3qszw09gsukz93t9xjtm8jlgxtmmj8fw4t0mu7dsfh5f2d": [
+        "BossDAO1901"
+    ],
+    "stake1uygd0nf8tqwstrhymt8mdcnw4uwpk356celudnakezfyn9gpse3q7": [
+        "BossDAO1902"
+    ],
+    "stake1uyq3l5ewc8d6pcrh3jka62rcncgndxke2ykxpxzz2w04hpgfw5uyd": [
+        "BossDAO1905",
+        "BossDAO2236"
+    ],
+    "stake1u9a69wy5lsqva430252a7s5twmjngm4k45ujmlzyc6vykwczc70u5": [
+        "BossDAO1910",
+        "BossDAO1911",
+        "BossDAO1912",
+        "BossDAO1913",
+        "BossDAO1914",
+        "BossDAO1915",
+        "BossDAO1916",
+        "BossDAO1917",
+        "BossDAO1918",
+        "BossDAO1919",
+        "BossDAO2011"
+    ],
+    "stake1ux3sngrux2qqjkkcm37nt8pfhq7jftr0y8r72hwq2exh6pcru7xhr": [
+        "BossDAO1920",
+        "BossDAO1921"
+    ],
+    "stake1uyg9snny65ekqxvwkj5zrrv452v9dxjrl8ac9yns2xssuygqmuapp": [
+        "BossDAO1922"
+    ],
+    "stake1u8n8p5yqnpqfvcftxfwj4xe6s4wusqtwnfnv6c2fe0ccyxg6yzkzm": [
+        "BossDAO1925"
+    ],
+    "stake1uyracj0jun7eq6w7e8uxqzctzeaka23gmqh63v2nkyjxmscpzlk6h": [
+        "BossDAO1926",
+        "BossDAO2086"
+    ],
+    "stake1u8xljaul2sj8nxud87t6f35y72put65e9a70tnv79rvvhmg9jkd52": [
+        "BossDAO1927"
+    ],
+    "stake1u89w4qmdu4uce20cl6ejeazfw9ua4us5t63tdszxg6zp3ugng62jc": [
+        "BossDAO1928"
+    ],
+    "stake1u963u22qkht4lt04hx0rqd3gqyzyrpxarct8mpavhu8tw3gr5zdv6": [
+        "BossDAO1930"
+    ],
+    "stake1uy0qjdr8maaqgcgqyv0uuwutjumk3yz4ccdq7mlqy8hkywqd7adhd": [
+        "BossDAO1932"
+    ],
+    "stake1u9lj9nzfvfd9x2ym69927dy4qvtx8crx0uytfj3vj6ep6kqzjg6k2": [
+        "BossDAO1935",
+        "BossDAO2160",
+        "BossDAO2161",
+        "BossDAO2162",
+        "BossDAO2163"
+    ],
+    "stake1uyrjc9szgnyc6gpya543cpd7ggd4nvq9mk0p3smceqwrl6s06zqh3": [
+        "BossDAO1936"
+    ],
+    "stake1uy7nc52j7nf5690et2h33z6k85nk58ruump957djpu7jydc5dc58r": [
+        "BossDAO1937"
+    ],
+    "stake1u9rfryjeagk063kupqfxv2lq6vygxhftzfm6hwjvduv7ungx6rq96": [
+        "BossDAO1938"
+    ],
+    "stake1u8quka0srfp5lfayd7e3cjyrwlcvzhw4cqgv34tgx76cjcq87wdru": [
+        "BossDAO1939",
+        "BossDAO1940"
+    ],
+    "stake1ux0u3jgdh66zgt78vxwmv5q7wappy3cd7rg79yyxv4kffksd9y3a4": [
+        "BossDAO1941"
+    ],
+    "stake1uy5e3rd65h62ehqqc2r42fn2fs28sh5n9dx2wl22ghuz4achhzxw9": [
+        "BossDAO1943"
+    ],
+    "stake1u8cm40w5rkp3hadeyx6chzkezrtjqhlvjndg35qvn58kn0sawe6ys": [
+        "BossDAO1946"
+    ],
+    "stake1u9w0gx3240pw59eazt7vgu7fc2xrkxv57f38k43lyfglq6gczwxhy": [
+        "BossDAO1958",
+        "BossDAO2183"
+    ],
+    "stake1u8ndltrlrlftd28s582vxy97t69f3kadctzm5740mnfglxgepg0l2": [
+        "BossDAO1962",
+        "BossDAO2117"
+    ],
+    "stake1uy9kqtxzkuvu54rxwnfhlm5rfajdcz4dqffseju7nu3zj2cey5thn": [
+        "BossDAO1963"
+    ],
+    "stake1uy582qn5k76zm6k3nq9qd6vhqpxf8ahwskhan9k5g3kn0dslkhjhz": [
+        "BossDAO1964"
+    ],
+    "stake1uxlet4hl3cn6pmxg3t4nrfuw0yp2seqd8m9g0zlwkfk43jqac4kvv": [
+        "BossDAO1968",
+        "BossDAO1969"
+    ],
+    "stake1u9pqgkeuljxq0qwty76qnqnugn3sexcwxlrmqwq2tryu8pg38mdfn": [
+        "BossDAO1970"
+    ],
+    "stake1uxymvy3fxlngvlkmjk62636aegsdldw63jz48sfp9wf9f9cv3ycs3": [
+        "BossDAO1971"
+    ],
+    "stake1uy79kfkkr2q4675jlmq3uec8zdn0e0wyvv2dxnp82whh68glxjvzm": [
+        "BossDAO1972"
+    ],
+    "stake1uxmvn6qv64znhtak8cz4n84a6a78tqq03suufwrl2mg5jyg2zlfg0": [
+        "BossDAO1977",
+        "BossDAO2483",
+        "BossDAO3339"
+    ],
+    "stake1u9pamxanuxa3dpsq3e9xaafalyhwq47jarzhsc4am0e9kucdvf7gm": [
+        "BossDAO1978"
+    ],
+    "stake1u94g3g3nyzq2ykq6dct7nj6hl5ac4trqyw8skr798vjvv2q83nzqq": [
+        "BossDAO1979"
+    ],
+    "stake1uxldrzp2gjrmz8xffc9l60yasek2ae9m5pwklnv9zr95zugpp408e": [
+        "BossDAO1984"
+    ],
+    "stake1u8hjkn66n3505h05wz94u8mstm28e2rheg7fck495w0n34q9d26kc": [
+        "BossDAO1985"
+    ],
+    "stake1u8a3qt9caz9pnmgck44fwu3j9fqrxq33a7m9tnexcdyaxdsqp3tde": [
+        "BossDAO1987"
+    ],
+    "stake1u82mxcx08zp34j90dlkqxdmdppkj3gdcx49qz6qmf93e02sva3wc5": [
+        "BossDAO1990",
+        "BossDAO1991"
+    ],
+    "stake1u9sqp82vu9f8ke0zqvp5dzuagtsdvdu0f7k6sczj9cx4csg4sx750": [
+        "BossDAO1992"
+    ],
+    "stake1uxewzen7xcf3vwtdjhugcq09skdg490c8hr02ht7q8lmgzcngts26": [
+        "BossDAO1993",
+        "BossDAO1994",
+        "BossDAO1995",
+        "BossDAO1996"
+    ],
+    "stake1u98cs5ln0nnuxr9akgncclw4y0kshfdvlk7vgdgfgn7az0srq4dws": [
+        "BossDAO1997",
+        "BossDAO1998"
+    ],
+    "stake1u86g0htq0y8g4y3xcmm9l08a9uk7qazdjkhpzpdly23eahgqw6dzl": [
+        "BossDAO1999"
+    ],
+    "stake1uxnmcjh6750xm5tsegkha7kyjgz27qha94afrext220z35gpg6a8q": [
+        "BossDAO2000"
+    ],
+    "stake1uxa0u4vea7rzjtqwevz6yusqr8nsryz09hj88xxlvmtthcsmv2u5t": [
+        "BossDAO2003"
+    ],
+    "stake1uyrdcdk43jrhtw86sannk0pqz73zv4lp3msccjd8sffgl5q63sgl9": [
+        "BossDAO2004"
+    ],
+    "stake1u8wpmwxxpn3a5tu43ezllshh043c3m42szdw2rphcs8gp6glcj582": [
+        "BossDAO2007"
+    ],
+    "stake1u98j27wu86gn5xhf55ystns9wn3s7mhuklvg4nz6wcy95cc785smh": [
+        "BossDAO2008"
+    ],
+    "stake1u9m0393ges035wc3dgx4lnsqg600s7nh526gxhdnwtjeqqstr53ml": [
+        "BossDAO2009",
+        "BossDAO2177",
+        "BossDAO2242"
+    ],
+    "stake1u8sdthu6tzzkpk6m80auyh8fdh2r4evwywhjsh7y7he5x5cxnjn6m": [
+        "BossDAO2010"
+    ],
+    "stake1uy4hkmh3256ca0sd4s4e49mpsvfjxpuzq70z6ya2t7fxjwsq5gzqc": [
+        "BossDAO2012"
+    ],
+    "stake1uyv2ktl27v5sdnjkndhs4t5y7urwgj8ja2vjx02tudx9m8s70au03": [
+        "BossDAO2013",
+        "BossDAO2409"
+    ],
+    "stake1u9k33az8h37zk48c4hfqfemvffujsk9sx6gpg9xzaq45zgc5zmhnq": [
+        "BossDAO2014"
+    ],
+    "stake1uymhu6cyx7rk4q2jhcgkhqj9ud8sq33qgc0zd4jfdn9390cv2m7x7": [
+        "BossDAO2015",
+        "BossDAO2986"
+    ],
+    "stake1u8fun0p6vzy6qxvprfxfg8y8vmkyv2u2xgahwwwhapj3kgcn5ae5s": [
+        "BossDAO2016"
+    ],
+    "stake1u8256jvzr7c3nn4ktddrs4rfchqv07car24ltnq3knpv7jgnszvtv": [
+        "BossDAO2017",
+        "BossDAO2018"
+    ],
+    "stake1u8glzdt08pv7ehq3tjm4v4jrz0vtj7a2qv7zs4lfyd8xl7gavq3r5": [
+        "BossDAO2020"
+    ],
+    "stake1u8vfv0ej6cqyx5m46dqy07ke6wmxwvazkxa2ks3q9ncs3lq6ggfrm": [
+        "BossDAO2022"
+    ],
+    "stake1u94renfqchz4kkge4xy9gdae0q86c5457e5q74j9tynvflqm7pq26": [
+        "BossDAO2023",
+        "BossDAO3225"
+    ],
+    "stake1u8rp8me57vne69eazy2vdn08sq6ylwu080tmm7td7sv5dzgukawvr": [
+        "BossDAO2024"
+    ],
+    "stake1uxcm64a0fhv76ly6jf2qz49vsftkeync6uvkfgev6nt7sjcm0xwt5": [
+        "BossDAO2025"
+    ],
+    "stake1ux2969x0e03rvkzv5stll5c7xl59ve7vq8wlmc7a4qgahpcmxa6mp": [
+        "BossDAO2026"
+    ],
+    "stake1uygwszfdqqgqwkgl5k5el9vq2qh7777jqn2f2cgevkqa2sqflqfry": [
+        "BossDAO2028"
+    ],
+    "stake1uxdnc7urpfnzzyluatk7akp5gl8476pkawumv3fjt8atf8stfqcqp": [
+        "BossDAO2029",
+        "BossDAO2030"
+    ],
+    "stake1uyp0q2e255zhkkcvnnev5e96enuedhyxeewrhqmjzzegznc5zft6t": [
+        "BossDAO2034",
+        "BossDAO2035"
+    ],
+    "stake1u8d737esvu74mvnxzpeuhdmh7q3u58jevmn5n529n7uk44gzuctxq": [
+        "BossDAO2036"
+    ],
+    "stake1u97pp9nzkv0uw5807p0ypyqlkgclpg4tya67rcjtlexdrhqzfwruv": [
+        "BossDAO2037",
+        "BossDAO2038",
+        "BossDAO2042"
+    ],
+    "stake1uxfcmvzj7p6ljqhzfd2nzuaytrwzhzdl5lq992hr53gfdxgj249ef": [
+        "BossDAO2039"
+    ],
+    "stake1uyr4ua2sratxjrg7tx0lm7v3rs2zg964gyaqnxpcacm5q2qrng88e": [
+        "BossDAO2040",
+        "BossDAO2721"
+    ],
+    "stake1uyzh4hlfex34jj76a2klzl960vv0l3h8wcpkd437qdfymdgu7rqv2": [
+        "BossDAO2041",
+        "BossDAO2088"
+    ],
+    "stake1u9kve9ynrlchayhrcaw82nuh3vllnyne7wnx7w70pyn2jeq657mqm": [
+        "BossDAO2043"
+    ],
+    "stake1uys8nu8vchulwrfjlxuc3px2cvfp77futxaystz8mfn059g809vfr": [
+        "BossDAO2044"
+    ],
+    "stake1uxe5xuqtqp0jxfrxuc5nv4ga8v9zhzwstkredhq9d90nyscp886m9": [
+        "BossDAO2050",
+        "BossDAO2051",
+        "BossDAO2052",
+        "BossDAO2053",
+        "BossDAO2054",
+        "BossDAO2055",
+        "BossDAO2056",
+        "BossDAO2057",
+        "BossDAO2058",
+        "BossDAO2059"
+    ],
+    "stake1u82xts4p3ac30jrq0clv3zvxtra9r6nhwh7ys27lg072n5gz8dnmf": [
+        "BossDAO2061",
+        "BossDAO2100"
+    ],
+    "stake1uyhhcqj5ppzwvnpcf38h4q3pwsdanrlnyte6jxjyg2dk9hsrytz4u": [
+        "BossDAO2064"
+    ],
+    "stake1u8vz526zxarufgx882afrk26w8603tfkrhdlwu40kg69a7c8t9wqx": [
+        "BossDAO2065"
+    ],
+    "stake1uy46le0mxcmzk3vwazvlfg9hds67lsrn2k4vtksf6j7lpegsz4ckm": [
+        "BossDAO2066",
+        "BossDAO2067"
+    ],
+    "stake1ux7pwwc0uzwu2p6gfqqetrlv597gtksdw3yma2zm7a4wt3s8ev7t7": [
+        "BossDAO2069"
+    ],
+    "stake1uye86juxkp3tfcjmc70zkxcl3ka20v7c28z6fgvxzt9drpc0nn20g": [
+        "BossDAO2070"
+    ],
+    "stake1u927dy6nhru4cn4khpfe2n3lktje64g06wtycwtesglyzwg6jfvzt": [
+        "BossDAO2073"
+    ],
+    "stake1uyk0vmm40s9q56pt9sxjqwc22qqt080vyclfhl5v7cydelg58ws2d": [
+        "BossDAO2074",
+        "BossDAO2075"
+    ],
+    "stake1ux3njfyxe2jgg07ygxae9yrvk40twclq3yvkjtvzt4hg5jcyngp6s": [
+        "BossDAO2076"
+    ],
+    "stake1uynxtvu60xnl4xend37cyuk0z72q9ajmstzwp6ne4fgdw5symu3wp": [
+        "BossDAO2079"
+    ],
+    "stake1ux9pnnk0vrcxjwf9nm7gss6fjva0nzlxs6a6j4y7n2efavqmvngv2": [
+        "BossDAO2081"
+    ],
+    "stake1uxy6nss8qyty6ek0pfqj44ulen0j88rc04rqd7k2sed7xlglygn3y": [
+        "BossDAO2082",
+        "BossDAO2128",
+        "BossDAO2129",
+        "BossDAO2130",
+        "BossDAO2131",
+        "BossDAO2465",
+        "BossDAO2466",
+        "BossDAO2467",
+        "BossDAO2468",
+        "BossDAO2469",
+        "BossDAO3100",
+        "BossDAO3101",
+        "BossDAO3102",
+        "BossDAO3103",
+        "BossDAO3104"
+    ],
+    "stake1uynnhn96nw5647yuuxwv22e4gq3vmpvfsfvgtch2ytgf97cg9aj2n": [
+        "BossDAO2083"
+    ],
+    "stake1u9m2hajhav80e3mjezjrky9r3w3jvdpdqdwpaca222kml6qt5qte3": [
+        "BossDAO2084",
+        "BossDAO2085"
+    ],
+    "stake1ux2l89346xmlgls72yuud7tqkavjsckxqhvnmgn5naas68guhc0rf": [
+        "BossDAO2089"
+    ],
+    "stake1u8xcaqjtpmfcm0x9waaa2c65t98t0gfrwpk07nwvm4q0n6qkk67f8": [
+        "BossDAO2090"
+    ],
+    "stake1uxkuv976jxzqp6m433zumhlkx27uf7qgudp43gmwt0r8mjgjncpg3": [
+        "BossDAO2091",
+        "BossDAO2092"
+    ],
+    "stake1uxryuveffjsp7ct4dfpzewzgazcspsmcdtx8l6jugn98laq20d59k": [
+        "BossDAO2094"
+    ],
+    "stake1ux538x3p74ms266699ztap732rhg5fkgqtn0jh3xlszjcysfuqp9t": [
+        "BossDAO2095",
+        "BossDAO2142"
+    ],
+    "stake1u8dk2qy9ls05f4j5a57rkf9uj2a6jhle2a5n3qfcdqjyh3ggvq08q": [
+        "BossDAO2096"
+    ],
+    "stake1uxl4ag0dhcygktdwuzg6hu073gds52k9vpays3y8qmpyuucvwa3w3": [
+        "BossDAO2097"
+    ],
+    "stake1uyx5hlnfwvdhp66fr4pwj0ww59puduvz9w0960eqh3c0mlgmufwlv": [
+        "BossDAO2098",
+        "BossDAO2184",
+        "BossDAO2966"
+    ],
+    "stake1uxvlr54ahjch4dtp47ddvj9mq8w2q4j2ktyxfufazeup63cx6xdd2": [
+        "BossDAO2099"
+    ],
+    "stake1uxj5kev3lur5zm3ju3svlwspzgsjcsh4f7mlyx46em3uj2s0ca4pm": [
+        "BossDAO2102"
+    ],
+    "stake1u9dwvu6dc3wg6gea2axx2lgtsn5fznud0xf4g3furanlg2safrx6a": [
+        "BossDAO2103",
+        "BossDAO2307",
+        "BossDAO2379",
+        "BossDAO2445",
+        "BossDAO2450"
+    ],
+    "stake1u9j5muwlhjajwaju243ay7etluugutlgadwgchtl9yjf7dcyds53d": [
+        "BossDAO2116"
+    ],
+    "stake1uy3nmc0zl4q0heqhfu60rql8p8x6g57xyf8k3vrz9yqqy4su66pkx": [
+        "BossDAO2118",
+        "BossDAO3485"
+    ],
+    "stake1ux5tsqfwpz44ts5rzz6kkchj70y46e96y9nlczca2lal73scfxluv": [
+        "BossDAO2120"
+    ],
+    "stake1u8z80t95xfqtr8vggujcpgnqaltgzy68nrs5vpaegjqpknsu8cl8l": [
+        "BossDAO2124"
+    ],
+    "stake1uyy3llv8q6dgzjml463xvxnaauaf4s72gy8h56mjj3ukr9qdvylsr": [
+        "BossDAO2125"
+    ],
+    "stake1u9tmfakhfd0y2xp0k4mkp7az6vmszq43hthyqpq8rx94flgu73t6p": [
+        "BossDAO2126"
+    ],
+    "stake1uxcf6rr9nrl0jf89njgp8s9p8qdflx24z6dczg56kn4xu6q3st64h": [
+        "BossDAO2133",
+        "BossDAO2134"
+    ],
+    "stake1uxy0pc6s4juwuvtztcjvea5tadq8093sw3xjxfjxygxpw3ggl35h8": [
+        "BossDAO2136"
+    ],
+    "stake1u9t4wxn3l5xz04ha5fhrted6hzzwzhw87aw6qkwr5ea807cma9y8v": [
+        "BossDAO2144",
+        "BossDAO3074"
+    ],
+    "stake1uyltxntkpl9nypjasxtjcf5q8v5xgye9qrzceavv8dukm2g8s7fps": [
+        "BossDAO2145"
+    ],
+    "stake1uy52shhfnfpn0077sgpq6wh5l5pj4wj8nqwz0ynx8nm30xqzczpw8": [
+        "BossDAO2146",
+        "BossDAO2166"
+    ],
+    "stake1u84smsve4462lfatnuk5yvssfq8hxpqu37dwyd3dqjvwrkg9tm9e4": [
+        "BossDAO2147"
+    ],
+    "stake1uxjyg5dma3a3xw542p5wqjvrmgs2eenchjjmepusxvsqwmgdygz8c": [
+        "BossDAO2151"
+    ],
+    "stake1u9y434nhrqpe20gh3e05tnact6ge9xqc0ll50xwml2su4xq2tuwtp": [
+        "BossDAO2153",
+        "BossDAO2297"
+    ],
+    "stake1ux980m27yhe6yv20pp3sulqa7l0fs5k75a60ret8x73yscqzkl6de": [
+        "BossDAO2158"
+    ],
+    "stake1ux42r64kuxzgp6jxt3q48pyghm4y89xyfrdvecva2nzwk2sd0pu7f": [
+        "BossDAO2164"
+    ],
+    "stake1uxtmyxuqt9h6pvecw48e6hq4c6e40rlar50zjzwcl3z7yzq240kud": [
+        "BossDAO2165"
+    ],
+    "stake1u90ynu4gchyly5vc54t0kl54603786wuwnvnsdkteh94ydsmkf57f": [
+        "BossDAO2167"
+    ],
+    "stake1uypv45vdgv4ysrrcrrmjq94x2mr349nz628j4cuajme7ytq924t65": [
+        "BossDAO2168"
+    ],
+    "stake1u829tgp4crdflrzp5f84er9445r8mty2dlx6hs0urlduv9qlsy8mn": [
+        "BossDAO2171",
+        "BossDAO2205",
+        "BossDAO2206"
+    ],
+    "stake1u9texq58rx3d9guy95vpryay93zunhuvl2pjt6m67xhjmtcsspnac": [
+        "BossDAO2178"
+    ],
+    "stake1u9wv9zkqx0mytdtnpz4dx3srl6jym7xk6c4nax7rhf0stugk9vxra": [
+        "BossDAO2179"
+    ],
+    "stake1u8mt3wkx69vvegx6kxumaytst6vfg7yu8ug9ju89adjm2vqmsaulk": [
+        "BossDAO2180"
+    ],
+    "stake1u8uhug6l9t2srqty3a2npp20f04423xgyp388mwhckpm8egvpvwgz": [
+        "BossDAO2181"
+    ],
+    "stake1u8qyyus3tvauzqw6pjxaluy0dq80rkxvwvljjwh5xyqwhjcznf8uk": [
+        "BossDAO2182"
+    ],
+    "stake1uxqj432tj9uwev6a7jqdvnz6q8zwsdjxrxaqvaxydfpqfxgrxv05d": [
+        "BossDAO2186",
+        "BossDAO2630"
+    ],
+    "stake1uxdha59d4jckgy9uey9rxcwlsae2af5nv469vcp29sxekvqstpex4": [
+        "BossDAO2187"
+    ],
+    "stake1u9qk4x4znvw8u3u8dvknh2wm2ugq0ud4ee9325n557n934qptw3z8": [
+        "BossDAO2188",
+        "BossDAO2228",
+        "BossDAO2229",
+        "BossDAO2230",
+        "BossDAO2231",
+        "BossDAO2744",
+        "BossDAO2745",
+        "BossDAO2746",
+        "BossDAO2747",
+        "BossDAO2748",
+        "BossDAO3425",
+        "BossDAO3439",
+        "BossDAO3446",
+        "BossDAO3450",
+        "BossDAO3451"
+    ],
+    "stake1u9pkxujzrflzrnw2gj6dzhm4vn0uehnqze8rhs5fgpd8lmsrfp50u": [
+        "BossDAO2189",
+        "BossDAO2190"
+    ],
+    "stake1u87tx2ljtf8st7mfrvf5759qmk50lmxm89amtp5vxjyp7lsfy6jhe": [
+        "BossDAO2191"
+    ],
+    "stake1u990gna73s0fza46exdp8jdhw5zmaxal7czj5hrurcnylpcxl0zt2": [
+        "BossDAO2192"
+    ],
+    "stake1u82x7au9jewf3lxcpjfd4k9dwnszc789sdn84wgkqrvsn0c4wx5t8": [
+        "BossDAO2193"
+    ],
+    "stake1uxyv8pn7lja8sp3cvxatnr58tv3yxf65h93g2shefmcunzs5jyx35": [
+        "BossDAO2195"
+    ],
+    "stake1uyrw5ws3vrg3cag9jxty42dd6f252hgjyemt62a0a5rvh7srujqad": [
+        "BossDAO2201"
+    ],
+    "stake1u92rypzqn42l4hj29ys8km6dl7dhuzmp4ph5qfyys4rnc5g4tgz8n": [
+        "BossDAO2203",
+        "BossDAO2495"
+    ],
+    "stake1u8425vntw02g52wqucvududgnpm2dwhhe7tsfrmze4kllrq3pcw2d": [
+        "BossDAO2207"
+    ],
+    "stake1uxphmvetjnff6t33t20uv9vd3zfry7w32ee2caf86lqqmmqd3tepq": [
+        "BossDAO2208"
+    ],
+    "stake1uxp2yeesq09dm9yhpefl79qcnswl6gywv8vgm79snsmaehg7z72lw": [
+        "BossDAO2209"
+    ],
+    "stake1u9fhwuwrx0rm05u2j4dv76frx7a8ssqwkh4faezunuzahvq96wgvy": [
+        "BossDAO2210"
+    ],
+    "stake1uymdftmhrkydz6scdugw02ws9j52j6mc9gsckpgg068y6es3d8fjm": [
+        "BossDAO2212",
+        "BossDAO2213",
+        "BossDAO2214"
+    ],
+    "stake1uxu2h9lgv6ajpjsmg7nygfnwj6ntxv5xwg3ue6fcrx2lkpqd8d8qa": [
+        "BossDAO2216"
+    ],
+    "stake1uy7tzayjxnyfx9gau7qrqxsl4ujv6jp9gjy599jw4pf8u3swdxxsv": [
+        "BossDAO2219"
+    ],
+    "stake1u8r5u8eqpsmwkkgq29hq923ly3rrm8lj2w4fu0kxjx6sg3guw694u": [
+        "BossDAO2222",
+        "BossDAO3112",
+        "BossDAO3500"
+    ],
+    "stake1u9enl3xwpv4rmt8ede3xuqpph97whd68ajwuvrve36as9pcg0fdp7": [
+        "BossDAO2223"
+    ],
+    "stake1u9vjtytm6e3wawmw9j3hzm4nt9ygvjywjcd97z36k0k03vqcqu3fy": [
+        "BossDAO2225"
+    ],
+    "stake1uxhf6dud9hkmrawf4ygmmjgqfvvjv6gvucgst26q4lzqz8capajq3": [
+        "BossDAO2233",
+        "BossDAO2248",
+        "BossDAO2446"
+    ],
+    "stake1u8f6fvqmnp6swku96thtsdz3pnnxnjkv4f3ch28n9gls5cs75j9xs": [
+        "BossDAO2234"
+    ],
+    "stake1u80lcr7q9djxyctk3xks42erpyevy4vc25qjkx4rr8cygvg047hz4": [
+        "BossDAO2235"
+    ],
+    "stake1ux8suc5rpf2ssuj868tdwx90yhuxuufm0m7z7crdy8na5lc2wq96x": [
+        "BossDAO2237",
+        "BossDAO2238",
+        "BossDAO2239"
+    ],
+    "stake1u8yrayt5x78dzkudzknggsfrjczlhck4vhefml7fwg686kchrr6np": [
+        "BossDAO2241"
+    ],
+    "stake1u855uee2cpjt9v28wlyj5j83c2s6h6q0sm5ad7utnta4t7g0pnsu6": [
+        "BossDAO2243"
+    ],
+    "stake1ux46emqr84l5jd5wegv35tj536j938qyr2plp5txnlq3j3guqmf2u": [
+        "BossDAO2244"
+    ],
+    "stake1u9u07zs2sy2edjsaxp5wlkkv9m9ykpf33rr2l2aewt5p9ygj58cyf": [
+        "BossDAO2246"
+    ],
+    "stake1uympxjxn90g7m9ercs89hpzln3ax6nmwmfgr7sm7a2urh5g040xss": [
+        "BossDAO2255"
+    ],
+    "stake1u8we0esue0yjegset0wwcrmfuzxylggyhqkcj28dx00qdnc9z27z0": [
+        "BossDAO2256"
+    ],
+    "stake1u9t3skevlmd08zg73ruhpm8zzhl4lsfra6dv3ezrgnyfetgwjzg7m": [
+        "BossDAO2261",
+        "BossDAO3125"
+    ],
+    "stake1uxfpjxd99wgm9g3p27ljynmgxprj23rj095yszj9nudrwhch0ywav": [
+        "BossDAO2262",
+        "BossDAO3049"
+    ],
+    "stake1u90aq8amyagjm3hzcn599vspwkc8zv3zkhuhlluc0vtzgeszc0540": [
+        "BossDAO2265"
+    ],
+    "stake1uy3smku58m8axdtrvh6dnp3y5kmrmzzwuq68wsp5ct9m5fs76yxq4": [
+        "BossDAO2271"
+    ],
+    "stake1uy07wel8vdm6pkp0klu5u28f2sp2ag9xktlt66leyx59ejqh6qp2t": [
+        "BossDAO2272",
+        "BossDAO2273"
+    ],
+    "stake1uy0tl697cgtrpypfy66wj44xflc7536hc54cf59l2q4almqfa9su6": [
+        "BossDAO2274",
+        "BossDAO2293"
+    ],
+    "stake1u8ll34r4c3k2d3fr2ucx8xqcndwuesz9ll8caneaam30j7crgpfsj": [
+        "BossDAO2279",
+        "BossDAO2298"
+    ],
+    "stake1u82z8d02su4xjgl97svazt209t5n3tv5qclqyt6qumncvdctve2yj": [
+        "BossDAO2281"
+    ],
+    "stake1ux28h0qpgh9d738e7yhr9686g2yja6zncsyff3w9q4c02pcyd2tu5": [
+        "BossDAO2282",
+        "BossDAO3180",
+        "BossDAO3288",
+        "BossDAO3289"
+    ],
+    "stake1u9j2ahn40dmuy048d268z6zydwjdnwsz68d0cdwalkxvzngzkdlva": [
+        "BossDAO2283"
+    ],
+    "stake1u93ylr75wfz8l27cd34al2pymzrm406c4nr9uyjfjsepjng6azef5": [
+        "BossDAO2285",
+        "BossDAO3294"
+    ],
+    "stake1uy7380kznrmtrakrh0wj2e0yj2hyg2wvp20hjtfvjutkjdshx65ym": [
+        "BossDAO2286"
+    ],
+    "stake1u99wm6v8zvm6kzhw08rx6z4st0ya0u9hz4dk3qfnje05njqeg2r0q": [
+        "BossDAO2287",
+        "BossDAO2288"
+    ],
+    "stake1uxfvhggztw8w4xjshf5zwhzre82yd5upydujld4pqlmt8ssvm557a": [
+        "BossDAO2290"
+    ],
+    "stake1uxu5fvdj4ar40wwl9fxr06fs7rme8g846ap5snerqnxrj0cysxyf6": [
+        "BossDAO2291"
+    ],
+    "stake1uxck0m507ewa83nw2yc3sdcuqhxvs0c7f5dmlsw92hkjj7gagt89w": [
+        "BossDAO2292"
+    ],
+    "stake1u9m2k33zzvmsgck99hvfqaj9fdd02020fuds8xv7c5pk84cstfrl7": [
+        "BossDAO2294",
+        "BossDAO2295"
+    ],
+    "stake1u9ff2dp7xd7sku36aspxu92dky2fhn942qa2vg8fg9nf06c0dn2tn": [
+        "BossDAO2296",
+        "BossDAO2543",
+        "BossDAO2558"
+    ],
+    "stake1u8mfhyssz9kfqq7cj3tjvfuwjgwnjvf926rr57ake5s34wsvg26rc": [
+        "BossDAO2299",
+        "BossDAO2331"
+    ],
+    "stake1u90kmcjdpsk0v8v60wm244kvhlxxh9mp0ax524ag7c8jfmcljs5xa": [
+        "BossDAO2300"
+    ],
+    "stake1u94flc4q9q2nnxj58epxw4wquwqx0ezc9cfe64etfesrjesne649p": [
+        "BossDAO2301",
+        "BossDAO2302"
+    ],
+    "stake1u8flvq83r7ewl6805c2tagwf58xhcqj20efg7060w32uvfqcn0ekh": [
+        "BossDAO2303",
+        "BossDAO2528"
+    ],
+    "stake1uxc56y23u4svwjxscxwpy34jqshkc2rhc63y4m6xzmhn5kcqkxe2h": [
+        "BossDAO2304"
+    ],
+    "stake1u90jsdakdv5jdluq86p7uepyrc8k3wdugplqdy84mzg2g8gcxes5q": [
+        "BossDAO2305"
+    ],
+    "stake1uxhj0lrs8ze5qd2spryuwqxzudtcmwxenyqw4t5plt2mqwgtqyse3": [
+        "BossDAO2308"
+    ],
+    "stake1uxtgyg7wy4txf6drdtej80kjx3ahhj3v9q3vycp4ylxr6gsp7qk0c": [
+        "BossDAO2316"
+    ],
+    "stake1u9m4nv75pn8lsc2fagxzkg0a74a7n4zyfh367sudut43kdspys4me": [
+        "BossDAO2317",
+        "BossDAO3447"
+    ],
+    "stake1uyrs8d6vmvq8x0ahtf7wpf3chskm6t9her0h4hcf2svdz9g53f9ac": [
+        "BossDAO2318",
+        "BossDAO2319",
+        "BossDAO2320",
+        "BossDAO2321",
+        "BossDAO2322",
+        "BossDAO2323",
+        "BossDAO2324",
+        "BossDAO2325",
+        "BossDAO2326",
+        "BossDAO2327"
+    ],
+    "stake1ux4x7eqqhdd8es4nvfj9msxye7ga6y0ygqmnhyj9ee8k96cujpmmh": [
+        "BossDAO2328",
+        "BossDAO2634"
+    ],
+    "stake1uyax5getxxqetmuzml6aeq4nhxj66s9ed967amfsvcr86xshhdgua": [
+        "BossDAO2329"
+    ],
+    "stake1ux7vqrhq4hrg3uptenl6w8gka3zzjajnl43dk5fjp07dn6gewum2z": [
+        "BossDAO2330"
+    ],
+    "stake1u9knjy7tyghhs28lwfnawqpd6zfaxh2s00jeazda8lm2jhgafatla": [
+        "BossDAO2332"
+    ],
+    "stake1uycmsgj9tl9azhqvc3uc8f3kz78r0w8ylecym53uwvwwv3qy69zxq": [
+        "BossDAO2334"
+    ],
+    "stake1u9t7rpxh5zt0d0xu497t3thrcsth0xredwjkjj3csjh98hsm0k0q6": [
+        "BossDAO2335",
+        "BossDAO2360"
+    ],
+    "stake1ux6l5npyr33fkdl29k8gp0x03f8chf4zgc4xnyv47w99hwg6g0l6y": [
+        "BossDAO2341"
+    ],
+    "stake1u80vvl2nqmr4mu3jtnl5td4haet200n96rrfrawqewzsmcs7tx0ue": [
+        "BossDAO2342"
+    ],
+    "stake1u8eshsrh4egfkz5xdwg7ejqktr96a97vnycek3hwgx2qqfgyae3kv": [
+        "BossDAO2343"
+    ],
+    "stake1uxdfwf5czdfgk78hmfctxxwsk39h0pggtvczkgfn8nzrtege6m2vt": [
+        "BossDAO2344"
+    ],
+    "stake1u86ssumpnunqf6qj5ujhx3sdnettq6ny8fw58ary63swargh2knwa": [
+        "BossDAO2349"
+    ],
+    "stake1u8qfagzskq78j0y8ts88llh5vqqllxt2nyux7ldqkm5f7mc87l88m": [
+        "BossDAO2350"
+    ],
+    "stake1uxltt7r07f2jvlfcmc7r3kxg37ak7hnflstkjt474gq3qaq70taln": [
+        "BossDAO2354"
+    ],
+    "stake1u8vxklrrhdfp5z9wdkd8t6lcx992v4w3k322zmk34an4usql354tf": [
+        "BossDAO2356"
+    ],
+    "stake1u9jaspw8nntu99e64u2dm4ykuu9yjcnd9hl3gecfm247hfsd8a265": [
+        "BossDAO2357"
+    ],
+    "stake1u8j4jpkt98d9nzupg7xpy2cke5csd234wt895a8c8fg437g9wt25s": [
+        "BossDAO2358"
+    ],
+    "stake1u8as9zwu3az95hzfcryyzvsjksdhhksdfra4g8pg8nyv2csytsvd5": [
+        "BossDAO2361",
+        "BossDAO2371",
+        "BossDAO2443",
+        "BossDAO2570",
+        "BossDAO2669"
+    ],
+    "stake1uxzty66atxx9hu2a4ydsuj8pcswnkk2j9mwkqhwkc8p0p4cggwy98": [
+        "BossDAO2362"
+    ],
+    "stake1uy0ra7qs6d9ay303zq2utxj7qevqyclelqyx94p287jffncw4v0rd": [
+        "BossDAO2363"
+    ],
+    "stake1uyt25e7skh59ut73p8zmc8zhw8lys38hfvcdp26sdvzdy9chae8hz": [
+        "BossDAO2364"
+    ],
+    "stake1uycp49s29vh6mqk0vxxr7mxlue6z4amhxeazhchfjhqd50qmqa99f": [
+        "BossDAO2365",
+        "BossDAO2366",
+        "BossDAO2983"
+    ],
+    "stake1uyh7dr2vpcq2tfw32hj7282l7zyeeu8klrr6lg4c2eees4ssgach6": [
+        "BossDAO2369",
+        "BossDAO2370",
+        "BossDAO2671"
+    ],
+    "stake1uyf76670l94yaa8x4feuv64lc0kmjfcs03zxhqkv98u9wvg8dsuxr": [
+        "BossDAO2372"
+    ],
+    "stake1u9jj8kgf2h2gnrek030ajshqn2gj7sve48p0cn2al92wuvs9k68gj": [
+        "BossDAO2373"
+    ],
+    "stake1u9ew547jnseeun6w6hnm7lndm5fkxc57lpkhpe2qcqv6zqqzad4cc": [
+        "BossDAO2374",
+        "BossDAO2375",
+        "BossDAO2376"
+    ],
+    "stake1u9q7xfuw58nezhcw3edmwung7mpngpfanzjn9q730qqh4jg80yc8a": [
+        "BossDAO2378"
+    ],
+    "stake1u94jcajxrtarykeeqeysrsamzeksha9pphwam5lc4nuwzvguq49xm": [
+        "BossDAO2380"
+    ],
+    "stake1u8vxyqx7v8tqe2y4ph3kg4rv0jl4v7z282une5qefert0ysqmemzp": [
+        "BossDAO2383"
+    ],
+    "stake1uxmz9eu4qeet8q7lfep03lx68flvalt2qj4nq073vefuyfgx47jmd": [
+        "BossDAO2384"
+    ],
+    "stake1uyws7mg2mawkpc3w80t2re8qd4rmasgurw0dwtj70fvm42cgzwm6e": [
+        "BossDAO2385"
+    ],
+    "stake1uyaa836yt0ze0pfsnnes52af4jv55uqv4sqlkzxx3czzx9ct34a6e": [
+        "BossDAO2391",
+        "BossDAO2396",
+        "BossDAO2568"
+    ],
+    "stake1u8gg8e28lt9grxx3nc26saes2rp3hnrz67dqhxsczfz5vcczyrtxr": [
+        "BossDAO2392",
+        "BossDAO3282"
+    ],
+    "stake1u9vpm9dkaqltswzkpvkhrm567w8wx3aluw6hw7gnj9f96ls7cgvah": [
+        "BossDAO2393",
+        "BossDAO2395",
+        "BossDAO2394"
+    ],
+    "stake1uxdmvr6dzsapgft9jxeatz78ldnxmth0ghw8h3swqwc04yqjpesnt": [
+        "BossDAO2397"
+    ],
+    "stake1u9h75z58puw0pn0n3j50d0s4tufwqqnvhu8vjrl7hmvkk7crf3p50": [
+        "BossDAO2398",
+        "BossDAO2399"
+    ],
+    "stake1u9qamzkp8mhv99t2ajkvxmtwmmm9qunzhat3d29c6arm97g2edrwa": [
+        "BossDAO2400"
+    ],
+    "stake1uxrgg7zsa2aanf86l4zwtzhezm5fwy4xtcyyr6580mh8sxghdj6p7": [
+        "BossDAO2401"
+    ],
+    "stake1u9ah83wa85hffqzrmxqranwzzvhvnlzhreqld7x6h68rxuq60xxgk": [
+        "BossDAO2405",
+        "BossDAO3205",
+        "BossDAO3496"
+    ],
+    "stake1uywhpvk6y829slffs3lcd0pmn2yz4nk2ljqxcl6a3azgfhqjzlnzv": [
+        "BossDAO2407",
+        "BossDAO3487"
+    ],
+    "stake1uywuwxvrlmu6r98g27tfedvaazj4nvx7znfvd87ghfca80q3jskly": [
+        "BossDAO2408"
+    ],
+    "stake1u89hldkh02fe8thdzg3zn2qe4pp7gsekvfwzn69g4e9m00s7wwclr": [
+        "BossDAO2411",
+        "BossDAO2690",
+        "BossDAO3256",
+        "BossDAO3361"
+    ],
+    "stake1u83e62wp8cf889hknnnfq97w23ej87qqhesxww78argr07gn29gyc": [
+        "BossDAO2412"
+    ],
+    "stake1ux40gtlhlmz9u0vst0fn9matd8xrtg3n53qa2gx6umzzl6gc7glyj": [
+        "BossDAO2417"
+    ],
+    "stake1uxt9l3z6kuln2rm2rrdk9vcygtgp52yth6gnxt7nz4687tsn8w4da": [
+        "BossDAO2420"
+    ],
+    "stake1u8kyj0h2ash4anx806sjewrrsgz6kgktg6jqatpr9dm37yc8y5mlv": [
+        "BossDAO2421"
+    ],
+    "stake1u8w8m8a0l7epvfjd2cg0dj9uw0xg3x6w7ecj4qp2lzc8klg5g5yrq": [
+        "BossDAO2431"
+    ],
+    "stake1ux4rr8267jm09v30x5wzlu5xyj3waank8usahxdy9hr9zcgg8w5pm": [
+        "BossDAO2434"
+    ],
+    "stake1uyfaqfxly8ue3x3sru8eq4jcws8wm89caza7gye6t3lhrdgrz9zwv": [
+        "BossDAO2435"
+    ],
+    "stake1u8kqzv4nzhwkp590sas6nszuzcewe5q787zywjknmfj4pmguxz7vf": [
+        "BossDAO2436",
+        "BossDAO2437"
+    ],
+    "stake1u8apc3d0eay3pgf8vpjzyhwr5nf6s5e2qal7w05xwxkd65s78vsdv": [
+        "BossDAO2438"
+    ],
+    "stake1u9qjd0uq8cae0txn5nm2x44294w7ur8m70xuu8cy6meu0qcv57qu7": [
+        "BossDAO2439"
+    ],
+    "stake1ux6ch79c8f9a4rxep6krwzltuf38h8fjq52ykvvskwvmh2qnfncxj": [
+        "BossDAO2440"
+    ],
+    "stake1ux5gt4hdpnvg8smljhcuaux2d9rxmxfcg2ryurqx4nt6seczv3qld": [
+        "BossDAO2441"
+    ],
+    "stake1u9gye28q8rc62rux0d5a92whdhzfvhqppsqtmscwtlejkqca5s0yu": [
+        "BossDAO2444"
+    ],
+    "stake1uygndtvgezfnle0lr3l3qwgqpeqrcudvpqd8ln0amjcxegqmx7r8j": [
+        "BossDAO2448"
+    ],
+    "stake1u8aa94ufxdxayllnpamx93s6ty0ec8tkkjdxnhjpdletxfqmzahux": [
+        "BossDAO2449"
+    ],
+    "stake1u9rspc66l88nzt2hh496usw8x68nkg42v8mqnfalfukj8pcjnrfw4": [
+        "BossDAO2455"
+    ],
+    "stake1u8tvhldsjvcq93mmtqu362spaeg7f48rmmqangyav4cw0ls4rms0z": [
+        "BossDAO2458",
+        "BossDAO3007"
+    ],
+    "stake1uyfs9t6us57yqm6jtxstx8k4r3fuatxc6zzgejlcnzfkqfgfncxdv": [
+        "BossDAO2459",
+        "BossDAO2460"
+    ],
+    "stake1u8gadhqhlg3ptp3was0jm68pkcppw48tknqc282sdjcqc4s6jrngn": [
+        "BossDAO2462",
+        "BossDAO2463"
+    ],
+    "stake1u80t0w2e9ygcj7m25eqg63zy8yyxhny3ktlugynnzcmyk9qer9zla": [
+        "BossDAO2471"
+    ],
+    "stake1uxt8lz0dhqgfctnrlmq920a94z6aq3g2zsl6wtrz8g6p4hs3tp7l7": [
+        "BossDAO2473"
+    ],
+    "stake1uxmchhpff7xddcvzlzsq7v4dxaspfa4me6yspkz3tw7q72s46a4z3": [
+        "BossDAO2474"
+    ],
+    "stake1uxng4lua2cxnj7rgpas9cqdy7a8dx6nr88dtwzp57gnuphscpkzwz": [
+        "BossDAO2476"
+    ],
+    "stake1u9zyxsznt845p2ulz28h2rgydn096zpmsrcs7m8kacpw6nslskqn2": [
+        "BossDAO2477"
+    ],
+    "stake1uxvx4hkzqzacy6hat0l2d32k2xg3ahj9tgezv7gyq9r4mzsqlk0he": [
+        "BossDAO2478"
+    ],
+    "stake1uxn7474elkl9shsrsrjv9u4g3nyvfznsdf5wxvz6rdn4ymcy6ftr2": [
+        "BossDAO2480"
+    ],
+    "stake1uygqus6q2he36c5nqa0qzscy7fxzrpw0wv8sgzm3gwhvx3qw8s3uv": [
+        "BossDAO2485"
+    ],
+    "stake1u903r2ze4ftzgpdksa8k2r05k8dgmyayjlrzxj9u6fda7vgrq22hg": [
+        "BossDAO2488"
+    ],
+    "stake1uxjpz0s4dtulcn960gcd65hv4x72mdq9kdra20prhmnsdwqhra7g3": [
+        "BossDAO2490"
+    ],
+    "stake1uxzdu3xd0arsm492ymx02anfqwgrxmnd8sv378hy7qe285qlyjp7d": [
+        "BossDAO2491"
+    ],
+    "stake1uxfq92n0j6uthslp6hl5eaz0y7haw9xc5smk28u0vqv8uug020shr": [
+        "BossDAO2492"
+    ],
+    "stake1u9pxqhy0cat9ep4ecqu96nqcmgnqf0m5lnte0lykpfp740sp50yqt": [
+        "BossDAO2493"
+    ],
+    "stake1u8e38fe78txfpk3pea9qpuxach33ypu594g9xysm4uvadyq4lp3sx": [
+        "BossDAO2494"
+    ],
+    "stake1u9x3eydh8a906cupm87plyfqk7p5w85vxpdlwkj7q54q8fgrejklg": [
+        "BossDAO2496"
+    ],
+    "stake1uyyd6r8k9jp7058n5mw70ef86aun5ejzsffjcxf4j9uawtgdtnwvs": [
+        "BossDAO2498",
+        "BossDAO2503",
+        "BossDAO2506",
+        "BossDAO2507",
+        "BossDAO2508"
+    ],
+    "stake1uyrse9ygrxv6f84y47vghjft4fr26mjwqufq2xf3ff89etq07fhwl": [
+        "BossDAO2499"
+    ],
+    "stake1u9x42t90n67hwg7xrsjjfje9agnpffmsvrdw5ahkwhr0xzcaw5y2t": [
+        "BossDAO2500"
+    ],
+    "stake1u8ve4cxj4kgzr62c6368prwdh4kl0f93z6qvpd9l2lc24aqcx69pk": [
+        "BossDAO2501",
+        "BossDAO2759",
+        "BossDAO3565"
+    ],
+    "stake1uxhxxm7vt5mad5a7jnpcq07tsulftwvrjeu9923ypyw6amsqdwxj8": [
+        "BossDAO2504"
+    ],
+    "stake1uy7gezs5ya5vzmvr5gd0c7e6vdrfl80xjq6d8yc2ef5djwg4tqv05": [
+        "BossDAO2512",
+        "BossDAO2513",
+        "BossDAO2514"
+    ],
+    "stake1u8j9jxurz77hqzuyv2wdxnzt0qgwasjmmkr6tsh9xtx8wfcx7j8t0": [
+        "BossDAO2515"
+    ],
+    "stake1uy2cl0lc2lh4svc308k8nn54ggm3j68nxzuy5vvdm7n22ts4ulsx2": [
+        "BossDAO2516"
+    ],
+    "stake1u9knryt2h53lmwssye3m8ne85vqnp8dhwqrwf4yrhhs42uq4vkldu": [
+        "BossDAO2520",
+        "BossDAO3442",
+        "BossDAO3443",
+        "BossDAO3444"
+    ],
+    "stake1uyvfwrxvykc0lzuut2sfmpy3xxvver593y8a9dvnuahjdhcw8zr6h": [
+        "BossDAO2522"
+    ],
+    "stake1uy0v4symaems4ea6k6q7l6p4htcgkzxe53n4rkvnz8jr9jq2zxe9q": [
+        "BossDAO2523"
+    ],
+    "stake1u8a5lfu2mxjay7xj58dm0tmz2834yhl3ak0tvk53fuldnqgedfyt2": [
+        "BossDAO2524"
+    ],
+    "stake1uyhnes63ts2xx0anjrexgpm5xdnwg8gvph5v3lz2evuaxgsggfgpu": [
+        "BossDAO2525",
+        "BossDAO3254"
+    ],
+    "stake1u8x2pwj8ggwrq9g8pl6a0wah37d0zxqr2j4mq5vug7lf0ws8up7u6": [
+        "BossDAO2527"
+    ],
+    "stake1u8hem95t2v82uc0qhjjg3w4p9jfasx52qes00f4vh2es3lgczaj6a": [
+        "BossDAO2529"
+    ],
+    "stake1uye99hhyjvcsxptqlmr8vtn26pear58lc6rw7h2f7ctsfxs5dq02x": [
+        "BossDAO2532"
+    ],
+    "stake1u8peuj5xu3puts4uc7thenmggrt5qavtcw7untjyu69w3nqlll4ev": [
+        "BossDAO2534",
+        "BossDAO2535"
+    ],
+    "stake1u8xkkxjekp5ypuzcds5kzuxgjh5uj72cwdm5xj40jnz7f7c0yuh66": [
+        "BossDAO2536"
+    ],
+    "stake1u90yhj09gex4kxxwep9j42cjc404cs2sgsjl958yj6wn6uq004srs": [
+        "BossDAO2539"
+    ],
+    "stake1uxvvys8kcfgg5qf0z8gfmxq3zhxr6kg5mq86fhamezymlwgwaqh3m": [
+        "BossDAO2541"
+    ],
+    "stake1u9xcr3zhhpt0anxpd4ug26fr7weslrtf3426nr7vphk6z4sdn4wdw": [
+        "BossDAO2542"
+    ],
+    "stake1uyypzxsce7daad82zluqw22pgtyh0ermdsl0mjm08f5uh2sn4huze": [
+        "BossDAO2544",
+        "BossDAO2557"
+    ],
+    "stake1uy4kjuqma3mhlnx3z9u7uzs9dumy8mppkka346xznm54c0qzc43nc": [
+        "BossDAO2545"
+    ],
+    "stake1ux354xzqjw0amyq26y89kjtl4cnm4rxwyuuzpwdhemjsvksjuncte": [
+        "BossDAO2546"
+    ],
+    "stake1uyzxy7sjjdyu5tswprcl5k6xedt0e3fcaxnyfknef668y9sxqu6yz": [
+        "BossDAO2548",
+        "BossDAO3008"
+    ],
+    "stake1uys7q97628muyduqxmshhjhlzfnw5pm4rvdkx6407yecglgkewhmt": [
+        "BossDAO2549"
+    ],
+    "stake1uyry6w790dcw28zykcud8v93xl4p8gpdg3jvu88gyk7mwhct4ysx3": [
+        "BossDAO2552"
+    ],
+    "stake1ux88m0t9k2rstca3gajhtjmxq2ka79xnuhnyyp940eaxfdccyh2a8": [
+        "BossDAO2554",
+        "BossDAO3105"
+    ],
+    "stake1uxt48w8srq6q5g8j3klwc5n8k29lr2et9md0ftwzqfc0agq5wmkh0": [
+        "BossDAO2556",
+        "BossDAO2559",
+        "BossDAO2560"
+    ],
+    "stake1uyww43pch2uen8hqnlvhmqvy95dkvhpk0dgupt2umshjtwc30f5nw": [
+        "BossDAO2565"
+    ],
+    "stake1u9jfx8aus9jfymgh309ksl4l9k6eutkxqyzf6ll7mgj7nes2z2crc": [
+        "BossDAO2569",
+        "BossDAO2722"
+    ],
+    "stake1u83ck6p9h8u83anh8rlgaa6hmt0nzhtw0fy3c4rytxwax7cezefdx": [
+        "BossDAO2571",
+        "BossDAO2931",
+        "BossDAO3327"
+    ],
+    "stake1uy6edy2eyc44nkg8zmtap78g5wmk8nwexwsq58nnwl2uqtczsul6e": [
+        "BossDAO2578",
+        "BossDAO2579",
+        "BossDAO2580",
+        "BossDAO3328"
+    ],
+    "stake1u893mgn9d05600hc270atdw05vur290v44h7k7dxdasph7suk3pgm": [
+        "BossDAO2583",
+        "BossDAO2584",
+        "BossDAO3332",
+        "BossDAO3333"
+    ],
+    "stake1uy0lr9h8p8eyzppxmxa5u6xss9nplss8ef7vvx32t2k9p3qgc8ncv": [
+        "BossDAO2585"
+    ],
+    "stake1uys98w23aalayv7lag66yhevskp6e4xt6vmucf8d7dp9ncg5ad489": [
+        "BossDAO2592"
+    ],
+    "stake1u8u0xtjay2duz6wxe99e8d6fga0rdylqfv8wlkjfp84nc0q6nvejk": [
+        "BossDAO2594",
+        "BossDAO2949"
+    ],
+    "stake1uxdasgtf6nve3dah6qv7vrfmzuc8gypwlls4r7fuzhja6xc3wjvss": [
+        "BossDAO2607"
+    ],
+    "stake1uyvfwr04sahhw4x6w3qxpt5ts86dvvvsrwu8va7cfyjpt6cjyvq5e": [
+        "BossDAO2609"
+    ],
+    "stake1u9swh7z0f3ku7zd4zz94nqwt74vxywjv47fewg675nau42cnegj0n": [
+        "BossDAO2610",
+        "BossDAO2611",
+        "BossDAO2612",
+        "BossDAO2613",
+        "BossDAO2614",
+        "BossDAO2615",
+        "BossDAO2938",
+        "BossDAO2939",
+        "BossDAO2940",
+        "BossDAO2941"
+    ],
+    "stake1u926xt228px02yh0nnsg2trj9g7cpenl8payspedt04uj8qzuq7lu": [
+        "BossDAO2616",
+        "BossDAO2617"
+    ],
+    "stake1uyc8dtrj05j8s60klewtszpzac5an88gvv30kx3dq7ukxhqcjfxw4": [
+        "BossDAO2618"
+    ],
+    "stake1ux5tk8k60kg4mqz550mkvwznxw5tsdff6pv9std5hjezgfgelafgd": [
+        "BossDAO2620",
+        "BossDAO2624",
+        "BossDAO3279",
+        "BossDAO3280",
+        "BossDAO3287"
+    ],
+    "stake1u8m5agleqttvdtc7qdcrln7vjtdfzvcz0fu98sqdfesly3scwf5dh": [
+        "BossDAO2625"
+    ],
+    "stake1uxk39wllymzktt2yums5upghdwchvn2ph66szht5lqgcnhcnme0k5": [
+        "BossDAO2627"
+    ],
+    "stake1u9ms53lskjf2lng8dsdrwm9kmkyesssw49n92thw99lt07g6kfgy0": [
+        "BossDAO2629"
+    ],
+    "stake1uywhnh5k6uury480wpcs5xcse4unl0g4h80v4896zln96mgsqs420": [
+        "BossDAO2631"
+    ],
+    "stake1uy756ccmcgra8etmgxgtr4vcp4tdnkmnnq6gttnhuwzcwjgmuns76": [
+        "BossDAO2636"
+    ],
+    "stake1ux9walv5p3uux6sx6lsgppp8ulkkxynyygjsw4sgapr7uwsmpvkpk": [
+        "BossDAO2637"
+    ],
+    "stake1uy9rrqqc6y7xp7xmjk8xtht27fl6yhavp3n4twafqc22qrqd3s67g": [
+        "BossDAO2638",
+        "BossDAO2639"
+    ],
+    "stake1uy38az0umamh7xerdlc3vxvk22yjzsgqgvpc0lg7mml8lvc8qwa4d": [
+        "BossDAO2640",
+        "BossDAO3252"
+    ],
+    "stake1u98ajqldr5mgg0fqhvp04nqntvjf30m8s0f2g50r9cvwwagpejzw6": [
+        "BossDAO2643",
+        "BossDAO2644"
+    ],
+    "stake1uxm5aqzc5m0t8s05g3fctuzmj3rp475dc2xp453xm40pvfs32pnwk": [
+        "BossDAO2645"
+    ],
+    "stake1uy9xzsvgz8qg660v3cczea70v5jjtlt2p9s5chuc303ssmse9gjee": [
+        "BossDAO2647",
+        "BossDAO3381"
+    ],
+    "stake1uxc73m7tyuz9tqjq7fc65ewu54zjuz4v0ccxzsgcdql3lrquf06yz": [
+        "BossDAO2651"
+    ],
+    "stake1uxzxvgfuqtkp8xm42nuuw3agg2l9wvua0zyr7v847k8v29c85kkt7": [
+        "BossDAO2652"
+    ],
+    "stake1u8htsmjlv24v59plw3xjuegp5y9x4lffwg9ne04uprd6nus73rcx5": [
+        "BossDAO2653",
+        "BossDAO2654",
+        "BossDAO2655"
+    ],
+    "stake1u8nln5lj387lmxs6helg8h36agydmafy49aynveuar5fljgvxac9e": [
+        "BossDAO2657",
+        "BossDAO2658",
+        "BossDAO3584",
+        "BossDAO3585"
+    ],
+    "stake1uxk6ykn44ue6exeq53ty3cqvlkks8zd2j9gsmmm26a8zkmce48w3n": [
+        "BossDAO2659"
+    ],
+    "stake1u82hed3jvhft0nllem2f4jrxj988knsw9h6vc0ykyduxuxgnxw0jk": [
+        "BossDAO2661",
+        "BossDAO2724"
+    ],
+    "stake1u8atxzdkhvagvff3tfpzjtv9ll2x6m0rnrgkxs98zuly40qy6d7ac": [
+        "BossDAO2662",
+        "BossDAO2663",
+        "BossDAO2664",
+        "BossDAO3521",
+        "BossDAO3522",
+        "BossDAO3523",
+        "BossDAO3524",
+        "BossDAO3525",
+        "BossDAO3526",
+        "BossDAO3527"
+    ],
+    "stake1uxk85kqeaaj8n3zlar75qt7tdlpc9dxfez8zg5l532znn0cxnazpg": [
+        "BossDAO2665",
+        "BossDAO2682"
+    ],
+    "stake1ux6yxe42jf0zqhg5ru0m3m8dt3zzut8xdznjh2jhz689w2c48m4zr": [
+        "BossDAO2666"
+    ],
+    "stake1u9nqy0g6gm4wptp8vj5da673xc0n9glyq6akr8z3r79flqs0nnen3": [
+        "BossDAO2668"
+    ],
+    "stake1u8rn8ce3s8lzudfp7a4qvvf8t7ylcdjw4hn8a8q0g9rxdpc9h6peu": [
+        "BossDAO2670"
+    ],
+    "stake1ux267sd9lfmqsm6hpksnvcx7lkgfeayjzaga9nlv9jpr83g9uqaec": [
+        "BossDAO2672",
+        "BossDAO2673",
+        "BossDAO2674"
+    ],
+    "stake1u8sjhe3jjk6laerxahpd6yrgntyet03xprhz4m7ha8ynr4q2xy6aq": [
+        "BossDAO2675",
+        "BossDAO2676"
+    ],
+    "stake1uyqw7kn2uc9gmnvwdj534zrxx0rxzlumrkd605veqj7t8ac0xt44y": [
+        "BossDAO2677",
+        "BossDAO2678"
+    ],
+    "stake1uycuul2e2q4phcc3g4uqvq7rraurplnr2lhlz35y6ng4hgcaqr9ry": [
+        "BossDAO2679",
+        "BossDAO2680",
+        "BossDAO2681"
+    ],
+    "stake1uxvhrccd0jfv6e82f3f296rgg5jyfnf6wft3nztnklx495c6lgxzg": [
+        "BossDAO2683"
+    ],
+    "stake1uygr4rscqrf7lyq92947rnwavhnzc5yzpd8dnu87xjmvxps4fezwe": [
+        "BossDAO2684",
+        "BossDAO2687"
+    ],
+    "stake1u9wrkyze58nzwfs4av8nxrr2lpfk0yd2pwh2ff4yxpvdvsgccegq2": [
+        "BossDAO2686"
+    ],
+    "stake1u8rylmmncdmwwwn6h5mj42y2wn7m5ns56zvfdacd4lcljmc2m9fsf": [
+        "BossDAO2688"
+    ],
+    "stake1u9j7mtm67hsfjw834r3j2axft4yxwcg077kremtqfae7a4gh5rfjg": [
+        "BossDAO2689"
+    ],
+    "stake1u83h25fjylepeg9vez4tesf4vmuqvhxqcs05esxks0m9ulck95aem": [
+        "BossDAO2692",
+        "BossDAO2768",
+        "BossDAO2769",
+        "BossDAO3073"
+    ],
+    "stake1uxe3zf8txrllk2ah5aperyy8f2gemky3hznnpqkw6uqywqgflpcsm": [
+        "BossDAO2704"
+    ],
+    "stake1u9j7t608ehs7ud59cpmma8jxcy2v63gnvt0vz3y00kw7h5s8lwgde": [
+        "BossDAO2705",
+        "BossDAO2706",
+        "BossDAO2707",
+        "BossDAO2708",
+        "BossDAO2709",
+        "BossDAO2710",
+        "BossDAO2711",
+        "BossDAO2712",
+        "BossDAO2713",
+        "BossDAO2714",
+        "BossDAO2715",
+        "BossDAO2716",
+        "BossDAO2725",
+        "BossDAO2726",
+        "BossDAO2727",
+        "BossDAO2728",
+        "BossDAO2729",
+        "BossDAO2730",
+        "BossDAO2731",
+        "BossDAO2732",
+        "BossDAO2733",
+        "BossDAO2734",
+        "BossDAO2735",
+        "BossDAO2736",
+        "BossDAO3155",
+        "BossDAO3156",
+        "BossDAO3157"
+    ],
+    "stake1uyvj5d4qcg842kpl7sxqktgytg6g8fkzh0readnr2056xygju4g68": [
+        "BossDAO2717"
+    ],
+    "stake1u9sez6tzmkargqtcslfw45k2mta7cxt60npes0vfmh43qas6c5aww": [
+        "BossDAO2720"
+    ],
+    "stake1uyda8c0dz4t42hkll9r9xd3lsvvfhuwaza6znljge59lk5gsme38m": [
+        "BossDAO2723",
+        "BossDAO2751",
+        "BossDAO2763",
+        "BossDAO2930"
+    ],
+    "stake1uy5s4yman0qrat78cudkvaw7s6xru3jjp2p46yqlatruads98r7k2": [
+        "BossDAO2738",
+        "BossDAO3358"
+    ],
+    "stake1uxq5fc87yer0dcnr0hc6n4v47kphmrnlyrmepg0a9h03gngy3x2mt": [
+        "BossDAO2740"
+    ],
+    "stake1u8khhrmnj484n6clze7gz88v26eyru03c928l9ck6rvsecc5zxhjj": [
+        "BossDAO2741",
+        "BossDAO3533"
+    ],
+    "stake1uym8cz0ge42j08hvm4c8x3uld7kmzkxnrx8wzsekanu9xlgdy6gwj": [
+        "BossDAO2743"
+    ],
+    "stake1uxrlfuvnrr3gjqqwq32znmrqyhy32vh5cf5wt47frm3qthqgtysns": [
+        "BossDAO2749",
+        "BossDAO3158"
+    ],
+    "stake1u9kdurl4cra5d7hyj7wyhxe3e558e2gr3sv7hf74ad7s0pcs3mjqu": [
+        "BossDAO2752"
+    ],
+    "stake1u8nhl58aytc6j4veug4n7c5jq3ggc0fycje05mzk09vz8qqfvfufu": [
+        "BossDAO2753"
+    ],
+    "stake1uyp5r6rlcfsq9kratc2fnfe8g59x3wzyzjhtk9wrgf2xdvq96t3gd": [
+        "BossDAO2754"
+    ],
+    "stake1uxslvgjra6llzkg92cdqgr338dnrfwzpujamshtr2pmrm9srup70e": [
+        "BossDAO2755",
+        "BossDAO2756"
+    ],
+    "stake1u9vasmmlvraxrcp5sv70r98ay0u4j289ms8lal4dh4k8m9cqn8h38": [
+        "BossDAO2757"
+    ],
+    "stake1u8fy39thukkgv5lw69ztwllmequj9ea368dtg0y4edjzljqrs56rz": [
+        "BossDAO2761"
+    ],
+    "stake1u8twf4dsms62ag2t2kzvutljjsn2xexctu69mq4w0n7qjqs5a603h": [
+        "BossDAO2762"
+    ],
+    "stake1uxxxhmvc22jl4kwmtq3ttnszgn7d86yjcjs8da2h7l8u02seqevmh": [
+        "BossDAO2766"
+    ],
+    "stake1u8ysddmhc8zga5cnnw3z06ffg4zy28t4xxnladklgqr42kcem9095": [
+        "BossDAO2767"
+    ],
+    "stake1uy2k0vkw4gqys53e7ge9sm638weu7mg67md6z5ggrz4mmggj7zhgj": [
+        "BossDAO2784",
+        "BossDAO3040"
+    ],
+    "stake1uyfeds76swh3aw82eyzemz3md7pe3rspvjyac68c5djv56g8xgx9s": [
+        "BossDAO2886"
+    ],
+    "stake1uyqz49zyavsvqr3zm8uk9y4dczz9dartpxgg68mmzvap5jgk0kctf": [
+        "BossDAO2887"
+    ],
+    "stake1uydwsqt66zzdqd4qt84ydwd6p28f4ng7mfpnjjhhkf42uaqylu085": [
+        "BossDAO2888",
+        "BossDAO3516"
+    ],
+    "stake1u9qujszvqrsfrpny2fz63kkegjee0vltam4yxnhlyzpv7ysxdwy5r": [
+        "BossDAO2889",
+        "BossDAO3108",
+        "BossDAO3419"
+    ],
+    "stake1uxx9pan0d5rvnsxkejt3mnd4a9837t5kx7ut9p50hw5kv2qql8mmg": [
+        "BossDAO2890"
+    ],
+    "stake1u967zhaeg8elymxwzuuln5qzu5q0aft86lgfme0yakv5hqqep3eka": [
+        "BossDAO2891",
+        "BossDAO3236",
+        "BossDAO3544"
+    ],
+    "stake1u9hq39q3qd4uuxpm2tv5tm7xfa2nk4g68mmve5dgv7pnq7gy0gnzg": [
+        "BossDAO2892"
+    ],
+    "stake1uxvfkjszxlfr7ktr58est33m4t888q0hwunmw6tq3xkpwlgfax3yx": [
+        "BossDAO2896"
+    ],
+    "stake1uxly7q8zsegp4kp29yga4j6hutqcpnp7d7ge5spva77hc0s7eqhze": [
+        "BossDAO2897",
+        "BossDAO2909"
+    ],
+    "stake1uxjknqtmx2t8rd9ydrmjhw4czfjdyam4dlff9s9pv9xjsyqxrf44d": [
+        "BossDAO2901"
+    ],
+    "stake1u9nxxsrp679djh3khrxkycgsxl8efzptvs0aeu42k0gs7ugqt8ynd": [
+        "BossDAO2903",
+        "BossDAO3324"
+    ],
+    "stake1u87udfgj9m7kfdtdekaanh5sxts0yg0xhl83jk09ps9907sgpwa90": [
+        "BossDAO2907"
+    ],
+    "stake1uyfu4qzrfvzwtp6uv9u2tyvuwg5d05am9vp7mmldg88dh6sczrssc": [
+        "BossDAO2910",
+        "BossDAO2913"
+    ],
+    "stake1u9hvu5r6ayku22wj5wr4usunryxlqpnqt30rh49g5su5s0gs8tuft": [
+        "BossDAO2911",
+        "BossDAO2912"
+    ],
+    "stake1u9xjj0lp28svpf9ksghq4u45ek2rcpvw55ljatsyqvygm7grddj0f": [
+        "BossDAO2942"
+    ],
+    "stake1u8cnlfccagahydda5w48c4q537ds25rxjynnhse04j6q7sc25q2zj": [
+        "BossDAO2946"
+    ],
+    "stake1u898xlnv8lqpke0ezmf0t0gkad54ls69snaysj0v6jrk23c4zyqep": [
+        "BossDAO2947",
+        "BossDAO2948"
+    ],
+    "stake1u96acrsfglp6mutrzu7xymrslqzw4m9xxpw8dcrkzw3uhfcjwuupp": [
+        "BossDAO2954"
+    ],
+    "stake1u9mzxzch95lfxygr53ssxr6szlaj95ecrm25t7ya6nl2z2cqqy80g": [
+        "BossDAO2956"
+    ],
+    "stake1u9cg57cdafrzrpkltq5qgne9x0dr6ghcsxqd305cpj0js0cz4jqlf": [
+        "BossDAO2959"
+    ],
+    "stake1u9apacqrxpaurug4mgdsu27dwknkaagugad4vhhv0fr6kfsd3uya6": [
+        "BossDAO2960"
+    ],
+    "stake1u9zygjh9gwx52p6hl7p3s5f3jhch2wxr9vsau2hzj835qssg07jja": [
+        "BossDAO2961",
+        "BossDAO2962"
+    ],
+    "stake1uyqdzstvmx4k0ngy6v64s3nje2tn4udgvu93xz5wfg2pqnq0vhh9m": [
+        "BossDAO2964"
+    ],
+    "stake1u8zpverfc8kwle36tt0lrv5d8cyvrztysz52u3jjm5adu0gxpwusp": [
+        "BossDAO2967",
+        "BossDAO2984"
+    ],
+    "stake1u8sjlp5z3cfad7e0qq4p5tmmszhw662seue2s6ylzyq4d4sf8l87s": [
+        "BossDAO2974"
+    ],
+    "stake1uyxv7c98050w3vwxealg276dfaxh6xxjazywujtavtrzd6qgs58cq": [
+        "BossDAO2975"
+    ],
+    "stake1u9pkwd5c5w7fpyadsyp4fc8g5fsatlnjl9xh8yhketmq6zg2fr5n6": [
+        "BossDAO2978"
+    ],
+    "stake1uy4flgrhkvl2jt8h9xm76vh2sn4xcanlyqpnqajaqk9p9tgtuncvf": [
+        "BossDAO2980"
+    ],
+    "stake1u948c4jzqer2rskvtg9mkqwmxm3lsdx6ps9expnwyy06thqam63sn": [
+        "BossDAO2981"
+    ],
+    "stake1u97cymhm4zsvc8kynp4dwwgzaqlrjrf8uwy506frm2aj48s43usgn": [
+        "BossDAO2982"
+    ],
+    "stake1uynwfryya5f9zqrp0xwmgra3tgtmeacjgwykt50jnq5p8fglhlq7s": [
+        "BossDAO2985",
+        "BossDAO2990",
+        "BossDAO2997"
+    ],
+    "stake1u8pkrx4nwxu3x57l922ckwp8r4ryykqfvyacdpleuhpg06qxs2qhy": [
+        "BossDAO2987"
+    ],
+    "stake1uxd23jak3hd9fxv59lal5lwjwr0yadl0scp5fdnam9vne8srzk87k": [
+        "BossDAO2989"
+    ],
+    "stake1ux2pgy4h44z058d9tck6gwlssrsmj27vk92ytkugf46zpwsmjzx28": [
+        "BossDAO2992",
+        "BossDAO2999",
+        "BossDAO3003",
+        "BossDAO3004",
+        "BossDAO3041",
+        "BossDAO3062",
+        "BossDAO3119"
+    ],
+    "stake1u8hdl4a93jaqluhdwr68dlcpf4vd9nxkc2wulj4kwlpdskcxjh4rn": [
+        "BossDAO2994",
+        "BossDAO3237"
+    ],
+    "stake1uxlt4anrsurmcacpjr343a4yw490w93sed4umzm947ac80gznp20m": [
+        "BossDAO2995"
+    ],
+    "stake1uykc4hd94xrx7tq5t7m4px4xvrmerl028qt6zlashy6392cmzfdsa": [
+        "BossDAO2996"
+    ],
+    "stake1uxudffwrc57hthuqfqxxemv7v2q0geu5vq6d3tgjg6tmwvqwmm3rf": [
+        "BossDAO3001"
+    ],
+    "stake1u8685we6dplcen3dskf89mvhrz85vv97md9zllm2qr7g88grrw38g": [
+        "BossDAO3005"
+    ],
+    "stake1uya8tytza8lwcfq0592ff2julnugswr74ckclle3pnlwxss3q7x3u": [
+        "BossDAO3009"
+    ],
+    "stake1uxl43w8938ppp3xmyqefh6l47khhg203h29elu0ekd22a5shhg0pd": [
+        "BossDAO3011"
+    ],
+    "stake1u806ga33uwu43et4masc7pecukd3568m92v4zky7pvl0jxs23ywhv": [
+        "BossDAO3012"
+    ],
+    "stake1uxa8gk67cqjkdfqjygh33y8wt0taafund9fs6qw2lz0damct5vc0x": [
+        "BossDAO3014",
+        "BossDAO3146"
+    ],
+    "stake1uyrmvapzrne8qkfpzy7cmc6gjhve8aztupsltrzm3kv36vgya3q4u": [
+        "BossDAO3015"
+    ],
+    "stake1u927z05garjyu50aehlpj29usnudpa6np8f5n6nfvvcslngql6yg6": [
+        "BossDAO3016",
+        "BossDAO3037",
+        "BossDAO3052",
+        "BossDAO3266",
+        "BossDAO3267",
+        "BossDAO3292",
+        "BossDAO3295",
+        "BossDAO3296",
+        "BossDAO3297",
+        "BossDAO3298"
+    ],
+    "stake1uxgmpskx4sx86wd6wcm3vawxr09d8krnt0v94xwf9556s0ckenamc": [
+        "BossDAO3017"
+    ],
+    "stake1u9zf57sq5uy722kq9v53ggc6wkqfcsr7ndt5um5qn5y4uuqalvukn": [
+        "BossDAO3018"
+    ],
+    "stake1u85w3sur6s3fexfsh3u6u0ffzjq27tnjnrjap4pn5tsxt2c0sql25": [
+        "BossDAO3020",
+        "BossDAO3021"
+    ],
+    "stake1u8xwtf2tevtsjnkus0tvagqu54dcqjqw94t9r8gdhy9zhjghvdtmy": [
+        "BossDAO3022",
+        "BossDAO3065",
+        "BossDAO3070"
+    ],
+    "stake1u8d0zx49mvn7yt0zsc5uzxf6ketexc67wevgpn3v72pdafgvtv5f0": [
+        "BossDAO3023"
+    ],
+    "stake1u8m2l36tfttqls824w42qgt89qr2hevtc674fcmvaudautgtx62ya": [
+        "BossDAO3025"
+    ],
+    "stake1uyz0mfc8gcu3j2pf94fmdq2pqnj8da74k9ujwhgrgqswa2sghwwus": [
+        "BossDAO3027"
+    ],
+    "stake1u93vdxcdun4253latw0q0s4y3athkdra7tpjq6nffzuj48qg66ws9": [
+        "BossDAO3028",
+        "BossDAO3038"
+    ],
+    "stake1uxvxa3ru7djmxttv24z4lvksqzr536w69s5vcanwpfuydnct02tq6": [
+        "BossDAO3029",
+        "BossDAO3227",
+        "BossDAO3247"
+    ],
+    "stake1uy52m3n7cktpx69txyx6pz6a2gr7tsaj94kt0ef9ua0zm9q0wjjuu": [
+        "BossDAO3030",
+        "BossDAO3031",
+        "BossDAO3032",
+        "BossDAO3033",
+        "BossDAO3034",
+        "BossDAO3044",
+        "BossDAO3045",
+        "BossDAO3046",
+        "BossDAO3047",
+        "BossDAO3048"
+    ],
+    "stake1uxu7mvnjea6rhln0yg7dh8fzazpah69udwu4ql2h9rt4scqtmy3mc": [
+        "BossDAO3035"
+    ],
+    "stake1uxnw7tgcy548tqtkushdrdaxjx5wjeyaugkky0gx92accjsn3mket": [
+        "BossDAO3039"
+    ],
+    "stake1uxx4ywck7dga9wt42lkx2xcraeqtat3qn5alseyv9j5davs7kklcg": [
+        "BossDAO3042"
+    ],
+    "stake1u96ytw6av6ce3hv4hjf6lph0tlz2q83klk2qaz34ee3w4lqqheyce": [
+        "BossDAO3043",
+        "BossDAO3474"
+    ],
+    "stake1u9d4x2lhzym335xeq52zwwnuczg5dfjhh5tzl5luvqkefvs422ja0": [
+        "BossDAO3051"
+    ],
+    "stake1uxjg07gxznkumn0e3hausjm50hwasykxcm26lkvtsw2azfqq6f97n": [
+        "BossDAO3054",
+        "BossDAO3055"
+    ],
+    "stake1uyyyasnef8utaszdndcgd3xf5876xtv7p5xslt3s5k86kyq20quvd": [
+        "BossDAO3056"
+    ],
+    "stake1uy7d009fkvga68ll58wck3vhm7fytw56v24ww7jr2qcwkagpq7hus": [
+        "BossDAO3057"
+    ],
+    "stake1u80wp2hgjq2z3qsuw2nfk9ax2u5dhyrjwmvzkjlan3c7rwsth8z9c": [
+        "BossDAO3058"
+    ],
+    "stake1u8urqj8ytk8yfc9ncc4y5wrfns982zfucmgrxy6atxzdgzc497r63": [
+        "BossDAO3061"
+    ],
+    "stake1u8cpwf7n35356gkt6m77qr97s66ydkq8nmyu2dd3776dvvgraxae4": [
+        "BossDAO3064"
+    ],
+    "stake1u8nr7883g42svajacc085hk6jkjf23gtlj7eswcuz9ry8aqw7nfpc": [
+        "BossDAO3066",
+        "BossDAO3067"
+    ],
+    "stake1uxmcq9dtw6c4wujy326ptflmquf39uj6qmd8s4zzztmpa4qgj6n59": [
+        "BossDAO3068"
+    ],
+    "stake1u92j6awq3vvwq72cetl0ayp0rmmxqpclv064g3yapd3lswq8wlcyy": [
+        "BossDAO3075"
+    ],
+    "stake1uxa5rnr8tna3yvml6y58mrgklwwjkwl680ec0f6ewxs984sq2hsru": [
+        "BossDAO3077"
+    ],
+    "stake1u87tayvh0ykny8drndur9key3srn5d7vwv3dxlfcgw43wsqggk202": [
+        "BossDAO3078"
+    ],
+    "stake1u942fj8f3tz7pvmx8lzgfhyhrpexvtwseka2mdmjcntfveqgvvlfr": [
+        "BossDAO3079",
+        "BossDAO3080"
+    ],
+    "stake1u95lmjthm6wune0qyhe0wnxk8h6ehmllq8kr5h2hfmfrtqqyq9kux": [
+        "BossDAO3082",
+        "BossDAO3083"
+    ],
+    "stake1u8zdm0dguapmfzkptglf3w0aj7xu5f0yy0yd0pnjxtwqykctnazsl": [
+        "BossDAO3085"
+    ],
+    "stake1uxt8n9vmkhd9h5aaqchdynz2zvts9jaxt3xkkz3nl5c09ucrqjczz": [
+        "BossDAO3086"
+    ],
+    "stake1uxdwh66l2hy3f0c09mufxnjla4t2e8uv78qxxepueztk79s4jwj7j": [
+        "BossDAO3090"
+    ],
+    "stake1u9j85yn7dsythuvk87m29wujkjs37ls4f075d5axqj6retga66xsc": [
+        "BossDAO3091",
+        "BossDAO3092"
+    ],
+    "stake1uyanlmamxj3qv4wzxt5rgvlsu4tvdlqqtrh37zylkxamx4g4zfm4s": [
+        "BossDAO3093",
+        "BossDAO3094"
+    ],
+    "stake1uy7w4u9hnvtq2w8whjv4300tfgysrumv5hxkpa4d3dn4u7s6gyfer": [
+        "BossDAO3095",
+        "BossDAO3150"
+    ],
+    "stake1ux25qww9ghmp4uy4gh0z5c2sqzk59kygnkla0pkp20wp3eg5fvf9z": [
+        "BossDAO3096",
+        "BossDAO3097",
+        "BossDAO3528",
+        "BossDAO3529",
+        "BossDAO3530",
+        "BossDAO3531",
+        "BossDAO3557",
+        "BossDAO3558",
+        "BossDAO3559",
+        "BossDAO3560"
+    ],
+    "stake1u886tztzk4zvz8zckuzxezrcduyl3lcuu7lj4muscpjal8q38jyk7": [
+        "BossDAO3106"
+    ],
+    "stake1u8ps9wq3yyy4mx4aja983cxasshnfunee47jnk89v7sz7acf8ncl2": [
+        "BossDAO3107",
+        "BossDAO3583"
+    ],
+    "stake1u9y79s4849hd5d8l8k5yhm2px2jt8s4rtrsp6vsvppj7w8qa0ru7u": [
+        "BossDAO3109",
+        "BossDAO3575"
+    ],
+    "stake1u8gpjr7zgxjtdnas6qkkxkmyl4fw5dzq9lykmr60phe7thqr92hfx": [
+        "BossDAO3111"
+    ],
+    "stake1uyn8msrtupmvevh6ews4yutdzyvnts4uvp5zkr80h3hxyns8gw3zs": [
+        "BossDAO3113"
+    ],
+    "stake1uyrd86zflhxd2sq7r6w97r9g3p78pz7auu3jzsvv80davggpc7d53": [
+        "BossDAO3114"
+    ],
+    "stake1uy05vwsxe4kw0prwde5t2fkejlcal6j329ffqysccunq90cyr7k7f": [
+        "BossDAO3116"
+    ],
+    "stake1u9kdcjjtx9fz5apc5fj83cw2z78nmkn205g3z2e6a4g83ug6929ds": [
+        "BossDAO3117",
+        "BossDAO3118"
+    ],
+    "stake1u86xs33es2h7hmw58u9em85k5nvjxj8hrhnh5ewnqju8k2gt07fl6": [
+        "BossDAO3120"
+    ],
+    "stake1u86p4kdq5784640vanrr6sxc7zgvjdyfur4uqmrjvc2mhjqhznvj8": [
+        "BossDAO3124"
+    ],
+    "stake1u8fkjpswd5ewf6kq23c7w8h3sk22dv0e8k83te82psvhhwslqhnpd": [
+        "BossDAO3127"
+    ],
+    "stake1u9wkkyc87usucrcn4n3wqmknyhm8kxxwyq9x6ejs7kkn09c0jafgh": [
+        "BossDAO3129",
+        "BossDAO3136",
+        "BossDAO3170"
+    ],
+    "stake1uyan8z8gcx024vlwr69rxsa5pvsqzsj67ceulm2uyrnv0vsxyujzm": [
+        "BossDAO3130"
+    ],
+    "stake1u8reh57czp5jexnmn2q2p7pnnlhtl0wavllt3eel73tqj5c9rm9kz": [
+        "BossDAO3137",
+        "BossDAO3138"
+    ],
+    "stake1u9c6ckrr55c4vllwcp8d36zm0apgnrjcq6zncysl9he6lusmxw9yz": [
+        "BossDAO3139"
+    ],
+    "stake1uy0l8f6xdrdtpty2c3evm2thcts3km7ndvjkvjhh3u0zxfgf4e26p": [
+        "BossDAO3140"
+    ],
+    "stake1uxvtgu86hqswnhn4as8we5v0v9yy4ysncuaateep9hm8v4gvewpa6": [
+        "BossDAO3141",
+        "BossDAO3142"
+    ],
+    "stake1u9tpkgkzk475npuuf94lswj9ghjvj9e0uda937mqjd2lm3qr66kc8": [
+        "BossDAO3143"
+    ],
+    "stake1uxr09rs6xf5vvxfg8h6f8jx8au5kads6r8eyk7ahkwxa7ug4k53a2": [
+        "BossDAO3147"
+    ],
+    "stake1uxgfm0nylu5j6jl89kyzewjkze4kv9293pm6nu77kuvh43q3p7r7z": [
+        "BossDAO3148"
+    ],
+    "stake1u92mytxwygz6le54mm8ctejxw39ad4rfqa8gtmy0ekqme3c5tmfq2": [
+        "BossDAO3149"
+    ],
+    "stake1u943gwm8v0y9488h6szet6dcktgcxqvphcmqsaqhmgkk4aqzzrux8": [
+        "BossDAO3152"
+    ],
+    "stake1uyk7kttu8smzlkrfxrtp4ywmhqs4z5qk0r64gyqgn3lg4hcvwzmrw": [
+        "BossDAO3154"
+    ],
+    "stake1uxxgf8ck3y58kpl233n3wrd8h323ncvzzl58pl490j7vlhgqvfew4": [
+        "BossDAO3161"
+    ],
+    "stake1u8lhqz8a7jr309yzz2dw06z2t0klvfg784e5d0k87q56zsckud55p": [
+        "BossDAO3162",
+        "BossDAO3272"
+    ],
+    "stake1u9es55xhg2k49k9reqnumanfdwkjldr52zkmrc8mq8pxejsl2m2wu": [
+        "BossDAO3165",
+        "BossDAO3185",
+        "BossDAO3186",
+        "BossDAO3187",
+        "BossDAO3188"
+    ],
+    "stake1uyejjqzm2jhx50jmzlkqns7adxvycn27qndz949q407a8zcccuz38": [
+        "BossDAO3167"
+    ],
+    "stake1u92yes0yyutfmdtrg9eq2t8w3ll6nxaftgcfmysqvs4a2dqdnnlmz": [
+        "BossDAO3168"
+    ],
+    "stake1u865x3x6e3qrfpz2npfm29nvr4qtkm59ajgqptjk4jxcz3sq2gm6z": [
+        "BossDAO3174"
+    ],
+    "stake1uxnp2refe2elfadnk5wxz777lq3u77xe4gehmvdxcln9w9gyjm40w": [
+        "BossDAO3176"
+    ],
+    "stake1uxkmczn4c3fpw5j3aatpnkhkd8ptarxvmm4ga63xr28648q8uuedv": [
+        "BossDAO3177"
+    ],
+    "stake1u89ecn2453fh4rz3y3rens9clkyx24w7xkyejqye7ujnujqhqt8p6": [
+        "BossDAO3178"
+    ],
+    "stake1u8mcredy0e489rzsl7lzzakklsgandkcwjhfz4hr6knhefqwmwrnr": [
+        "BossDAO3182",
+        "BossDAO3502"
+    ],
+    "stake1uxdz5hf7c48gvevwcdj3hjzjm5dzu586dgp5qqx5lr0u06c9fkmmm": [
+        "BossDAO3184"
+    ],
+    "stake1u9ywknwkhm9rwwq9yxcxhaghfw5jww4av9qejp5zxewc5uqlgjngs": [
+        "BossDAO3195"
+    ],
+    "stake1u8znn8qafuyf4yz4nhw7k0jyyg7fqlc9xpnfhg64hhrvazgsttkl3": [
+        "BossDAO3197"
+    ],
+    "stake1u95xw64s7l4rsuy7d8yrtdufge9pw5xal748acah05glhfgpxq0vq": [
+        "BossDAO3198"
+    ],
+    "stake1uxmgx8na94ew96vq6x47mrt33qlsezrqluda4ygdqn6dujsjn52yk": [
+        "BossDAO3199",
+        "BossDAO3210"
+    ],
+    "stake1ux3sjjmzxgtt2kyrtjnssrd4zzund7z7wc6gqf57gfr9t3g20tn6m": [
+        "BossDAO3200",
+        "BossDAO3201",
+        "BossDAO3202"
+    ],
+    "stake1u8s63s88q8xs9s4euetpuejhky7g6j2gtkkn0c6nl9m66mgkkaalp": [
+        "BossDAO3203"
+    ],
+    "stake1uxqj7twn49jpwtaun67epp8v5eh2xrdeggw03p60qxxc20qmvhzkn": [
+        "BossDAO3204"
+    ],
+    "stake1uyy7hnquxryty200kxenuwm3szppcvqcd3hmsmfm6exmzjc7wx8ms": [
+        "BossDAO3211"
+    ],
+    "stake1uyhf35mf0mj34xck7g77h6maqegmp9lu4a8qjxdffw3rw6q7474ap": [
+        "BossDAO3212"
+    ],
+    "stake1u89vaufkcacgw872dfvr787ax60suwkpn60rqgpfasqx6lgx69v8z": [
+        "BossDAO3213",
+        "BossDAO3214"
+    ],
+    "stake1u8axlwq7zz5hcc9x3z388l8krnswavqe3ac03u5zqyueytcgt0m8y": [
+        "BossDAO3215"
+    ],
+    "stake1u8duqjr0e24gst7x83pd4e4se4kfrrxjxqadvwvptx6yqeszjvqvc": [
+        "BossDAO3216"
+    ],
+    "stake1uxvcsau8ccthdgnqcn87kt5ggs53t2zxdhqyvrfecswrm3qjztlt7": [
+        "BossDAO3218",
+        "BossDAO3233",
+        "BossDAO3251"
+    ],
+    "stake1uxjjrs05pz49755whwft8spzrdvr0cxj54t8lg4rzm0rxngfmnjde": [
+        "BossDAO3219"
+    ],
+    "stake1u9a5s3lx58pqr6dgdkr22lz5wplf8p9d2uq0ht0rpneqs3sm9v60k": [
+        "BossDAO3220"
+    ],
+    "stake1uy7qw5kxgja2xr46jzram3u56ts8504etwm646t34r23nlgnw2vhj": [
+        "BossDAO3224"
+    ],
+    "stake1u9hjtfjazf7l3sd262qyjssg6nmv8xwul8vwj0pgwq3gjrcxkzfnj": [
+        "BossDAO3226"
+    ],
+    "stake1uy3c8zjpy008qrrgl7zueac67t7k0563dy8x8ptnnqvk4cgx8zetl": [
+        "BossDAO3228"
+    ],
+    "stake1uytrd6ayer6vfgcl2mjl856g3llrdn7tcvacdc5j94x5ljcyjd8d2": [
+        "BossDAO3231"
+    ],
+    "stake1u8xf8fwcjekvsemexcffmpwtx26ucmhv5w8k944teulclng64ee76": [
+        "BossDAO3232"
+    ],
+    "stake1u9xwsm5chm4970qdyka7pe5rsqrwrqyyqp3dkgdr47th9es4rd7sq": [
+        "BossDAO3244"
+    ],
+    "stake1uy0cxyxt6w5l6qkd0mgntdnnxj2qdm5pl5qtzez8jl0tr3qs2gmqd": [
+        "BossDAO3255",
+        "BossDAO3386"
+    ],
+    "stake1uytdgl5jd0hz4puax03vsejjpcs3wghk04z8skhme5xvlrg23plfk": [
+        "BossDAO3261",
+        "BossDAO3281",
+        "BossDAO3284",
+        "BossDAO3319"
+    ],
+    "stake1u99pa5lu7qd068jtdx8ff6khv8wv2gg36kju4qn5q0n424q7g5n52": [
+        "BossDAO3268"
+    ],
+    "stake1u9sesqzm6a4sxk0sfdknug7tx7mxtwk3x6w40whzlzljyfq4kpxqz": [
+        "BossDAO3270",
+        "BossDAO3536"
+    ],
+    "stake1ux8fur6qks5w7vde69hqhw59fdyty78gnsyzulcfrrvydkqfsagz0": [
+        "BossDAO3271"
+    ],
+    "stake1uyf26n4fef9u0p3nxvv5qhf8hut2kau68965mg59fjjnvcqnqu0l5": [
+        "BossDAO3274"
+    ],
+    "stake1u8awdz7ue4uflacljqcvdyv7gvcsc5wzppghk2n38za3trq2u7n2a": [
+        "BossDAO3276"
+    ],
+    "stake1uy9ccswzgz4qpc2dyrf2dlf27cwkczc8pwv3a6e24e5fgdsrv90rr": [
+        "BossDAO3283"
+    ],
+    "stake1ux8gqzy35qjycvwzl4msgh3h4ffra4x0pf7z2ny2p0xdwxqu49asz": [
+        "BossDAO3285"
+    ],
+    "stake1u8xj4nkmyqtn8ma384v3k8fwj9k7ehzkjru35ly84kqp8gca36let": [
+        "BossDAO3290"
+    ],
+    "stake1uxc9h9kq2hxwgnludrqwr2tl0fwyms63j5pgl9a5kkzk5cqx2nflw": [
+        "BossDAO3291"
+    ],
+    "stake1uylugj53eqted9p7sqdfpz8fl3ggvdnuufzkzlltfm0geacrrc47k": [
+        "BossDAO3293"
+    ],
+    "stake1u8k8u9pf6ptgcvpqm65zwfp7synryz2dttqcek8yu0pk46cumut22": [
+        "BossDAO3299",
+        "BossDAO3300",
+        "BossDAO3301",
+        "BossDAO3302"
+    ],
+    "stake1u8dudfx7m7lzr90wm3dyp98s3esvru8uk2nws3sv6mn6txckcqwgl": [
+        "BossDAO3303",
+        "BossDAO3304"
+    ],
+    "stake1uys56y0earqj72e8r6wz2jepw6gpr2vuu8nmt4znm4e3m5ssva0vh": [
+        "BossDAO3305"
+    ],
+    "stake1u8vkqkszqwyxanqdaq8qw22y3k3x5ke2z6w7u9f9yrf6xjgytydpp": [
+        "BossDAO3306"
+    ],
+    "stake1u8zurk53uymm2cel69d99vwwjzr49zk2ps826m6zjppfppgjj5467": [
+        "BossDAO3307"
+    ],
+    "stake1u9w0puxzvc8jdmyvdsfya0c3adtx3y487j7hgnj2e76dkagstklzh": [
+        "BossDAO3308"
+    ],
+    "stake1u85z5hm284dryj000jv7h3qpnf7vmm63y865lz30n92ex4g00ayne": [
+        "BossDAO3310"
+    ],
+    "stake1u9hh9exu5lq4fnj2f993d82ucpl45knth90lwpja9slkkwcdyk469": [
+        "BossDAO3311"
+    ],
+    "stake1uxmwwrm8zm2v4d82jehcsgkfrcwvaynfuk98a39rrv498agsn2qep": [
+        "BossDAO3312",
+        "BossDAO3313"
+    ],
+    "stake1uxry3z5jzhmrtdrpzcj33rwcnvxz2xln6tem6m0kru9ervgce5qkf": [
+        "BossDAO3314"
+    ],
+    "stake1uydevps78z266eakelpt4638kjk4gfjauh62w8lqgsve20cfnral2": [
+        "BossDAO3315"
+    ],
+    "stake1uyxe99dtdza9nyppjj9jexf0hf2xetdjw9uml9r5pyt3tms8jdcq2": [
+        "BossDAO3316"
+    ],
+    "stake1uy98uc8tx9uz55uzxlq99myceerw6hp5g4c6l7udu86vxtsgm3n0c": [
+        "BossDAO3317"
+    ],
+    "stake1uxg9xmtz087yru6fc645d4f43tj8yajdqhn4xjqlrk64etq5dqpnu": [
+        "BossDAO3320"
+    ],
+    "stake1u9tyfrezhz5vsv9qsnx4ml27sq3f8apj9xvr4fvm755u9ss4rrmqs": [
+        "BossDAO3321",
+        "BossDAO3322"
+    ],
+    "stake1uyamxhrwdkr5t0s697evml45jachw2jc4km63mc6k24nu7c5guedz": [
+        "BossDAO3325",
+        "BossDAO3326"
+    ],
+    "stake1u8j288q22r09phzjrxp7lujck2hwrpmc2c0zymrcf28er0c0y9q24": [
+        "BossDAO3329"
+    ],
+    "stake1uyl5d30rut5h67dzrrttughzxt828q643k0dwuqse0ted7cnnz376": [
+        "BossDAO3331"
+    ],
+    "stake1u90dttrevzucm4chgxzc3zdjmuwg4mstgteclzcm86g07cgjtcwv6": [
+        "BossDAO3344",
+        "BossDAO3345"
+    ],
+    "stake1u870fsu34fw25w3gkgw35elpvqjramw0fclx085gcy22udctlk6lz": [
+        "BossDAO3346"
+    ],
+    "stake1uxwzugqz4dq58h2ffz6uxeej9szzn893hrh9gsldr4ldnysw8t3hz": [
+        "BossDAO3347"
+    ],
+    "stake1u8meayefpgt42hct9a0mcklctnxrdvf4uqvn360vdnkr8fglpjy2h": [
+        "BossDAO3348"
+    ],
+    "stake1uxyd8ztvj27r6kqakakymmg9e4kt50ksgu74dpt3gnr0zsc5yleu8": [
+        "BossDAO3350"
+    ],
+    "stake1uxzv5wg3h05k0wdc6t3sxvplss09ap2xtulqcnppmsus7rgtqx4sx": [
+        "BossDAO3351"
+    ],
+    "stake1uxm6nnz8enzqs23vqv97crh830t5gkj6t70n0lzk5rkeycqevh3pj": [
+        "BossDAO3352"
+    ],
+    "stake1u8a87yx3llens7m7z8k43htj64sz76vhhdayf7g4k8uw0yscztyg3": [
+        "BossDAO3354"
+    ],
+    "stake1ux92ptea9ga94sfd808k7jemwlv953kvear4s9ywfewuvvgfv2ruv": [
+        "BossDAO3357"
+    ],
+    "stake1u8chs098rf80lk32325uez73skn2dq93jch3sum0t7qvs9gul6r60": [
+        "BossDAO3362"
+    ],
+    "stake1uyrrt9qjvkq397dcf980ejg8xm9z6f26fqwcm002dcezfrg9zpzah": [
+        "BossDAO3365"
+    ],
+    "stake1uya5jtr9cp2kg589gcpt5jdv92x2vrcy5cz6njswgvq7z0cvaqzn5": [
+        "BossDAO3368"
+    ],
+    "stake1u8msu0a6k5r0mlhdph2qpmfcqvcdemks5dnefcesc36fe0gwl06v0": [
+        "BossDAO3369"
+    ],
+    "stake1u9kvn8l6pp3c00epwr8j9zclfack0ys4fejcpd44j75dqkcv6kpeh": [
+        "BossDAO3370"
+    ],
+    "stake1u807n0swx7fcqmvez6zs5pf8jqsftxkp3weddh0kv8dtkwgjvkafa": [
+        "BossDAO3372",
+        "BossDAO3383",
+        "BossDAO3554"
+    ],
+    "stake1u920xf4zum7agjc2ejzzs9824kmwmpkcy5tf8w5454zfg8gg7vg6m": [
+        "BossDAO3376"
+    ],
+    "stake1u9nqq9ga3x8jhrhy36tcjjwjrfrd2jezkzkxy7zujceqk5g24mf6v": [
+        "BossDAO3378"
+    ],
+    "stake1u9qale3wf7tep6qc6guke4pn09a0s9z7xqyzlc8ljmjqnlstjg2h5": [
+        "BossDAO3380"
+    ],
+    "stake1u98e73eax4pmt0he0yth5uala8a3xtx5dly305jku7yprpqcazjda": [
+        "BossDAO3384"
+    ],
+    "stake1uyduq9xgggflkqlhn2w42g6n67lq4jqxq85m9egvfghcrsg7zaww8": [
+        "BossDAO3385"
+    ],
+    "stake1uy53y0df58v2j20x4mgphfarxpkugng6ec3m7h9s5vmke9cs6e95t": [
+        "BossDAO3388",
+        "BossDAO3389",
+        "BossDAO3390",
+        "BossDAO3391",
+        "BossDAO3392",
+        "BossDAO3393",
+        "BossDAO3394"
+    ],
+    "stake1uyf3u0ntkjmmm34rftwhfvg6adh0txxswqlvslhprm74dqchxykvm": [
+        "BossDAO3396"
+    ],
+    "stake1u8hvj8nxtsmwktpfhw838nff4ynztgfvgh358e80s2n2vuqyps0r3": [
+        "BossDAO3398",
+        "BossDAO3399"
+    ],
+    "stake1u9esx9chjwttnsss8amxe8kt4xa7hefqwwvhznwknuhdprs45xcyk": [
+        "BossDAO3402",
+        "BossDAO3582"
+    ],
+    "stake1u9hpvhdxvtt4eq7jsktvwtutxzay836w0ewq3fgpwfmptsg5s8yg9": [
+        "BossDAO3408",
+        "BossDAO3421"
+    ],
+    "stake1u9lnrqe8gqzdlvtnatazx0m973tu2xtyglgm7ljhvs6lclcfmpmyj": [
+        "BossDAO3409",
+        "BossDAO3410",
+        "BossDAO3411",
+        "BossDAO3412"
+    ],
+    "stake1u9k2qxutvqxawceyat9u6cms3pl6qw8jayuxc42x7cf854s6dvd3j": [
+        "BossDAO3413"
+    ],
+    "stake1u9rw7skl8ga69330qa0n227753m4lz84c59l8fvnxhp7sfcgpvsly": [
+        "BossDAO3415"
+    ],
+    "stake1u8fm2k9t07sn93xtcnlwdmm3qprm0nky8g6c8gk3zma7kncqh8c92": [
+        "BossDAO3417"
+    ],
+    "stake1uxrvvf2qwehzewtrvhlhp89puap6t80pp69n9l62y2a05js0nssnm": [
+        "BossDAO3418"
+    ],
+    "stake1uyeemf8eml6ys2egc4q67x96rg95qvayl7drxqhg57n8jls4rl7ng": [
+        "BossDAO3422"
+    ],
+    "stake1uyjp6z69l947c7sv3rlq3pg4u0snve5c5nljkgyc3dfkkggf5mpuc": [
+        "BossDAO3423"
+    ],
+    "stake1u99e7uyggvmdrletjhn969gdax3s3lesus9xjut6mnszq0gw4wws6": [
+        "BossDAO3424"
+    ],
+    "stake1uyzjkttsjh36w8rjpx47ccyq2gjfm0jz5szpxxv5cjc97rqwhzueg": [
+        "BossDAO3426",
+        "BossDAO3541"
+    ],
+    "stake1u8ju2qtzndxl39cffdtylt3sk0jmaf5mml73n4nvp6chafs2q7he7": [
+        "BossDAO3427",
+        "BossDAO3428"
+    ],
+    "stake1uy9kpnpl3tfwp202wqutusz4mfzc74ca660zkfkzqvwgwhqstytrk": [
+        "BossDAO3430"
+    ],
+    "stake1u9a2a0zwq07uav4gepuhnmyx92t2g2q5z4mdvecntmelkdg2gzxh3": [
+        "BossDAO3434"
+    ],
+    "stake1u9k2jhlve699s0zl8zkh0000ux33n638vcyzug585uv02tqty36ay": [
+        "BossDAO3437",
+        "BossDAO3499"
+    ],
+    "stake1uy2egp4kmftcxtkhnn2wp4q70aczmdzsv07kpkjq0r4g58ste2up0": [
+        "BossDAO3440"
+    ],
+    "stake1u8kpxme24flxj55ur8c207g020x2jhgyqtm5euunyjt8cqg3gjk58": [
+        "BossDAO3441",
+        "BossDAO3547"
+    ],
+    "stake1u9z3wszyffyae9tdk9fvxxyfahxh53nty7l0emz9hfmhhgc86egwe": [
+        "BossDAO3449"
+    ],
+    "stake1u892672rdjw9ps0w40d700s7txw5uumuvsz8llgarravwxce8n2s7": [
+        "BossDAO3452"
+    ],
+    "stake1uy3hpnfc9rvmj4mf8ke3zduj0hzxhkfcevf734fc24fqa2c42n8sf": [
+        "BossDAO3453",
+        "BossDAO3454"
+    ],
+    "stake1uxrenv6nmwhdecy3rutqmqj3a007262puyu6239f6frsdtsjj2a7j": [
+        "BossDAO3463"
+    ],
+    "stake1u90gexa2frzkg2rsp9pw6slmcnx2nt20mu22u5rapje5s4qkg5ntk": [
+        "BossDAO3465"
+    ],
+    "stake1u9ttm7qa0f6pyssase8kedkcwj0er8fp9lekt3fvz0etqksadlhhv": [
+        "BossDAO3466"
+    ],
+    "stake1uy9mgw5qnp3uxy5dtzqgrgwh4erx9f8x7x4scz34gnslhmc3yrus8": [
+        "BossDAO3467",
+        "BossDAO3468",
+        "BossDAO3469",
+        "BossDAO3470",
+        "BossDAO3471"
+    ],
+    "stake1uye8tkt50ctv28tngx532ueru6h0cw8jxpu9058mm295fnqtnnwsg": [
+        "BossDAO3472"
+    ],
+    "stake1uynt7c2q7dfg950uf3a3x033cmcewa2gn544wvvtymacmucnywtea": [
+        "BossDAO3477"
+    ],
+    "stake1uy02s6arv65q9xf9cnn4re38uj2s6d8ykrqj0dn6fslmjug45d45y": [
+        "BossDAO3483"
+    ],
+    "stake1u9y8d0knkv8wc4ywazp87ymtcqltryg36u56wt6u0ce3vjsaqeywm": [
+        "BossDAO3484"
+    ],
+    "stake1u80ugmtancfzta0vw8d8aguesy33u56d7500k08mlc2gupcjk7yzn": [
+        "BossDAO3486"
+    ],
+    "stake1u9n6kl4zhfa8z8dz5tvmht28tkyf86443yal6xpq7jv3vusmd0hk4": [
+        "BossDAO3488",
+        "BossDAO3489",
+        "BossDAO3534"
+    ],
+    "stake1u85vxq0cjjl5d43egr6ul7s8wa7mewpkxlxm7nae2mm857qpuundr": [
+        "BossDAO3491"
+    ],
+    "stake1u8c4nlx3v6akm5jz02yra2k5x7m9vpzq99sazh0m8yrdqgcc237fz": [
+        "BossDAO3492"
+    ],
+    "stake1u98v2s372xku7ru6f84myp332u2awarmuac7rmrr6xp2h5q9red46": [
+        "BossDAO3501"
+    ],
+    "stake1uyjefd3q5774zdvqg8s3v0qhlw3kdzzmwyqkqjfcse5lmzsvg3sev": [
+        "BossDAO3512"
+    ],
+    "stake1u8zzlht7aaksqs0t8tzz0dxlyfqfmh6g2rs4c4fwfgrqcjgen2y6d": [
+        "BossDAO3535"
+    ],
+    "stake1uy8jxdgy82vl3kavag54kv78wj2ypx8fch49e3ygf2w4cpqq3pvhe": [
+        "BossDAO3538"
+    ],
+    "stake1uyel5gld5xpaenv5cw6g8kes3we4g95wyslplek7ztaw73sra4wec": [
+        "BossDAO3539"
+    ],
+    "stake1u89c43z3apsmnx4343ydnf4jd7xyt348aeuyxlqu8sdecjq2stsmu": [
+        "BossDAO3540"
+    ],
+    "stake1uxfy99c0u8n08wl34ywz55gdft035svpx20z862j289ncls537wlj": [
+        "BossDAO3545",
+        "BossDAO3546"
+    ],
+    "stake1uxc8nk4s55d5rfqkn9werdlydmztj39n5lhn8z9fym2hy8sughqjh": [
+        "BossDAO3548"
+    ],
+    "stake1u8all92ffjptqj5txdlsmel9plw7reu8mjz2jawazlth3xqjjwcvp": [
+        "BossDAO3549"
+    ],
+    "stake1uxzurpqqvxxmt8enplwdamj2ad88pysgwt6nw220hsa04ts7r6umw": [
+        "BossDAO3550"
+    ],
+    "stake1uxwdww65s4e8m2qxv2s9emtvfzx9wrpttyskvtjhlqpfanqvhy0ll": [
+        "BossDAO3552",
+        "BossDAO3553",
+        "BossDAO3562"
+    ],
+    "stake1uyrs0jghl2p0yr06mrzp4uyh99jrewu730v5kczts8crnqqtgmpd7": [
+        "BossDAO3555"
+    ],
+    "stake1u9lezla9lsakn40pynz6ee8zfrrxnnmc3gjv46c3t0c8wjc9xplz6": [
+        "BossDAO3556"
+    ],
+    "stake1u9jw7fk8hwkm8n72zm83xh0wev2wa4m329l06jhjprpxzeckp9p8n": [
+        "BossDAO3561"
+    ],
+    "stake1u8kvkp6xm6yjdcr2mek58k3zjx9vm2av74ww69k3crvqu3c2davsm": [
+        "BossDAO3563"
+    ],
+    "stake1u8cmr63gy9t7paxd9208h06mj8xwhjg6nwwmzz4eyzwq90cl6yx9e": [
+        "BossDAO3564"
+    ],
+    "stake1u8lda3z0q0wyxeh3nkx0fvsgs7908admkp6fw42cc0v46mszx0prp": [
+        "BossDAO3566"
+    ],
+    "stake1ux52er2rc8wk8z4yth5thk99qwcaz3j9ptcwr7gmfweuu9gmadjt5": [
+        "BossDAO3567",
+        "BossDAO3568"
+    ],
+    "stake1u9x7naruwcadvkgm23jjwy28lj9wltysn5dlyw7mfef7zgcqxzeft": [
+        "BossDAO3572"
+    ],
+    "stake1uxha5sh30gyzm0pc7544qygnt7fa5jggr5kerup0x2uw3xq06l4qh": [
+        "BossDAO3573"
+    ],
+    "stake1u8twsqsu5l9htppgp8clzz7x0edkdsy7dat5s3zqucupems9k7fg3": [
+        "BossDAO3577"
+    ],
+    "stake1u8xful4pjv3f60uhvaa2pyk42dunjg4uxxk2cuh6fznwxycnknnmz": [
+        "BossDAO3578"
+    ],
+    "stake1uyjd2tyvqygdskm4rnhpm8ahqmskdy85qc5fjs0du6x8y5s7ynxq6": [
+        "BossDAO3579"
+    ],
+    "stake1uytrxxe06dvh8wuthzznmysg4zxg2mc2xa36les8h49j40gy5tslz": [
+        "BossDAO3580",
+        "BossDAO3587"
+    ],
+    "stake1uytdwsp0ew8dqe6lhj8vk23n708ajt3hxd2yqq7slc5gktq8s3yx7": [
+        "BossDAO3586"
+    ],
+    "stake1u8vv9nzl57q36jucqdmc3p4f3m37mwhr8quwatq3kzp570qpmnc8d": [
+        "BossDAO3590"
+    ],
+    "stake1u824sl87ju5jt4dh0h44qjz97vp3dmga52jr53fwrazhaygg2ur6l": [
+        "BossDAO3591"
+    ],
+    "stake1uy97kp7uzezth778dj3axwhqj6d49hcsm6t9w78x2c3vnycgvn58k": [
+        "BossDAO9667",
+        "BossDAO9668",
+        "BossDAO9669",
+        "BossDAO9670",
+        "BossDAO9671",
+        "BossDAO9672",
+        "BossDAO9673",
+        "BossDAO9674",
+        "BossDAO9675",
+        "BossDAO9676",
+        "BossDAO9677",
+        "BossDAO9678",
+        "BossDAO9679",
+        "BossDAO9680",
+        "BossDAO9681",
+        "BossDAO9682",
+        "BossDAO9683",
+        "BossDAO9684",
+        "BossDAO9685",
+        "BossDAO9686",
+        "BossDAO9687",
+        "BossDAO9688",
+        "BossDAO9689",
+        "BossDAO9690",
+        "BossDAO9691"
+    ],
+    "stake1uxkqmgaejld5fz3mzls34su4sytm2uyvld3vxjya8d77leqv48v8k": [
+        "BossDAO9692",
+        "BossDAO9693",
+        "BossDAO9694",
+        "BossDAO9695",
+        "BossDAO9696",
+        "BossDAO9697",
+        "BossDAO9698",
+        "BossDAO9699",
+        "BossDAO9700",
+        "BossDAO9701",
+        "BossDAO9702",
+        "BossDAO9703",
+        "BossDAO9704",
+        "BossDAO9705",
+        "BossDAO9706",
+        "BossDAO9707",
+        "BossDAO9708",
+        "BossDAO9709",
+        "BossDAO9710",
+        "BossDAO9711",
+        "BossDAO9712",
+        "BossDAO9713",
+        "BossDAO9714",
+        "BossDAO9715",
+        "BossDAO9716"
+    ],
+    "stake1u9sa0sl9qnrl3jtwfwc0a2slg7tx5httt5k3fnha7lgqumgv3c0dw": [
+        "BossDAO9717",
+        "BossDAO9718",
+        "BossDAO9719",
+        "BossDAO9720",
+        "BossDAO9721",
+        "BossDAO9722",
+        "BossDAO9723",
+        "BossDAO9724",
+        "BossDAO9725",
+        "BossDAO9726",
+        "BossDAO9727",
+        "BossDAO9728",
+        "BossDAO9729",
+        "BossDAO9730",
+        "BossDAO9731",
+        "BossDAO9732",
+        "BossDAO9733",
+        "BossDAO9734",
+        "BossDAO9735",
+        "BossDAO9736",
+        "BossDAO9737",
+        "BossDAO9738",
+        "BossDAO9739",
+        "BossDAO9740",
+        "BossDAO9741"
+    ],
+    "stake1u9n8lceatyrygsvr9dcwx60pnzfve6wt9e3m2zafxqj0k0q9lxw5y": [
+        "BossDAO9742",
+        "BossDAO9743",
+        "BossDAO9744",
+        "BossDAO9745",
+        "BossDAO9746",
+        "BossDAO9747",
+        "BossDAO9748",
+        "BossDAO9749",
+        "BossDAO9750",
+        "BossDAO9751",
+        "BossDAO9752",
+        "BossDAO9753",
+        "BossDAO9754",
+        "BossDAO9755",
+        "BossDAO9756",
+        "BossDAO9757",
+        "BossDAO9758",
+        "BossDAO9759",
+        "BossDAO9760",
+        "BossDAO9761",
+        "BossDAO9762",
+        "BossDAO9763",
+        "BossDAO9764",
+        "BossDAO9765",
+        "BossDAO9766"
+    ],
+    "stake1uyvwje7fj4985j9rg0zs2zzy7mkp7z32rqu78l8gg2hq6jgzcnnma": [
+        "BossDAO9767",
+        "BossDAO9768",
+        "BossDAO9769",
+        "BossDAO9770",
+        "BossDAO9771",
+        "BossDAO9772",
+        "BossDAO9773",
+        "BossDAO9774",
+        "BossDAO9775",
+        "BossDAO9776",
+        "BossDAO9777",
+        "BossDAO9778",
+        "BossDAO9779",
+        "BossDAO9780",
+        "BossDAO9781",
+        "BossDAO9782",
+        "BossDAO9783",
+        "BossDAO9784",
+        "BossDAO9785",
+        "BossDAO9786",
+        "BossDAO9787",
+        "BossDAO9788",
+        "BossDAO9789",
+        "BossDAO9790",
+        "BossDAO9791"
+    ],
+    "stake1u8zfyfw0pg2md0cw4skapmuqepynycsqyz7qkyp30ljuu3sv7yd62": [
+        "BossDAO9792",
+        "BossDAO9793",
+        "BossDAO9794",
+        "BossDAO9795",
+        "BossDAO9796",
+        "BossDAO9797",
+        "BossDAO9798",
+        "BossDAO9799",
+        "BossDAO9800",
+        "BossDAO9801",
+        "BossDAO9802",
+        "BossDAO9803",
+        "BossDAO9804",
+        "BossDAO9805",
+        "BossDAO9806",
+        "BossDAO9807",
+        "BossDAO9808",
+        "BossDAO9809",
+        "BossDAO9810",
+        "BossDAO9811",
+        "BossDAO9812",
+        "BossDAO9813",
+        "BossDAO9814",
+        "BossDAO9815",
+        "BossDAO9816"
+    ],
+    "stake1u9tmd0l79w3jsv34z4chmjzaud9wlg5q77k68xhr0w4dvngr9y5ln": [
+        "BossDAO9817",
+        "BossDAO9818",
+        "BossDAO9819",
+        "BossDAO9820",
+        "BossDAO9821",
+        "BossDAO9822",
+        "BossDAO9823",
+        "BossDAO9824",
+        "BossDAO9825",
+        "BossDAO9826",
+        "BossDAO9827",
+        "BossDAO9828",
+        "BossDAO9829",
+        "BossDAO9830",
+        "BossDAO9831",
+        "BossDAO9832"
+    ],
+    "stake1uyzd7avvv0hzst5t7nhmxussk0md5ezxmxay9zfm0ejq52gs08asz": [
+        "BossDAO9833",
+        "BossDAO9834",
+        "BossDAO9835",
+        "BossDAO9836",
+        "BossDAO9837",
+        "BossDAO9838",
+        "BossDAO9839",
+        "BossDAO9840",
+        "BossDAO9841",
+        "BossDAO9842",
+        "BossDAO9843",
+        "BossDAO9844",
+        "BossDAO9845",
+        "BossDAO9846",
+        "BossDAO9847",
+        "BossDAO9848",
+        "BossDAO9849",
+        "BossDAO9850",
+        "BossDAO9851",
+        "BossDAO9852",
+        "BossDAO9853",
+        "BossDAO9854",
+        "BossDAO9855",
+        "BossDAO9856",
+        "BossDAO9857",
+        "BossDAO9858",
+        "BossDAO9859",
+        "BossDAO9860",
+        "BossDAO9861",
+        "BossDAO9862",
+        "BossDAO9863",
+        "BossDAO9864",
+        "BossDAO9865",
+        "BossDAO9866",
+        "BossDAO9867",
+        "BossDAO9868",
+        "BossDAO9869",
+        "BossDAO9870",
+        "BossDAO9871",
+        "BossDAO9872",
+        "BossDAO9873",
+        "BossDAO9874",
+        "BossDAO9875",
+        "BossDAO9876",
+        "BossDAO9877",
+        "BossDAO9878",
+        "BossDAO9879",
+        "BossDAO9880",
+        "BossDAO9881",
+        "BossDAO9882",
+        "BossDAO9883",
+        "BossDAO9884",
+        "BossDAO9885",
+        "BossDAO9886",
+        "BossDAO9887",
+        "BossDAO9888",
+        "BossDAO9889",
+        "BossDAO9890",
+        "BossDAO9891",
+        "BossDAO9892",
+        "BossDAO9893",
+        "BossDAO9894",
+        "BossDAO9895",
+        "BossDAO9896",
+        "BossDAO9897",
+        "BossDAO9898",
+        "BossDAO9899",
+        "BossDAO9900",
+        "BossDAO9901",
+        "BossDAO9902",
+        "BossDAO9903",
+        "BossDAO9904",
+        "BossDAO9905",
+        "BossDAO9906",
+        "BossDAO9907",
+        "BossDAO9908",
+        "BossDAO9909",
+        "BossDAO9910",
+        "BossDAO9911",
+        "BossDAO9912",
+        "BossDAO9913",
+        "BossDAO9914",
+        "BossDAO9915",
+        "BossDAO9916",
+        "BossDAO9917",
+        "BossDAO9918",
+        "BossDAO9919",
+        "BossDAO9920",
+        "BossDAO9921",
+        "BossDAO9922",
+        "BossDAO9923",
+        "BossDAO9924",
+        "BossDAO9925",
+        "BossDAO9926",
+        "BossDAO9927",
+        "BossDAO9928",
+        "BossDAO9929",
+        "BossDAO9930",
+        "BossDAO9931",
+        "BossDAO9932",
+        "BossDAO9933",
+        "BossDAO9934",
+        "BossDAO9935",
+        "BossDAO9936",
+        "BossDAO9937",
+        "BossDAO9938",
+        "BossDAO9939",
+        "BossDAO9940",
+        "BossDAO9941",
+        "BossDAO9942",
+        "BossDAO9943",
+        "BossDAO9944",
+        "BossDAO9945",
+        "BossDAO9946",
+        "BossDAO9947",
+        "BossDAO9948",
+        "BossDAO9949",
+        "BossDAO9950",
+        "BossDAO9951",
+        "BossDAO9952",
+        "BossDAO9953",
+        "BossDAO9954",
+        "BossDAO9955",
+        "BossDAO9956",
+        "BossDAO9957",
+        "BossDAO9958",
+        "BossDAO9959",
+        "BossDAO9960",
+        "BossDAO9961",
+        "BossDAO9962",
+        "BossDAO9963",
+        "BossDAO9964",
+        "BossDAO9965",
+        "BossDAO9966",
+        "BossDAO9967",
+        "BossDAO9968",
+        "BossDAO9969",
+        "BossDAO9970",
+        "BossDAO9971",
+        "BossDAO9972",
+        "BossDAO9973",
+        "BossDAO9974",
+        "BossDAO9975",
+        "BossDAO9976",
+        "BossDAO9977",
+        "BossDAO9978",
+        "BossDAO9979",
+        "BossDAO9980",
+        "BossDAO9981",
+        "BossDAO9982",
+        "BossDAO9983",
+        "BossDAO9984",
+        "BossDAO9985",
+        "BossDAO9986",
+        "BossDAO9987",
+        "BossDAO9988",
+        "BossDAO9989",
+        "BossDAO9990",
+        "BossDAO9991",
+        "BossDAO9992",
+        "BossDAO9993",
+        "BossDAO9994",
+        "BossDAO9995",
+        "BossDAO9996",
+        "BossDAO9997",
+        "BossDAO9998",
+        "BossDAO9999"
+    ]
+}
