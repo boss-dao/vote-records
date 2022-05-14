@@ -1,0 +1,98 @@
+{
+    "yesVotes": 100,
+    "noVotes": 0,
+    "countVotesBeforeSlot": 60909546,
+    "voters": {
+        "stake1u9hjgq9p8cscrqql7tc9xhaqufh9ge5drnx2032rts3n74cw2fuhx": {
+            "vote": "Yes",
+            "votes": 28,
+            "votingTx": "4b78b95ddee653b1b3d9a87ebe6f8971eb2a5cc643095e110b862127fb38eaf4"
+        },
+        "stake1u89szulapsgll2ct3p7lra3hktkvny5672d354vqmdcqvvqhfht4c": {
+            "vote": "Yes",
+            "votes": 8,
+            "votingTx": "269e7afab9ecf555f212d8d08c102aeebd69f654a0e6e71c8ed5387d537ea3ac"
+        },
+        "stake1ux7lshj9da8y9gu6n9j3u3wha3v0cekhakwe9up8yrlcecq6r06pz": {
+            "vote": "Yes",
+            "votes": 14,
+            "votingTx": "82027b5b32bce461c4c5c3721c48789a947ab49d4324bef69099f5152a9d483d"
+        },
+        "stake1uyzv5aj0tlx8cwtrukj4gmdfqvxazlm7yzpw25kx3kgkuqsqgdh6c": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "ba3e3f8cdc964b6aaed3c3bfabb9c1285c87966b2f3474725fea0f8234c98031"
+        },
+        "stake1ux46emqr84l5jd5wegv35tj536j938qyr2plp5txnlq3j3guqmf2u": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "361763ce6e1350cbf21cac2c8d619a0fd3e6bd21ac33078ac0b46d5f03046f67"
+        },
+        "stake1u9d4z8ml94wg5rjcv25kh70hcgg4wan9wlckuqpzjjulrnsqtez97": {
+            "vote": "Yes",
+            "votes": 8,
+            "votingTx": "06f21adb34ccc644cfe06cee78499ca706f2171c7db0eaeeaa7f7dab30d9ba6e"
+        },
+        "stake1u8w46dk5ayhn47myu4uh4hxx0fc020nxzaltjh2kqp9x7wg3ql3qk": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "69e50b1a86a063ab7a1f7b3013da27f272c395cbefbd608f13829a1fc03ab59d"
+        },
+        "stake1u8sjhe3jjk6laerxahpd6yrgntyet03xprhz4m7ha8ynr4q2xy6aq": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "4d7e41c24cdc61717534e61ce82714d86d3d3418ddefe6d109d4390bf4734904"
+        },
+        "stake1ux4rr8267jm09v30x5wzlu5xyj3waank8usahxdy9hr9zcgg8w5pm": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "ae98c031b536ebcb071e7d44a2263557fad4609d30e6775f12a9e9bd2baa9cd3"
+        },
+        "stake1ux5tk8k60kg4mqz550mkvwznxw5tsdff6pv9std5hjezgfgelafgd": {
+            "vote": "Yes",
+            "votes": 5,
+            "votingTx": "98f098d3e0d884f05862d882d11858baa01fac8a96ddbb38add7642ae8df986d"
+        },
+        "stake1uy7gezs5ya5vzmvr5gd0c7e6vdrfl80xjq6d8yc2ef5djwg4tqv05": {
+            "vote": "Yes",
+            "votes": 4,
+            "votingTx": "f8503e49218cf8ce81377b3e1548b820ec569d68a1f4ca462c79ccb70f4a34ba"
+        },
+        "stake1u99hvqmvr8j53j95ekhmw8ylcv4g704rjzkww5dgjdgglzg2hn06h": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "72257965e83b88c0382116951ba99fbde4c0e4832044002edfb09767876e6cd8"
+        },
+        "stake1u9f3wx0s6mr64f4ct7jzfenajq7lwtl6qs46jt84uyr4nwgqtmacn": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "255430a3806b25a90f6938184a2f5540f1d07e22972c5bb2f1079dd591aeb3c5"
+        },
+        "stake1u87c6zqmgjs6hg08ankhpl2ytrg03s5ezlg93hfvjmvxd6szty9mr": {
+            "vote": "Yes",
+            "votes": 7,
+            "votingTx": "aad08393b989e662bdc9f9db1eb3e6e1e93241453d7504ea82eeec789e603c89"
+        },
+        "stake1u8wevfzp0sa4hurgevqez9kz6jqsyt92jjc3dyayx6vhedcckpttp": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "52132e61e51159c94dca4ae7ea26969a9edbcd20678e728a91c17e6f12666281"
+        },
+        "stake1u8wqtfxew40y2pcpc55q5z6rx7g9kphv0pmfvpwhvlvm46qqta99w": {
+            "vote": "Yes",
+            "votes": 6,
+            "votingTx": "31825e624eae3416793a79c8c5e944ae6b4e044a1c763786ef91f7e4c147bd64"
+        },
+        "stake1uyzxy7sjjdyu5tswprcl5k6xedt0e3fcaxnyfknef668y9sxqu6yz": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "641aee5fac2c1a4b0e8b7764d0188a70c6b0c886190b7ca075ae11cc7f30fe51"
+        }
+    },
+    "numTxReceieved": 19,
+    "numValidTx": 17,
+    "lateTxCount": 0,
+    "incorrectAmountTxCount": 0,
+    "nonHolderTxCount": 2,
+    "doubleVoteTxCount": 0
+}

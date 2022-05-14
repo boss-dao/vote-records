@@ -1,0 +1,602 @@
+{
+    "305b74fcc509631e6ed652bc22fb6915e1a840b8f2aac831c53bc8bd6f9c4a73": {
+        "senderAddr": "addr1q9kc0ghetyz20q86qejgcp35xmv9agaw200xtd2rrd2p7jk6acszpg2cxjhnctwknxtkl7y22hgkdltx2xfjepmq40zqq4pm7t",
+        "senderStakeKey": "stake1u8dwugpq59vrfteu9htfn9m0lz99t5txl4n9ryevsas2h3qg4sade",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60823216,
+        "utxo": {
+            "txHash": "305b74fcc509631e6ed652bc22fb6915e1a840b8f2aac831c53bc8bd6f9c4a73",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "9962d6f2d2e9ce703a746579726587edd4a4d9cf83722e44a06a55481c236434": {
+        "senderAddr": "addr1q9te2y2plkahspg72grtwvff670kv9atg9wgzy6udfjmkwa9pyk0cg3fz6w760ld03xhq4ztrlgh3rkweyxp5ksq2cjq5pdlqr",
+        "senderStakeKey": "stake1uxjsjt8uyg53d80d8lkhcnts2393l5tc3m8vjrq6tgq9vfqp4efvg",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60823448,
+        "utxo": {
+            "txHash": "9962d6f2d2e9ce703a746579726587edd4a4d9cf83722e44a06a55481c236434",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "81773dc66f4651eb4a2522d61a0c0c848ebcbae678e50a868c3fcfdb6a8ec4a1": {
+        "senderAddr": "addr1q9vgfvptr0a25nqcj6tqetneuseqwl2ksmx5rd9nprkprdct37almha48gzjxl6wy0dv2dplmm0tk02244vt8mgc82rqkrl9vj",
+        "senderStakeKey": "stake1uy9clwlam76n5pfr0a8z8kk9xslaah4m84926k9na5vr4psm5a3k8",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60823570,
+        "utxo": {
+            "txHash": "81773dc66f4651eb4a2522d61a0c0c848ebcbae678e50a868c3fcfdb6a8ec4a1",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "a34f7646693cda6ab8f52fd84ed1b7af9858cd57d47a60fd3e26a799d7135ce0": {
+        "senderAddr": "addr1q8ryzf4syjqfw504sp897hkp9whcdtr3yhlckz6agdpsgdwke07mpyesqtrhkkper54qrmj3un2w8hkpmxsf6etsullqn772jd",
+        "senderStakeKey": "stake1u8tvhldsjvcq93mmtqu362spaeg7f48rmmqangyav4cw0ls4rms0z",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60823825,
+        "utxo": {
+            "txHash": "a34f7646693cda6ab8f52fd84ed1b7af9858cd57d47a60fd3e26a799d7135ce0",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "51fa4ea66447324565da7a5c5a86366044a10f7826ab396f6b798b03539893fa": {
+        "senderAddr": "addr1qypmrcd8h4969g5dptkzg0c4zsafa8uvrzr696k0zq0g5vuq87jafcphmuknsm88r7m8yc2n72jfm3jn9qdkscyl0wfsl6mgmt",
+        "senderStakeKey": "stake1uxqrlfw5uqma7tfcdnn3ldnjv9fl9fyacefjsxmgvz0hhyc7mq27t",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60825447,
+        "utxo": {
+            "txHash": "51fa4ea66447324565da7a5c5a86366044a10f7826ab396f6b798b03539893fa",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "4387359b847bfa7c40b6642c5e2f4c481f4222d294d029f121afcbe19d7b6cd4": {
+        "senderAddr": "addr1qy0nv4yfk39ynr6gu0y7aweelpdnqyuarsm4pl365lpxcxxsl6puv0djatp5vq55wvhjmdcducrlqnjslgqr6av2srvs8r7kn2",
+        "senderStakeKey": "stake1u8g0aq7x8kew4s6xq228xtedkux7vplsfeg05qpawk9gpkgw7cpyh",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60825459,
+        "utxo": {
+            "txHash": "4387359b847bfa7c40b6642c5e2f4c481f4222d294d029f121afcbe19d7b6cd4",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "a85d6149dd3ddef4be6a005740b6cde90f8af1f962c77a263764777d62e45ea5": {
+        "senderAddr": "addr1qx36xmwr0de5j7eqht02m54f5zgl4q6larae7pya3aas3klknwfpqytvjqpa39zhycncaysa8ycj245x8famdnfpr2aqxqhn2h",
+        "senderStakeKey": "stake1u8mfhyssz9kfqq7cj3tjvfuwjgwnjvf926rr57ake5s34wsvg26rc",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60825979,
+        "utxo": {
+            "txHash": "a85d6149dd3ddef4be6a005740b6cde90f8af1f962c77a263764777d62e45ea5",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "760438414081e8c188a2716591bec9addd90a9dd829a52f65f2c8a0af62f79ec": {
+        "senderAddr": "addr1q94h6qdse9z646pmnavap8n3e69lxxsepz039k04nnsyjs8v2z6uepva6s9pfrsl3wc3z7cac63ualkreakfln8554dqq99kq5",
+        "senderStakeKey": "stake1u8k9pdwvskwagzs53c0chvg30vwudg7wlmpu7mylen622ks86p0mv",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60826572,
+        "utxo": {
+            "txHash": "760438414081e8c188a2716591bec9addd90a9dd829a52f65f2c8a0af62f79ec",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "9c795b896f437c4be07ed07223ce8692cbdf798abf820fe6fe6cee13ead86fa5": {
+        "senderAddr": "addr1qxy2v45yr9lrfp9qtd47x55x4pk7qk0ahn3m68ajtumg4p9szrl7nlxd6alygqf0hgj6q99yxqdrpsrtwghpnvryyhhqfmg0kj",
+        "senderStakeKey": "stake1uxcppllflnxawljyqyhm5fdqzjjrqx3scp4hytsekpjztmsuucdaf",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60826696,
+        "utxo": {
+            "txHash": "9c795b896f437c4be07ed07223ce8692cbdf798abf820fe6fe6cee13ead86fa5",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "fb802952321ff3a480f039fb557e2459cf744efef3a0797cfba9e7475621a8f4": {
+        "senderAddr": "addr1qxqdlh6lkjayxhpt979ex4mhl40kun4gl270jqh5nrxvmsc6aqqh45yy6qm2qk02g6um5z5wntx3akjr89900vn24e6q2hllmv",
+        "senderStakeKey": "stake1uydwsqt66zzdqd4qt84ydwd6p28f4ng7mfpnjjhhkf42uaqylu085",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60830287,
+        "utxo": {
+            "txHash": "fb802952321ff3a480f039fb557e2459cf744efef3a0797cfba9e7475621a8f4",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "eeb3de9217ba68bcffe930d5961250c6eca19871092079bf3f7cfd332e01f7ef": {
+        "senderAddr": "addr1q8ud2gphyq36zug38mz2p4vmjpl2dunrrv0c55xcjphuat4j2fuqmrrcnlqmq9umjtv8zxssnmtlqxav8ynvhg3urlesuvvj3h",
+        "senderStakeKey": "stake1uxe9y7qd33uflsdsz7de9kr3rggfa4lsrwkrjfkt5g7pluccp3xch",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60830567,
+        "utxo": {
+            "txHash": "eeb3de9217ba68bcffe930d5961250c6eca19871092079bf3f7cfd332e01f7ef",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "a5f9cb22600fd71568f9b8ff114707188d427af87b60667902764af396c4b771": {
+        "senderAddr": "addr1qyxgp9t89ftt6tp04x9r04mpd9lsuhpyacqh9mh6cyks8mmwpz2pzqmtecvrk5keghhuvn648d2350hkeng6seurxpusqxj2x6",
+        "senderStakeKey": "stake1u9hq39q3qd4uuxpm2tv5tm7xfa2nk4g68mmve5dgv7pnq7gy0gnzg",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60832790,
+        "utxo": {
+            "txHash": "a5f9cb22600fd71568f9b8ff114707188d427af87b60667902764af396c4b771",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "dff3dd5d3c6c6d4410df02a03b7c50b82c56809be50ac4c0aff4bae28167b205": {
+        "senderAddr": "addr1qxqsmjy80decmhsrlnny9cf44u5vj7a6k2sn05xl75m5scrfym44e0f6dlqf9mszcfph62urwaj7yrvkyq06pp5fjs5qevd9jl",
+        "senderStakeKey": "stake1u95jd66uh5axlsyjacpvysma9wphwe0zpktzq8aqs6yeg2qcgzf5y",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60832850,
+        "utxo": {
+            "txHash": "dff3dd5d3c6c6d4410df02a03b7c50b82c56809be50ac4c0aff4bae28167b205",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "a72b1e0ae7bb29fc22175f4da625197a0da183d7a259fb19943b57f500ce8067": {
+        "senderAddr": "addr1qxxcq4yw6wa2cd06xn53p8m4y2p70tuz2jrzv4qu4wztkzhtygu4jjj8ll9c3jfa539fng2gvqujem0az2zv6swaaamqm0q3np",
+        "senderStakeKey": "stake1u84jyw2effrlljugey76gj5e59yxqwfvah739pxdg8w77as8zuklq",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60835136,
+        "utxo": {
+            "txHash": "a72b1e0ae7bb29fc22175f4da625197a0da183d7a259fb19943b57f500ce8067",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "ec990d8b3c6b4240639e099c75979587d56d92935404dcfda434dc61252b8eb2": {
+        "senderAddr": "addr1q9meavea2dtp5qja79gsnl7ag6emlsnevu9y746ykv8806w0uruwzw36us03ng3htxw623vn7qhkzsg3e9qvae7lj4yqkpqtzu",
+        "senderStakeKey": "stake1u887p78p8gawg8ce5gm4n8d9gkflqtmpgygujsxwul0e2jqz3vy08",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60835611,
+        "utxo": {
+            "txHash": "ec990d8b3c6b4240639e099c75979587d56d92935404dcfda434dc61252b8eb2",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "cb563f2cbfecada604ba833ea9ee63aca36e0d6d9bd38e5f86ca8aab1c60f6f2": {
+        "senderAddr": "addr1qx5ss2mcmyp2u2h59pnk24php3hxt4khcf0l4w43xps7z44qlaq5692trrg5q7pte76pq8rk5jvfftqyd3q2hmx8qmjsy8dvw8",
+        "senderStakeKey": "stake1uxs07s2dz493352q0q4uldqsr3m2fxy54szxcs9tanrsdegtmq244",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60838557,
+        "utxo": {
+            "txHash": "cb563f2cbfecada604ba833ea9ee63aca36e0d6d9bd38e5f86ca8aab1c60f6f2",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "4cb1f212bf4639cf6b23308a77689a224579e281e5336e73d3adcf6b4510f7e1": {
+        "senderAddr": "addr1q9ra4dwvdfwazyhc9ypf8xfzlaag02wqsxnls2rtdv9j9l9dccta4yvyqr4htrz9eh0lvv4acnuq3c6rtz3kuk7x0hysjq9lzs",
+        "senderStakeKey": "stake1uxkuv976jxzqp6m433zumhlkx27uf7qgudp43gmwt0r8mjgjncpg3",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60838799,
+        "utxo": {
+            "txHash": "4cb1f212bf4639cf6b23308a77689a224579e281e5336e73d3adcf6b4510f7e1",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "ab5ac0f7aae8d9f36b1560dd048a3b048f2018b3d6246b0c1d78034e4625e35f": {
+        "senderAddr": "addr1qxm36954tyeccvgkrr5duasf3tagg0k8kpz5llkak0dqv8796e5wrqt4kne34j6m39a3kn6dnd09xcrzu528872tx7eq62sj4m",
+        "senderStakeKey": "stake1u8zav68ps96mfuc6eddcj7cmfaxekhjnvp3w29rnl99n0vshdpjjz",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60839599,
+        "utxo": {
+            "txHash": "ab5ac0f7aae8d9f36b1560dd048a3b048f2018b3d6246b0c1d78034e4625e35f",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "1f6a29743cc581ddff1dc7aa5e52ee35cf5b926160f3ad7d6048c5af0a5d91b7": {
+        "senderAddr": "addr1qxsgunkhfgm28gwqjpxt24ka3wuf58d0pr2h4ur0l7qjsr8fp9hhj4c8yuq5l7x0ytdyzvjym6dnfshjp7p6esclaxesfaa6hl",
+        "senderStakeKey": "stake1u85sjmme2urjwq20lr8j9kjpxfzdaxe5cteqlqavcv07nvcp9z6sw",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60847592,
+        "utxo": {
+            "txHash": "1f6a29743cc581ddff1dc7aa5e52ee35cf5b926160f3ad7d6048c5af0a5d91b7",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "9d89c0b455db76fb0e628e153e0d88df1714413c850780c5623df3b7100b0a21": {
+        "senderAddr": "addr1q8g0v9qlfe86hrjywf8z92k2y9cmwhvfk6k83hpvhe5fra5m9uatqx6avxm8h43p6tfjprdcwyxr0tqp08azun98chks0gk3q3",
+        "senderStakeKey": "stake1uxdj7w4srdwkrdnm6csa95eq3ku8zrph4sqhn73wfjnutmgr4xpqd",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60852757,
+        "utxo": {
+            "txHash": "9d89c0b455db76fb0e628e153e0d88df1714413c850780c5623df3b7100b0a21",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "ea8ec7a59c6d09487a4ffd99256bcf7746c7995f7f0681d82c7d86259a03e4f7": {
+        "senderAddr": "addr1q992tqh39838e8w02muwh94rs7ev05dwks0rgy0cp48tuv3uqaqwkdul0ptj4aaqceqayyymd62wg7yc2ul007hde6hqpvanyy",
+        "senderStakeKey": "stake1uy7qws8tx70hs4e277svvswjzzdka98y0zv9w0hhltkuats27nz6r",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60852840,
+        "utxo": {
+            "txHash": "ea8ec7a59c6d09487a4ffd99256bcf7746c7995f7f0681d82c7d86259a03e4f7",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "62d0a1ea9cd33b09c1b2d40bade6fc8f3facd94954923749a5b6b4e16a212ead": {
+        "senderAddr": "addr1qxmhkmue6m3agu98c8llren5j63j3ec62e9amuqja095q0z45vk55wzv75fwl88qs5k8y23asrn87wr6fqrj6klteywqfl9kt0",
+        "senderStakeKey": "stake1u926xt228px02yh0nnsg2trj9g7cpenl8payspedt04uj8qzuq7lu",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60855991,
+        "utxo": {
+            "txHash": "62d0a1ea9cd33b09c1b2d40bade6fc8f3facd94954923749a5b6b4e16a212ead",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "0b01b820927cae7543666b323497c31cb572d300bd2b66d0615514ebef22c9e5": {
+        "senderAddr": "addr1q9x8wztsue92z4g6x373nueuwrehqn5m4ynym5lhlpz3dgk7uz4w3yq59zppcu4xnvt6v4egmwg8yakc9d9lm8r3uxaqtkf8d7",
+        "senderStakeKey": "stake1u80wp2hgjq2z3qsuw2nfk9ax2u5dhyrjwmvzkjlan3c7rwsth8z9c",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60875190,
+        "utxo": {
+            "txHash": "0b01b820927cae7543666b323497c31cb572d300bd2b66d0615514ebef22c9e5",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "154c9011faf31b15cf2bc36b66ea78e83eaae96ec0e5ed7178839e9a2cb8601e": {
+        "senderAddr": "addr1q9z2u68zlt0whsezw3xljnr4uzkhlh95407qe925gx3lhd050gan56rl3n8zmpvjwtkewxy0gcctak629llk5q8uswwsxjwuc5",
+        "senderStakeKey": "stake1u8685we6dplcen3dskf89mvhrz85vv97md9zllm2qr7g88grrw38g",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60876475,
+        "utxo": {
+            "txHash": "154c9011faf31b15cf2bc36b66ea78e83eaae96ec0e5ed7178839e9a2cb8601e",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "32370c0a9cc8ebefc1f45dbea1836cd530a56ada91acb6e31af0f0375bc1a07d": {
+        "senderAddr": "addr1qxt276dx2h7mfkq3z60m4l6zqdv4kh9tmcpexcz3ls83c0e4twzt5jyykxymfpy67u0vuzeyx8wcwa7f84qjtwyw50ssrr4hrg",
+        "senderStakeKey": "stake1uy64hp96fzztrzd5sjd0w8kwpvjrrhv8wlyn6sf9hz828cgfgmsnk",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60878714,
+        "utxo": {
+            "txHash": "32370c0a9cc8ebefc1f45dbea1836cd530a56ada91acb6e31af0f0375bc1a07d",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "711768b6130271b05ce95be4c134c18c7297c502af24cf339dd220b4be2e837a": {
+        "senderAddr": "addr1q8he8ugqsrhm9hpe23l3cu0kfhfhdag0rtzajnjpapqkx8mdxxgk40frlkapqfnrk08j0gcpxzwmwuqxun2g800p24cq5z55h3",
+        "senderStakeKey": "stake1u9knryt2h53lmwssye3m8ne85vqnp8dhwqrwf4yrhhs42uq4vkldu",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60878834,
+        "utxo": {
+            "txHash": "711768b6130271b05ce95be4c134c18c7297c502af24cf339dd220b4be2e837a",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "f6ecad190183b35b85ad714357ed74ae4318a3eaf96183c325b0b19012d66728": {
+        "senderAddr": "addr1qyt5jm8hcje26j7qaxkqcdhdkn4qnx7td6lsc4af8nucqsdf6k3sf4vtrmpqetwgw5szuaujfvgeek0h6rldz9yyulvsq8n89v",
+        "senderStakeKey": "stake1ux5atgcy6k93assv4hy82gpww7fykyvum8maplk3zjzw0kghz3j9s",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60882562,
+        "utxo": {
+            "txHash": "f6ecad190183b35b85ad714357ed74ae4318a3eaf96183c325b0b19012d66728",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "13562eb12c134a879eb7c157413a053abe726cc83af50a18a243612f13a67f7d": {
+        "senderAddr": "addr1q89hrff0vdxxnnwfc4ratsjhlfxu80j9gvfclc6ke7lvux64946upzccupu43jh7l6gz78hkvqr37cl423zf6zmrlquq4ha64x",
+        "senderStakeKey": "stake1u92j6awq3vvwq72cetl0ayp0rmmxqpclv064g3yapd3lswq8wlcyy",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60886259,
+        "utxo": {
+            "txHash": "13562eb12c134a879eb7c157413a053abe726cc83af50a18a243612f13a67f7d",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "f54f3bfa32816043e76c8f0bb9099c3337113abf5774aed20188822386a86fe3": {
+        "senderAddr": "addr1qx79xkx9knfk2g25gza67uuax6gjydsqnjw5l4zdseuxdtmzf78agujy074asmrtm75zfky8h2l43txxtcfyn9pjr9xsjkgpdr",
+        "senderStakeKey": "stake1u93ylr75wfz8l27cd34al2pymzrm406c4nr9uyjfjsepjng6azef5",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60886279,
+        "utxo": {
+            "txHash": "f54f3bfa32816043e76c8f0bb9099c3337113abf5774aed20188822386a86fe3",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "6fdeade5d595ff3832dffc1efb9facbe5787a35f9fb6bd0b48a6be0de22db586": {
+        "senderAddr": "addr1qyrcxawngk6elw9ty4pfsvkdhxnkc60hwmmdd0lttju3zp6n83f3hfeg2w3x7d2qldjvs422ggp0a35de7q94s30q8aqslaxat",
+        "senderStakeKey": "stake1u9fnc5cm5u598gn0x4q0kexg249yyqh7c6xulqz6cghsr7skm3rzu",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60886304,
+        "utxo": {
+            "txHash": "6fdeade5d595ff3832dffc1efb9facbe5787a35f9fb6bd0b48a6be0de22db586",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "d95098bd3ef3e987f011a2f49cba129f13750ce7f353266818cdd7cdb3ce91ae": {
+        "senderAddr": "addr1q9dj6p2njclyq8s8la7ftwarc4aqxxkdffu5vqms90sgmrlk4lr5kjkkplqw42a25qskw2qx40jch34a2n3kemcmmcksyx6244",
+        "senderStakeKey": "stake1u8m2l36tfttqls824w42qgt89qr2hevtc674fcmvaudautgtx62ya",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60890157,
+        "utxo": {
+            "txHash": "d95098bd3ef3e987f011a2f49cba129f13750ce7f353266818cdd7cdb3ce91ae",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "af8beb09c111120122cf41ef3df28864f502d826595c84fceac547e36b446b96": {
+        "senderAddr": "addr1q9avx5gtxxn42s2tfmlu6rx9sa9az9ewqjyvfk2qf5zwafqqcg2vdxxcqtvasnlvtcgt9z8p5eytkdxe76hp9dsus46sjz9kx6",
+        "senderStakeKey": "stake1uyqvy9xxnrvq9kwcflk9uy9j3rs6vj9mxnvldtsjkcwg2agj6z4p3",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60895911,
+        "utxo": {
+            "txHash": "af8beb09c111120122cf41ef3df28864f502d826595c84fceac547e36b446b96",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "8a70bcd4826ccd38d817e2cd984fbaeb59b8aa26c7d94b64e6630fe346bb7804": {
+        "senderAddr": "addr1qxkglm8sjfe9q5rv7a8yw3j0afqewxw2c9ve999stjry6ezhk6llu2ar9qer29t30hy9mc62a73gpaad5wdwx7a26exsl37eck",
+        "senderStakeKey": "stake1u9tmd0l79w3jsv34z4chmjzaud9wlg5q77k68xhr0w4dvngr9y5ln",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60896755,
+        "utxo": {
+            "txHash": "8a70bcd4826ccd38d817e2cd984fbaeb59b8aa26c7d94b64e6630fe346bb7804",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "ea3260adbb56524dfa8a99a139d3c4ad6d880a56311a545e9c78d913262282a5": {
+        "senderAddr": "addr1qx4940em4hspn7sjglu090yjnsm24qrlsxjcqrxuejua0xwyjgju7zs4k6lsatpd6rhcpjzfxf3qqg9upvgrzll9eerqzekpyf",
+        "senderStakeKey": "stake1u8zfyfw0pg2md0cw4skapmuqepynycsqyz7qkyp30ljuu3sv7yd62",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60896781,
+        "utxo": {
+            "txHash": "ea3260adbb56524dfa8a99a139d3c4ad6d880a56311a545e9c78d913262282a5",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "e47c47291960465d1ece65cfd8f118bb8529eef32a91991b88ec5bc99a641b95": {
+        "senderAddr": "addr1qy2jwuamw4mxluar4g66nfqp7g7n5lqmhycy0grv4wp7jntx0l3n6kgxg3qcx2msud57rxyjen5uktnrk596jvpylv7qupv54v",
+        "senderStakeKey": "stake1u9n8lceatyrygsvr9dcwx60pnzfve6wt9e3m2zafxqj0k0q9lxw5y",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60896805,
+        "utxo": {
+            "txHash": "e47c47291960465d1ece65cfd8f118bb8529eef32a91991b88ec5bc99a641b95",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "be9ca9fe905537d8ae4854ddce744f9bc4117774972409e21d046d9b621c4090": {
+        "senderAddr": "addr1q9nhpelxdtzt5mqh4lq9m35zcn0sckp27e0wtz5qf5egs5ctavrac9jyh0auwm9r6vawp95m2t03ph5k2auwv43zexfsurs77n",
+        "senderStakeKey": "stake1uy97kp7uzezth778dj3axwhqj6d49hcsm6t9w78x2c3vnycgvn58k",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60896838,
+        "utxo": {
+            "txHash": "be9ca9fe905537d8ae4854ddce744f9bc4117774972409e21d046d9b621c4090",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "a629a8eb124386f34bf1b227e8398bdafba4a441295f6ce7127d84ba8cff410a": {
+        "senderAddr": "addr1qypp7nzjq3aydat3wr27qnqp5e7ydf3gdvw6jat4fmvgp4qca9nun9220fy2xs79q5yyfahvru9z5xpeu07wss4wp4ysh8gd7p",
+        "senderStakeKey": "stake1uyvwje7fj4985j9rg0zs2zzy7mkp7z32rqu78l8gg2hq6jgzcnnma",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60896869,
+        "utxo": {
+            "txHash": "a629a8eb124386f34bf1b227e8398bdafba4a441295f6ce7127d84ba8cff410a",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "261973038ef9287baaebc00438ff5e71bca7f8598fbb333b1fbee4dc9bd1423a": {
+        "senderAddr": "addr1qxufzjxh5kcjhpldqsesu3fhpq4gjk729zpryj2elttghpavpk3mn97mgj9rk9lprtpetqghk4cge7mzcdyf6wmaaljqefjrgh",
+        "senderStakeKey": "stake1uxkqmgaejld5fz3mzls34su4sytm2uyvld3vxjya8d77leqv48v8k",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60896934,
+        "utxo": {
+            "txHash": "261973038ef9287baaebc00438ff5e71bca7f8598fbb333b1fbee4dc9bd1423a",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "bcf233de307eb4a3e3a02af1f11d812b76fda710da8364ae36b9397fc11ba939": {
+        "senderAddr": "addr1q97s26ctwxh68zftjr3y9rjqth06hfz85zm0d50ga6hkwemp6lp72px8lrykujasl64p73ukdfwkkhfdzn80ma7speks0xuskz",
+        "senderStakeKey": "stake1u9sa0sl9qnrl3jtwfwc0a2slg7tx5httt5k3fnha7lgqumgv3c0dw",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60896967,
+        "utxo": {
+            "txHash": "bcf233de307eb4a3e3a02af1f11d812b76fda710da8364ae36b9397fc11ba939",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    },
+    "1584802ae2b8221434480bccbfef00d943bd2b01b5f738cfaea1c9553658d2b1": {
+        "senderAddr": "addr1q8zkswtwcc4hkjfn65vj7u9nldvs8teymzr4krkctmw8gsnt9yc6sdvl2fvjw7fw8sppqnlfj2f097ldpdetf6jk8uyq2enukd",
+        "senderStakeKey": "stake1u94jjvdgxk04ykf80yhrcqssfl5e9yhjl0ksku45aftr7zq4pumm2",
+        "isYesVote": true,
+        "voteWalletName": "VoteWallet4",
+        "adaReceived": 3,
+        "slot": 60898479,
+        "utxo": {
+            "txHash": "1584802ae2b8221434480bccbfef00d943bd2b01b5f738cfaea1c9553658d2b1",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        }
+    }
+}

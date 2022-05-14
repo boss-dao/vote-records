@@ -1,0 +1,63 @@
+{
+    "yesVotes": 46,
+    "noVotes": 0,
+    "countVotesBeforeSlot": 60909546,
+    "voters": {
+        "stake1u9le5yncx3ut8vnlej4fmza5kvg4m7flhyryqa6rldxf3mcv6nmre": {
+            "vote": "Yes",
+            "votes": 7,
+            "votingTx": "63b5b1a3d8e08b85fa08a8369f3e722027afd93cc7d72bf4e7b6e8267f7cb148"
+        },
+        "stake1uy2k0vkw4gqys53e7ge9sm638weu7mg67md6z5ggrz4mmggj7zhgj": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "119f09e0f7d4567bcb3971b189620cb0c08558524dc48eae9b36ee73e33b5565"
+        },
+        "stake1uyu7rr7xyk96xs0f85hdq0glr2pskwqycph3sp9sydvf42q36s4pc": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "1396d454a8393f9f016efecdfffaf99421b25598834ac52682f0f559d6f25efb"
+        },
+        "stake1uxvwq2jw50d9p3qg9x3yh9vkt7enrx2ydkr4hhr7wqstuuq5mxe9s": {
+            "vote": "Yes",
+            "votes": 12,
+            "votingTx": "bb11450676d6e71e2ea99d48b3d0ae291cd17a0ad4db5ce463eabaac8790ff45"
+        },
+        "stake1u872pzhtxcaf7rh89ef899nyyjkqkt6g5c4pksfhjkdpx6q6gvs9l": {
+            "vote": "Yes",
+            "votes": 4,
+            "votingTx": "8f7318b36176d4ab34a73aa06f8d004a06c11e8c2b918baf1abccbf86bcf1128"
+        },
+        "stake1u85ukvnl4v2vtxye3d0fkk0v6wf2pdarm88ny5ec0rtsp7cd2ympl": {
+            "vote": "Yes",
+            "votes": 9,
+            "votingTx": "8267bc3f94e716ca2572634c507196102ab3f8e61dfcb5607b9aed9adadbe05a"
+        },
+        "stake1u86p4kdq5784640vanrr6sxc7zgvjdyfur4uqmrjvc2mhjqhznvj8": {
+            "vote": "Yes",
+            "votes": 1,
+            "votingTx": "6022530b8fdc28ba067009fe9843bf86e9bfba806d7cd224b74d0fd35ada9452"
+        },
+        "stake1u9w0gx3240pw59eazt7vgu7fc2xrkxv57f38k43lyfglq6gczwxhy": {
+            "vote": "Yes",
+            "votes": 2,
+            "votingTx": "bf08ef136da842466c805d39f5ab10ea7dd0eabbef5431b0af7c88fd2b248a18"
+        },
+        "stake1uxp5fjuagrrds9qwp6wgxlu4t2s0s2yxh3409d73mgh50ys8m5wyh": {
+            "vote": "Yes",
+            "votes": 3,
+            "votingTx": "f135d5f85bf00fecdb14420eb85c7ff8c23582f1b9be8bc7e133003df4e7975b"
+        },
+        "stake1uxg5eqsxwfkpsy32p3ap5zky8er42p8jvwd25cll0m947msre9s5c": {
+            "vote": "Yes",
+            "votes": 4,
+            "votingTx": "f07f4b3c1fa1dbd536ce62f5c1e443ed14fbd6dc50159e1d69708c8f10deace7"
+        }
+    },
+    "numTxReceieved": 10,
+    "numValidTx": 10,
+    "lateTxCount": 0,
+    "incorrectAmountTxCount": 0,
+    "nonHolderTxCount": 0,
+    "doubleVoteTxCount": 0
+}
