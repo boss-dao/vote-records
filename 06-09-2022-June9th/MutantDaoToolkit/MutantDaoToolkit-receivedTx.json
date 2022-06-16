@@ -1,0 +1,772 @@
+{
+    "ce009dd16a6cd614816274aef31629bdd57c65f78574a4c2cf8a44ab278230af": {
+        "senderAddr": "addr1qxxcq4yw6wa2cd06xn53p8m4y2p70tuz2jrzv4qu4wztkzhtygu4jjj8ll9c3jfa539fng2gvqujem0az2zv6swaaamqm0q3np",
+        "senderStakeKey": "stake1u84jyw2effrlljugey76gj5e59yxqwfvah739pxdg8w77as8zuklq",
+        "adaReceived": 3,
+        "slot": 63242960,
+        "utxo": {
+            "txHash": "ce009dd16a6cd614816274aef31629bdd57c65f78574a4c2cf8a44ab278230af",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "ec77e3a985b1947cf74694424915ddb63ec1cb0e966d694d70d3f1db228cc248": {
+        "senderAddr": "addr1qx0dwjtrsf6wpgdglcntvnn30tnegqejm40u4ukctyt5mg8yzyzc796w9zwrwcaf3gn86t6vdkcjuut7azhmh79w073szltw4q",
+        "senderStakeKey": "stake1u8jpzpv0za8z38phvw5c5fna9axxmvfww9lw3tamlzh8lgckx2pf8",
+        "adaReceived": 3,
+        "slot": 63243016,
+        "utxo": {
+            "txHash": "ec77e3a985b1947cf74694424915ddb63ec1cb0e966d694d70d3f1db228cc248",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "3394aaad3cad23990d50b37ac5e5611bd241bb35e2efccd8eb6d55ece2202d04": {
+        "senderAddr": "addr1qxqsmjy80decmhsrlnny9cf44u5vj7a6k2sn05xl75m5scrfym44e0f6dlqf9mszcfph62urwaj7yrvkyq06pp5fjs5qevd9jl",
+        "senderStakeKey": "stake1u95jd66uh5axlsyjacpvysma9wphwe0zpktzq8aqs6yeg2qcgzf5y",
+        "adaReceived": 3,
+        "slot": 63243023,
+        "utxo": {
+            "txHash": "3394aaad3cad23990d50b37ac5e5611bd241bb35e2efccd8eb6d55ece2202d04",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "67b4e589e1140c7a389f8151832e72603183fb67cd7c45537841cff901907eae": {
+        "senderAddr": "addr1q8h3sk9wxxltsfpu5zwy9md3p0h5y4dpvzrkx09tmzy2m9c6aqqh45yy6qm2qk02g6um5z5wntx3akjr89900vn24e6qcnm6mg",
+        "senderStakeKey": "stake1uydwsqt66zzdqd4qt84ydwd6p28f4ng7mfpnjjhhkf42uaqylu085",
+        "adaReceived": 3,
+        "slot": 63243167,
+        "utxo": {
+            "txHash": "67b4e589e1140c7a389f8151832e72603183fb67cd7c45537841cff901907eae",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "148ed7b00f02f3ed19e802052b7ac1986a9c0445546c6b61355185e1760fafb8": {
+        "senderAddr": "addr1qx0tu6sh2ztghlzn0a99gg2vvd3fcldlk9txk908gmrhkgqqxhkj3mwgvv466chukk5s72rm6cpac8zam7lna2cs4qtqf8cq9g",
+        "senderStakeKey": "stake1uyqrtmfgahyxx2advt7tt2g09paavq7ur3wal0e74vg2s9s4zmeug",
+        "adaReceived": 3,
+        "slot": 63243271,
+        "utxo": {
+            "txHash": "148ed7b00f02f3ed19e802052b7ac1986a9c0445546c6b61355185e1760fafb8",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "2cc6b84647ddd8c4e98f89f09ff829b8b733078af4de4bd856c253d6b1280fe4": {
+        "senderAddr": "addr1qxax7pa9ze5qdtxvpcjhcjm34xlgnzu5k7px8u8tnl20r2t0ysq2z03psxqpluhs2d06pcnw23ng68xv5lz5xhpr8atsrqd0cc",
+        "senderStakeKey": "stake1u9hjgq9p8cscrqql7tc9xhaqufh9ge5drnx2032rts3n74cw2fuhx",
+        "adaReceived": 3,
+        "slot": 63243271,
+        "utxo": {
+            "txHash": "2cc6b84647ddd8c4e98f89f09ff829b8b733078af4de4bd856c253d6b1280fe4",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "58a56416e7bd0a1bf44025327ac00f449a486b250dd003248ee34a013502cbd5": {
+        "senderAddr": "addr1qxrm8y46y3ud6rqj5cynxmfhxrw4ykphnzepvdwafre49tq5huqxxnps4cunefusnc8sc0tje0m2fyudnle5eqlnwjlqufjkhy",
+        "senderStakeKey": "stake1uy2t7qrrfsc2uwfu57gfurcv84evha4yjwxelu6vs0ehf0sunk3vx",
+        "adaReceived": 3,
+        "slot": 63243686,
+        "utxo": {
+            "txHash": "58a56416e7bd0a1bf44025327ac00f449a486b250dd003248ee34a013502cbd5",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "6cdf4c03ff1566a9cb6131de6f19e2b6889f6ef5e6e274bdec6c592dbc2afcce": {
+        "senderAddr": "addr1qymx3d8awp5xgdl025z7pspquctyelmqc09wzy2z2sdxzg8fp9hhj4c8yuq5l7x0ytdyzvjym6dnfshjp7p6esclaxessdggzf",
+        "senderStakeKey": "stake1u85sjmme2urjwq20lr8j9kjpxfzdaxe5cteqlqavcv07nvcp9z6sw",
+        "adaReceived": 3,
+        "slot": 63244265,
+        "utxo": {
+            "txHash": "6cdf4c03ff1566a9cb6131de6f19e2b6889f6ef5e6e274bdec6c592dbc2afcce",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "b0b921d90c8b248d0aa2e04f34ac3284456c6a887b2ca2e7c34ad8058d113791": {
+        "senderAddr": "addr1qy0nv4yfk39ynr6gu0y7aweelpdnqyuarsm4pl365lpxcxxsl6puv0djatp5vq55wvhjmdcducrlqnjslgqr6av2srvs8r7kn2",
+        "senderStakeKey": "stake1u8g0aq7x8kew4s6xq228xtedkux7vplsfeg05qpawk9gpkgw7cpyh",
+        "adaReceived": 3,
+        "slot": 63245326,
+        "utxo": {
+            "txHash": "b0b921d90c8b248d0aa2e04f34ac3284456c6a887b2ca2e7c34ad8058d113791",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "6f0f690b4f26a20895ef92f31a6a5b09a9fbb82e03b55c3871db1ac74b072a6d": {
+        "senderAddr": "addr1qxw0avx3xd4w5qa4dt34j0vdha0d7nhc69e6t4v5xatxsqkxgkyqvngse4jj8wv094qc3svlmv89ct8cx2kamk5rynpsj4xrvp",
+        "senderStakeKey": "stake1u8rytzqxf5gv6efrhx8j6svgcx0akrju9nur9twam2pjfschj29wr",
+        "adaReceived": 3,
+        "slot": 63245361,
+        "utxo": {
+            "txHash": "6f0f690b4f26a20895ef92f31a6a5b09a9fbb82e03b55c3871db1ac74b072a6d",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "7ca3741b543988810e5fad04675fbc8eb7d155c6c75607d5b024a43f46eb2989": {
+        "senderAddr": "addr1qyg8sc8vwwl7cjca8cuxf0v7u4xyga0mfk4ppdd42a3pvm5rgn9e6sxxmq2qur5usdle2k4qlq5gd0r272mark30g7fqswal6p",
+        "senderStakeKey": "stake1uxp5fjuagrrds9qwp6wgxlu4t2s0s2yxh3409d73mgh50ys8m5wyh",
+        "adaReceived": 3,
+        "slot": 63249326,
+        "utxo": {
+            "txHash": "7ca3741b543988810e5fad04675fbc8eb7d155c6c75607d5b024a43f46eb2989",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "ab0bb0abd757148476d48294967a235f19e24cf10c93038e62b0fd5b58edc56a": {
+        "senderAddr": "addr1qxdyq4qvq24hnaghds3z3walvwx6u0hvzjznwgegy8y90tz4xqs4a3gsrnz05fe8j9txm2qk832ge80wnftywk4jnn0s3f8090",
+        "senderStakeKey": "stake1u92nqg27c5gpe386yunez4nd4qtrc4yvnhhf54j8t2efehca3r3ax",
+        "adaReceived": 3,
+        "slot": 63249374,
+        "utxo": {
+            "txHash": "ab0bb0abd757148476d48294967a235f19e24cf10c93038e62b0fd5b58edc56a",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "08bd9d85c36b9441763c6e9bba944324e42bbe8acdc251d3c88ebad83d350fa8": {
+        "senderAddr": "addr1q8v2pf59wg2dgpll9lm5luf64q2j4gm4tmvuz0mh38xnccpc9lfmkll0y2deuvjr493pgekcmhtu93h8e068rhj7866s4ecrd8",
+        "senderStakeKey": "stake1uyuzl5am0lhj9xu7xfp6jcs5vmvdm47zcmnuhar3me0radga8782z",
+        "adaReceived": 3,
+        "slot": 63255967,
+        "utxo": {
+            "txHash": "08bd9d85c36b9441763c6e9bba944324e42bbe8acdc251d3c88ebad83d350fa8",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "801648524a411b1e660ca099771cdfc7310b443e2a982d70582a9d5be5ca5ce6": {
+        "senderAddr": "addr1qx79xkx9knfk2g25gza67uuax6gjydsqnjw5l4zdseuxdtmzf78agujy074asmrtm75zfky8h2l43txxtcfyn9pjr9xsjkgpdr",
+        "senderStakeKey": "stake1u93ylr75wfz8l27cd34al2pymzrm406c4nr9uyjfjsepjng6azef5",
+        "adaReceived": 3,
+        "slot": 63256683,
+        "utxo": {
+            "txHash": "801648524a411b1e660ca099771cdfc7310b443e2a982d70582a9d5be5ca5ce6",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "1ebcc111852f956c42157597f0a3b370e780cbba7865243175509d21ca1f8e3c": {
+        "senderAddr": "addr1qyv7pxt3qrpvtruhflqlzn226ymnanl72uq62r8cqkn5qwhxa0em85e6l73yw4q4k0rk3umjc3mc0f3edw7jz764r04stxrf7t",
+        "senderStakeKey": "stake1u8nwhuan6va0lgj82s2m83mg7devgau85cukh0fp0d23h6c95gdt7",
+        "adaReceived": 3,
+        "slot": 63257742,
+        "utxo": {
+            "txHash": "1ebcc111852f956c42157597f0a3b370e780cbba7865243175509d21ca1f8e3c",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": false
+    },
+    "d1e54c33a2050ba1e3dfb4ef6e13c183d1e8e597988d27a3fe8d51f26af6fce9": {
+        "senderAddr": "addr1q924m58qzsjqjwnq47yda94846sh8tjpuk8wcjs5rk3n7glr3d5ztw0c0rm8ww873mm40kklx9wku7jfr32xgkva6das5q9567",
+        "senderStakeKey": "stake1u83ck6p9h8u83anh8rlgaa6hmt0nzhtw0fy3c4rytxwax7cezefdx",
+        "adaReceived": 3,
+        "slot": 63258528,
+        "utxo": {
+            "txHash": "d1e54c33a2050ba1e3dfb4ef6e13c183d1e8e597988d27a3fe8d51f26af6fce9",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "834dcf68c6e9eeb84ab3e5834bca3045247c80d0242a26e30b3bda8f04f6dcf8": {
+        "senderAddr": "addr1q8058zvy8744dxxvet27cr6wfhj63rapla080nc6vgy8q8dgkzdwr74l0tpz4q9y9z3k6sus6wnfdpe2gp8fsrck06cqzkrttj",
+        "senderStakeKey": "stake1ux5tpxhpl2lh4s32szjz3gmdgwgd8f5ksu4yqn5cput8avqrk9x5k",
+        "adaReceived": 3,
+        "slot": 63260673,
+        "utxo": {
+            "txHash": "834dcf68c6e9eeb84ab3e5834bca3045247c80d0242a26e30b3bda8f04f6dcf8",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "bdccc8110bfa47c367122efaf3b04f43dc6c81ab781feee5fd4aa6d21fd27524": {
+        "senderAddr": "addr1qyllfjq4q49dthee5q6duwdgw8pkk4ykusp979a2xjvrrquvlv0avl4ne2laal855p925jw6phm8e679lujglez2tgfq7d63aa",
+        "senderStakeKey": "stake1uxx0k87k06eu4077ln62qj42f8dqmanua0zl7fy0u3995yspvkgvv",
+        "adaReceived": 3,
+        "slot": 63261020,
+        "utxo": {
+            "txHash": "bdccc8110bfa47c367122efaf3b04f43dc6c81ab781feee5fd4aa6d21fd27524",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "b8a0192c7a83182bb6895d8de7c13c2b39c4418a0c2a4d79d6396819762232a8": {
+        "senderAddr": "addr1q9ra4dwvdfwazyhc9ypf8xfzlaag02wqsxnls2rtdv9j9l9dccta4yvyqr4htrz9eh0lvv4acnuq3c6rtz3kuk7x0hysjq9lzs",
+        "senderStakeKey": "stake1uxkuv976jxzqp6m433zumhlkx27uf7qgudp43gmwt0r8mjgjncpg3",
+        "adaReceived": 3,
+        "slot": 63261282,
+        "utxo": {
+            "txHash": "b8a0192c7a83182bb6895d8de7c13c2b39c4418a0c2a4d79d6396819762232a8",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "0748a88feb0604a34cb996340f84a3803b350d912a34c7e3c60c3f52ff1edf8f": {
+        "senderAddr": "addr1q955e5jmdescvhl4t8rqpeu57df86ve4pr499sf7fmrawsqq922yf6eqcq8z9k0ev2f2msyy2m6xkzvs350hkye6rfys7y5ykt",
+        "senderStakeKey": "stake1uyqz49zyavsvqr3zm8uk9y4dczz9dartpxgg68mmzvap5jgk0kctf",
+        "adaReceived": 3,
+        "slot": 63261999,
+        "utxo": {
+            "txHash": "0748a88feb0604a34cb996340f84a3803b350d912a34c7e3c60c3f52ff1edf8f",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "58fe3eb13bdf24026e2fc498dc06f7d9e87901318503f9315b2d6b89967880f6": {
+        "senderAddr": "addr1q86q335dk9q8ue00p3meqqhht8znx5r6ng98hjq0t5g6hcla35ypk39p4ws70m8dwr75gkxslrpfj97strwje9kcvm4q854lc9",
+        "senderStakeKey": "stake1u87c6zqmgjs6hg08ankhpl2ytrg03s5ezlg93hfvjmvxd6szty9mr",
+        "adaReceived": 3,
+        "slot": 63262226,
+        "utxo": {
+            "txHash": "58fe3eb13bdf24026e2fc498dc06f7d9e87901318503f9315b2d6b89967880f6",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "afbcaead04a8f250bd5450733f7eb44e0913841a8c1f267a11b1ed099d1f04aa": {
+        "senderAddr": "addr1q8g0v9qlfe86hrjywf8z92k2y9cmwhvfk6k83hpvhe5fra5m9uatqx6avxm8h43p6tfjprdcwyxr0tqp08azun98chks0gk3q3",
+        "senderStakeKey": "stake1uxdj7w4srdwkrdnm6csa95eq3ku8zrph4sqhn73wfjnutmgr4xpqd",
+        "adaReceived": 3,
+        "slot": 63262683,
+        "utxo": {
+            "txHash": "afbcaead04a8f250bd5450733f7eb44e0913841a8c1f267a11b1ed099d1f04aa",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": false
+    },
+    "136bcfe50d805bcaad4009a9641a53353312c09c8a88144d43d4919eba6c1aef": {
+        "senderAddr": "addr1q88mwaf2deu0ucgneke3tv6sv2tmw8m7tmcn7jjeuzq5a0xtq9el6rq3l74shzra78mr0vhvexff4u5mrf2cpkmsqccq0wd9k0",
+        "senderStakeKey": "stake1u89szulapsgll2ct3p7lra3hktkvny5672d354vqmdcqvvqhfht4c",
+        "adaReceived": 3,
+        "slot": 63262989,
+        "utxo": {
+            "txHash": "136bcfe50d805bcaad4009a9641a53353312c09c8a88144d43d4919eba6c1aef",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "02b46d5aa1d81ff99f5b671ac7ee0c712fa36dbd72d0023d3ae3aa35021bc18d": {
+        "senderAddr": "addr1q83dz4lclapq0qvfal2svtjk24xg20hla0gt6ljaqza3sk53fjpqvunvrqfz5rr6rg9vg0j825z0ycu64f3l7lkttahqkj4fu5",
+        "senderStakeKey": "stake1uxg5eqsxwfkpsy32p3ap5zky8er42p8jvwd25cll0m947msre9s5c",
+        "adaReceived": 3,
+        "slot": 63263317,
+        "utxo": {
+            "txHash": "02b46d5aa1d81ff99f5b671ac7ee0c712fa36dbd72d0023d3ae3aa35021bc18d",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "dbc5d03d731cfea42037e607eebfdfa383dd4603dbcce6a9d665110fe852397a": {
+        "senderAddr": "addr1qxxuhjh4jdrq3l80ac9xpy93x8h552sexdlgg7z85nwwpwl8ku4v7a9gl03shd7r6krqhfgf4lgmgaz68gcfyek6tyaqxh0m80",
+        "senderStakeKey": "stake1u8nmw2k0wj50hcctklpatpst55y6l5d5w3dr5vyjvmd9jwshzguyu",
+        "adaReceived": 3,
+        "slot": 63263317,
+        "utxo": {
+            "txHash": "dbc5d03d731cfea42037e607eebfdfa383dd4603dbcce6a9d665110fe852397a",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "085f498619b5d0e9782de4801086d730e778a0e104b0130bde08cf9fa94851d0": {
+        "senderAddr": "addr1qyxjwvwya9lu7uraw8fsdk089pdce0xpwlh6gw8nwxdtljjpe9qycq8qjxrxg5j94rddj39nj7e7hmh2gd807gyzeufqxzfccd",
+        "senderStakeKey": "stake1u9qujszvqrsfrpny2fz63kkegjee0vltam4yxnhlyzpv7ysxdwy5r",
+        "adaReceived": 3,
+        "slot": 63263722,
+        "utxo": {
+            "txHash": "085f498619b5d0e9782de4801086d730e778a0e104b0130bde08cf9fa94851d0",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "7443fd2fa12b5ab9d2f07219c105fb0ad0b46212c577550f38a3ff84ca40bf6c": {
+        "senderAddr": "addr1qxut2mekdjvk0dphstqraf0qqgazeuw999smtkz2yqemk98y6drlg68n9dwytj4a5l0ph4ftr0pfqa8hz50dc350z85q6srlya",
+        "senderStakeKey": "stake1u8jdx3l5drejkhz9e2760hsm6543hs5swnm328kug683r6qdqxcep",
+        "adaReceived": 3,
+        "slot": 63263835,
+        "utxo": {
+            "txHash": "7443fd2fa12b5ab9d2f07219c105fb0ad0b46212c577550f38a3ff84ca40bf6c",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "2601bc8c4e8eb716d7acd196078e8f227894d9e3b793d1c87a87cde197ff4eda": {
+        "senderAddr": "addr1q86e0t6h93ycf82tfldmy0v53eyf8dqzwfpmh560kreau3x5damct9junr7dsryjmtv26a8q93uwtqmx02u3vqxepxlsak4ghn",
+        "senderStakeKey": "stake1u82x7au9jewf3lxcpjfd4k9dwnszc789sdn84wgkqrvsn0c4wx5t8",
+        "adaReceived": 3,
+        "slot": 63264861,
+        "utxo": {
+            "txHash": "2601bc8c4e8eb716d7acd196078e8f227894d9e3b793d1c87a87cde197ff4eda",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "7de7b859fbfb82b3526ad18f20f6633aa1fb5e471c3fa3c5d8d71a4b64331ee4": {
+        "senderAddr": "addr1q86g2jpjnv00ymhltwwzs78fd6cq55v8affhwetc4vv8qq49dtcdayfesxu3smjgaqcwpst8vkl5l49lx3t2n7umcuuqwghw2k",
+        "senderStakeKey": "stake1uxjk4ux7jyucrwgcdeywsv8qc9nkt0606jlng44flwduwwq9s5ewg",
+        "adaReceived": 3,
+        "slot": 63265799,
+        "utxo": {
+            "txHash": "7de7b859fbfb82b3526ad18f20f6633aa1fb5e471c3fa3c5d8d71a4b64331ee4",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "c737c91834e4d2211a437a2058878471298b5f7e195b34122b9b816a299be875": {
+        "senderAddr": "addr1qyyzcj4qjswqdc77cpwdvutj4hs0j3rcumr3kphstsj3unhnhlqlpt3ee4nh8zy8ru8sg006vuj2mqetkclnutw28hgqvy4cgh",
+        "senderStakeKey": "stake1u8emls0s4cuu6emn3zr37rcy8haxwf9dsv4mv0e79h9rm5qlw8fd2",
+        "adaReceived": 3,
+        "slot": 63266125,
+        "utxo": {
+            "txHash": "c737c91834e4d2211a437a2058878471298b5f7e195b34122b9b816a299be875",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "d79c95b1af0af77965bad807924bcfbd69daa6b9962601f29b09dadf837036b4": {
+        "senderAddr": "addr1q8ndv2g5947phgcdveeq4k799qrs756f2ky70yrvad8f272ftrt8wxqrj5730rjlgh8msh53j2vpslllg7vah74pe2vqlhkpkc",
+        "senderStakeKey": "stake1u9y434nhrqpe20gh3e05tnact6ge9xqc0ll50xwml2su4xq2tuwtp",
+        "adaReceived": 3,
+        "slot": 63267425,
+        "utxo": {
+            "txHash": "d79c95b1af0af77965bad807924bcfbd69daa6b9962601f29b09dadf837036b4",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": false
+    },
+    "86614e19f905685c61f14cf645637d0a8716636cd1ec2ec78a6f577e5118b74f": {
+        "senderAddr": "addr1qylpxjsjzdse6yttrgjn42pyfdh4gp5q3wd6h4uxrj8e66zdf35z8f85uxzd8tfguevk0w06klmwt90vm7zewupmaxyqsrpsrd",
+        "senderStakeKey": "stake1u9x5c6pr5n6wrpxn455wvkt8h8at0ah9jhkdlpvhwqa7nzq74envv",
+        "adaReceived": 3,
+        "slot": 63270361,
+        "utxo": {
+            "txHash": "86614e19f905685c61f14cf645637d0a8716636cd1ec2ec78a6f577e5118b74f",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "c54445b22b77c67ff51f947194c076040de87691051b8bb2ba44c30b7a381081": {
+        "senderAddr": "addr1q9u7alxe6w433mpuplprdnuj3nlljmuwcdsmnjghft9pdc54gquu230krtcf23w79fs4qq9dgtvg38dl67rvz57urrjshjx0cn",
+        "senderStakeKey": "stake1ux25qww9ghmp4uy4gh0z5c2sqzk59kygnkla0pkp20wp3eg5fvf9z",
+        "adaReceived": 3,
+        "slot": 63270510,
+        "utxo": {
+            "txHash": "c54445b22b77c67ff51f947194c076040de87691051b8bb2ba44c30b7a381081",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "f168f4813e38c91a06dde89478ee07432d4ebcff4af0760220b6aa3704092d4a": {
+        "senderAddr": "addr1qx3qzw58ge64j4585ja3m79h9qauccgpu8us2mcsuwrnf263amn4z2xfak49zmcz3qxq940gprae7q4ze6hmg9cax73qcty7ry",
+        "senderStakeKey": "stake1u9g7ae639ry7m2j3dupgsrqz6h5q37ulq23vata5zuwn0gs8je76y",
+        "adaReceived": 3,
+        "slot": 63270599,
+        "utxo": {
+            "txHash": "f168f4813e38c91a06dde89478ee07432d4ebcff4af0760220b6aa3704092d4a",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "bd0dc728b07902a1d467346378326b3795a64cc944ac3dbd1f26a2f283935ff1": {
+        "senderAddr": "addr1qxtqg9ya50alzmqdtan8t07qgmkku7evz3cldjdejtzd7gaghv0d5lv3tkq9fglhvcu9xvaghq6jn5zctqkmf09jysjslefu2c",
+        "senderStakeKey": "stake1ux5tk8k60kg4mqz550mkvwznxw5tsdff6pv9std5hjezgfgelafgd",
+        "adaReceived": 3,
+        "slot": 63275823,
+        "utxo": {
+            "txHash": "bd0dc728b07902a1d467346378326b3795a64cc944ac3dbd1f26a2f283935ff1",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "a1f63860efc15649944507ce899ef13782c404afce193e06179a5c67fd0f3b8a": {
+        "senderAddr": "addr1q90f08an368rs7sc6x6pwj227h4xyw7ux6aqu8f2aywmenqt24uq823sdk8tqh7k6aqdc79raejkuxc5f4n3zhx0zfhq2awfmk",
+        "senderStakeKey": "stake1uy9427qr4gcxmr4stltdwsxu0z37uetwrv2y6ec3tn83ymsalzc96",
+        "adaReceived": 3,
+        "slot": 63276048,
+        "utxo": {
+            "txHash": "a1f63860efc15649944507ce899ef13782c404afce193e06179a5c67fd0f3b8a",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "68d903260b6a548650aa8e0783f63a86593f5f14096b19b3b1b3cb7d98feea50": {
+        "senderAddr": "addr1qx670wr96rf87z5tynlxy9w8zk3yyvxqyuhunaxx5q5w44js0v7rajxp5ellcp00xva5nmkt3vkhj5lfsz0kw6g5ljhqrs4zxw",
+        "senderStakeKey": "stake1u9g8k0p7erq6vlluqhhnxw6fam9cktte205cp8m8dy20etss9sh7c",
+        "adaReceived": 3,
+        "slot": 63279111,
+        "utxo": {
+            "txHash": "68d903260b6a548650aa8e0783f63a86593f5f14096b19b3b1b3cb7d98feea50",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "c36c1a272fe766c9452a8fd1cc947e23ba0ecc5aea9caccb55bc07872144d4de": {
+        "senderAddr": "addr1qxkweunr63750ag3na6akvaf545yu86840eld0f4sd4ud52n83f3hfeg2w3x7d2qldjvs422ggp0a35de7q94s30q8aqcs2z7r",
+        "senderStakeKey": "stake1u9fnc5cm5u598gn0x4q0kexg249yyqh7c6xulqz6cghsr7skm3rzu",
+        "adaReceived": 3,
+        "slot": 63284869,
+        "utxo": {
+            "txHash": "c36c1a272fe766c9452a8fd1cc947e23ba0ecc5aea9caccb55bc07872144d4de",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": false
+    },
+    "464073c916da08ebec4e601f3b1c1cb0923de30de624d93620b46a56841398a8": {
+        "senderAddr": "addr1qymgstudyavw7hau7px5ru96q2sftpftg0tnh2jwasf0j4j5c82et0w6y3mdnqvfsgwkk3jwnp965s7ed55syc3hzssqel0sru",
+        "senderStakeKey": "stake1u92vr4v4hhdzgakesxycy8ttge8fsja2g0vk62gzvgm3ggqmpf505",
+        "adaReceived": 3,
+        "slot": 63286016,
+        "utxo": {
+            "txHash": "464073c916da08ebec4e601f3b1c1cb0923de30de624d93620b46a56841398a8",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "2ec65b1d4d7ae08c104f0b10e3848e04d571095f325a197a9d6f4523a3551245": {
+        "senderAddr": "addr1q9whq8nqe2ndj6chy6jr6u0w85hzxg036cqpmeam8umyqsjdcps5q06ure04u0ahl7s58037qvjy42wyw87m78jgjzxswj30z6",
+        "senderStakeKey": "stake1u9xuqc2q8awpuh6787mllg2rhclqxfz248z8rldlreyfprgm4jm0j",
+        "adaReceived": 3,
+        "slot": 63288849,
+        "utxo": {
+            "txHash": "2ec65b1d4d7ae08c104f0b10e3848e04d571095f325a197a9d6f4523a3551245",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "52153c564664bcbbe629f9017c8b87c62107f6eec5be4c4f1ac4eb57f7bd1c85": {
+        "senderAddr": "addr1q80g2g2ejx6ylamrtu4cadu0s39k2kyar8tf6ax2fqjm5h0feve8l2c5ckvfnz67ndv7e5uj5zm68kw0xffns7xhqrasjqvgsz",
+        "senderStakeKey": "stake1u85ukvnl4v2vtxye3d0fkk0v6wf2pdarm88ny5ec0rtsp7cd2ympl",
+        "adaReceived": 3,
+        "slot": 63291279,
+        "utxo": {
+            "txHash": "52153c564664bcbbe629f9017c8b87c62107f6eec5be4c4f1ac4eb57f7bd1c85",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "f635ebda3b61720da2d4375c0a4f40ef82e1dfc46bac7794439293695bb6e632": {
+        "senderAddr": "addr1qxmhkmue6m3agu98c8llren5j63j3ec62e9amuqja095q0z45vk55wzv75fwl88qs5k8y23asrn87wr6fqrj6klteywqfl9kt0",
+        "senderStakeKey": "stake1u926xt228px02yh0nnsg2trj9g7cpenl8payspedt04uj8qzuq7lu",
+        "adaReceived": 3,
+        "slot": 63292425,
+        "utxo": {
+            "txHash": "f635ebda3b61720da2d4375c0a4f40ef82e1dfc46bac7794439293695bb6e632",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "f76a3b0f75a9fe3779c7b28c7f50b5861e60f88fecf527d788a3b998c7668709": {
+        "senderAddr": "addr1q8y4l98c8q3k209rswu3vvjyv3wlrpqrm2nfdg3ud95y3chrmyp3drge48l23p9xqszqdyndnyzuzqtacnm7p30rpjnsydtm6t",
+        "senderStakeKey": "stake1u83ajqck35v6nl4gsjnqgpqxjfkejpwpq97ufalqch3sefcmawqkt",
+        "adaReceived": 3,
+        "slot": 63294988,
+        "utxo": {
+            "txHash": "f76a3b0f75a9fe3779c7b28c7f50b5861e60f88fecf527d788a3b998c7668709",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "164492a843ea175143bbe485a608772c022a6419136904d9ca22002278bedc0a": {
+        "senderAddr": "addr1q8ttdchw0dk7nny3skm5j9leyx0j0cyrdan7ymljhuksg54pyncerlq5xyrrg0vgjcf9qhwujt44sxqdedqm5c3gr7aqs9ajvt",
+        "senderStakeKey": "stake1uxsjfuv3ls2rzp358kyfvyjsthwf966crqxuksd6vg5plwsedl2ra",
+        "adaReceived": 3,
+        "slot": 63298202,
+        "utxo": {
+            "txHash": "164492a843ea175143bbe485a608772c022a6419136904d9ca22002278bedc0a",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "ed76de8bfa79b34dd51f38c2b0ff994e9cc5ec1f47e95e779c0d775f69786f0f": {
+        "senderAddr": "addr1qykf5gkxuatn0gfwzekqc655tdsn59lvxsq5q08dzgn6mkk96e5wrqt4kne34j6m39a3kn6dnd09xcrzu528872tx7eqxqyws9",
+        "senderStakeKey": "stake1u8zav68ps96mfuc6eddcj7cmfaxekhjnvp3w29rnl99n0vshdpjjz",
+        "adaReceived": 3,
+        "slot": 63300929,
+        "utxo": {
+            "txHash": "ed76de8bfa79b34dd51f38c2b0ff994e9cc5ec1f47e95e779c0d775f69786f0f",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "01da79864bbd6f7d0c4f3311c00308a476d189c7139a73e671127cb8bbe2afd6": {
+        "senderAddr": "addr1q957vp9ly2azr2kj25wkle04yeuxp5w2z7urexhdlgx7s3a5q6yg2jmckvx5ua47na8aehy963cu5u8uhsca7xtkh3ws2gdd4p",
+        "senderStakeKey": "stake1ux6qdzy9fdutxr2ww6lf7n7umjzaguw2wr7tcvwlr9mtchgp4asks",
+        "adaReceived": 3,
+        "slot": 63301463,
+        "utxo": {
+            "txHash": "01da79864bbd6f7d0c4f3311c00308a476d189c7139a73e671127cb8bbe2afd6",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "a7b91f59b9e2353d372d397a45229e6c1d713c4fb3d02730efe567205bc234df": {
+        "senderAddr": "addr1q8psfvmnmkescw5j36w2hzacgyqsgce95sg7w9p6cg383xx57cudchmdlsxyfmtz6k8ecsqnhkxewjrm0s2zpmapl6vsd7tm5h",
+        "senderStakeKey": "stake1u820vwxutaklcrzya43dtruugqfmmrvhfpahc9pqa7slaxgarjlly",
+        "adaReceived": 3,
+        "slot": 63305597,
+        "utxo": {
+            "txHash": "a7b91f59b9e2353d372d397a45229e6c1d713c4fb3d02730efe567205bc234df",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "32e2cda041bf3aa7717ae7b4dae23d24414bdf5712a8fc6b613914cbe97674d2": {
+        "senderAddr": "addr1q9lrryk2jn2lm90rlx2yp8syv0u4n9nse7hqu5vg75fyuq2gf0tm5jl8wu47prpedraumwtettds8lmv2x3r3up3t84qlx8jdv",
+        "senderStakeKey": "stake1u9yyh4a6f0nhw2lq3suk377dh9u44kcrlak9rg3c7qc4n6s6v2x0d",
+        "adaReceived": 3,
+        "slot": 63309985,
+        "utxo": {
+            "txHash": "32e2cda041bf3aa7717ae7b4dae23d24414bdf5712a8fc6b613914cbe97674d2",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": false
+    },
+    "637b95f9f2c6a64c111ca2ccb063b8786da29c4de56eb31869a0540240d9bcd2": {
+        "senderAddr": "addr1qykxdxq3zkk60xd8h9x4gjhkjw6rgas5507a2eaqd0cvp7x60jjd3084pl48wklksel3hlpnpeavh8rvyrg8pvgt6jlsdugn8m",
+        "senderStakeKey": "stake1u8d8efxchn6sl6nht0mgvlcmlsesu7ktn3kzp5rsky9af0cuks5yq",
+        "adaReceived": 3,
+        "slot": 63311782,
+        "utxo": {
+            "txHash": "637b95f9f2c6a64c111ca2ccb063b8786da29c4de56eb31869a0540240d9bcd2",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "b45e7a73a70e4ab9ccff06645afa43a9f835e8f3884b66d6fe0cac6a585298ab": {
+        "senderAddr": "addr1q992tqh39838e8w02muwh94rs7ev05dwks0rgy0cp48tuv3uqaqwkdul0ptj4aaqceqayyymd62wg7yc2ul007hde6hqpvanyy",
+        "senderStakeKey": "stake1uy7qws8tx70hs4e277svvswjzzdka98y0zv9w0hhltkuats27nz6r",
+        "adaReceived": 3,
+        "slot": 63312800,
+        "utxo": {
+            "txHash": "b45e7a73a70e4ab9ccff06645afa43a9f835e8f3884b66d6fe0cac6a585298ab",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "7f82444a8d09939f82f1680d203ccc88174642a6a2e6f5bd8f184499529a1ee7": {
+        "senderAddr": "addr1qxgzg290u7ndvh22uxjmycdsml0mm5kfa6ssg32m5vr5r6fxk6qrlhhtvgtewztf8htjjfszzmfp6x0e5skcxnpq5yvspfn6ja",
+        "senderStakeKey": "stake1uyntdqplmm4ky9uhp95nm4efycppd5sar8u6gtvrfss2zxg3ryrdq",
+        "adaReceived": 3,
+        "slot": 63319298,
+        "utxo": {
+            "txHash": "7f82444a8d09939f82f1680d203ccc88174642a6a2e6f5bd8f184499529a1ee7",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "733edae70a97050048fef7fb71e567c76e766324983d3a5d85ab6bf663b55208": {
+        "senderAddr": "addr1qywdtnhe35jnsdxp58wrcqrdvuy7uhunnxhmhhm87xp3n950ldul4djau0kmmt3pufnq6pm02c0njl2grhp3p0ehffcswfjpl7",
+        "senderStakeKey": "stake1ux8lk706kew78mda4cs7yesdqah4v8ee04ypmscshum55ug09nr53",
+        "adaReceived": 3,
+        "slot": 63322324,
+        "utxo": {
+            "txHash": "733edae70a97050048fef7fb71e567c76e766324983d3a5d85ab6bf663b55208",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "9eeaa10ad91437de85d059ff08857c24e05e1fcf53b50e27b979895ee7416c8b": {
+        "senderAddr": "addr1qyfqawq7w65cz24htp7n27m97xedc6hq4arwdl0sy7yjtfp69kg4ysyd7yf0latgfzdrek7uy72dyp9d7aykvffnu3sqf0n5lf",
+        "senderStakeKey": "stake1uyazmy2jgzxlzyhl745y3x3um0wz09xjqjklwjtxy5e7gcqkrxmgq",
+        "adaReceived": 3,
+        "slot": 63324937,
+        "utxo": {
+            "txHash": "9eeaa10ad91437de85d059ff08857c24e05e1fcf53b50e27b979895ee7416c8b",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": false
+    },
+    "048b016d2baeae687b2278a2a2b27b250c330e64a539a4e9ee82f2ef81c025b5": {
+        "senderAddr": "addr1q9rrd7gt7p5tc3jlar896d7vkp9nhhvtnhurp3u6tdwm8dzz6qu22k5hn0lfg4nswrd6hmnrsttuyd5hujxva28mkxwqa9t49e",
+        "senderStakeKey": "stake1u9pdqw99t2tehl552ec8pkatae3c947zx6t7frxw4ramr8qwhkmzn",
+        "adaReceived": 3,
+        "slot": 63326930,
+        "utxo": {
+            "txHash": "048b016d2baeae687b2278a2a2b27b250c330e64a539a4e9ee82f2ef81c025b5",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    },
+    "41ed49708e5e3cda0faf67913a1bf25136de0251e7221ce83f6f15467115afa7": {
+        "senderAddr": "addr1q8uyevjvkxddz3ch56f9rw98rd5rfj36s5f3fsyptd9v5kts4rm0fctal5krs3ha2yy67kxz7lesvah97slsztlllv4s39qzj0",
+        "senderStakeKey": "stake1u9c23ah5u97l6tpcgm74zzd0trp00ucxwmjlg0cp9lllk2cqq9fs6",
+        "adaReceived": 3,
+        "slot": 63326936,
+        "utxo": {
+            "txHash": "41ed49708e5e3cda0faf67913a1bf25136de0251e7221ce83f6f15467115afa7",
+            "txId": 0,
+            "value": {
+                "lovelace": 3000000
+            }
+        },
+        "isYesVote": true
+    }
+}
